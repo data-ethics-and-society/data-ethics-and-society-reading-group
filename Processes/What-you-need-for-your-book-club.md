@@ -1,8 +1,6 @@
 What you need for the book club - processes and planning
 ================
 
-# In Progress Draft Document ONLY DO NOT USE
-
 # Preparation
 
 ### Materials
@@ -185,6 +183,7 @@ What you need for the book club - processes and planning
         or from your team. Plan for deadlines for drafts/comments and
         edits/publication.
       - Publish\!
+      - Improve this repo ;)
 
 # Longer-Term Planning
 
