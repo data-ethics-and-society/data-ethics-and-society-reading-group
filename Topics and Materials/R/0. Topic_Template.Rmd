@@ -1,0 +1,62 @@
+---
+title: "Book Club Topic Template"
+output: 
+    github_document:
+    toc_float: TRUE
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+# allow embedding of tweets to show threads from our bookclubs
+library(tweetrmd)
+library(webshot2)
+library(default)
+
+# set screenshots to smaller size than default
+default(tweet_screenshot) <- list(scale = 1)
+
+```
+
+# Topic Name
+
+
+
+## Materials
+
+### Materials for Book Club
+
+[consider putting highest priority item in **bold**]
+
+### Further Reading 
+This may be a longlist of materials considered, or further reading given as options for attendees.
+
+## Questions
+
+### Pre-Event Prompt Questions
+
+### Facilitator Prompt Questions
+
+## Outputs
+
+### Live Tweets/Commentary
+
+For tweets from the evening see [here]() (Add link as appropriate dated Twitter search eg https://twitter.com/search?q=(%23dkbookclub%20OR%20%23dkethicsbookclub)%20until%3A2019-11-28%20since%3A2019-11-26&src=typed_query&f=live).
+```{r echo = TRUE}
+
+## If you have a twitter thread during the book club find representative tweet and embed
+## uses the "tweetrmd" https://github.com/gadenbuie/tweetrmd package. 
+
+#----------------------------------------------------------------------
+#UNCOMMENT AND REPLACE URL
+#tweet_screenshot("https://twitter.com/DataKindUK/status/1113134735243595786")
+
+
+```
+
+### Blog
+
+## Feedback
+
+## Notes or other comments
+
