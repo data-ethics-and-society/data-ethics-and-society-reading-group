@@ -1,8 +1,6 @@
 Data Ethics Book Club in a Box
 ================
 
-# data-ethics-book-club-in-a-box
-
 DataKind UK Data Ethics Book Club processes and materials
 
 This is [DataKind UK](https://datakind.org.uk/)’s intro to setting up a
@@ -59,3 +57,19 @@ provided:
 
   - [All
     materials](/Topics%20and%20Materials/All-Reading-Materials---2019.md)
+
+## Suggestions or Changes?
+
+Please do contribute to the repo via Github (there’s a helpful guide to
+web-based changes
+[here](https://github.com/Data4Democracy/ethics-research) or use the git
+commandline if you prefer) or you can get in touch at
+<contact@datakind.org.uk>
+
+## Want to join in?
+
+The DataKind UK Data Ethics Book Club continues in 2020\! Keep an eye
+out for local and remote events
+[here](https://www.eventbrite.co.uk/o/datakind-uk-4112514489) or [sign
+up](https://datakind.org.uk/) to get newsletters/join the \#ethics Slack
+channel.
