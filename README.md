@@ -1,9 +1,11 @@
 # Data Science: Ethics & Society Reading Group
+
 Built off of, inspired by, and borrowing **heavily** from [Ethics Book Club in a
 Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from
-[DataKind UK](https://datakind.org.uk/): an intro to setting up a data ethics
-book club.
-================
+[DataKind UK](https://datakind.org.uk/): an intro to setting up a data ethics book club.
+
+---
+
 
 Centered around [Data Feminism](https://data-feminism.mitpress.mit.edu/) by
 Catherine D'Ignazio and Lauren Klein, this reading group intends to challenge
