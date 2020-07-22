@@ -31,30 +31,6 @@ General processes for a book club are found in [Processes](/Processes).
   - [Sample Hosting Guide](/Processes/Sample-Hosting-Guide.md)
   - [Sample Book Club FAQs](/Processes/Sample-Book-Club-FAQs.md)
 
-## Topics
-
-These topics were run by DataKind UK during 2019. They may help others
-get started too\!
-
-1.  [Impacts of
-    Algorithms](/Topics%20and%20Materials/1.-Impacts-of-Algorithms.md)
-2.  [Facial
-    Recognition](/Topics%20and%20Materials/2.-Facial-Recognition.md)
-3.  [Fairness in AI](/Topics%20and%20Materials/3.-Fairness-in-AI.md)
-4.  [Self-Driving
-    Cars](/Topics%20and%20Materials/4.-Self-driving-Cars.md)
-5.  [AI and Gender](/Topics%20and%20Materials/5.-AI-and-Gender.md)
-6.  [AI and Financial
-    Inclusion](/Topics%20and%20Materials/6.-AI-and-Financial-Inclusion.md)
-7.  [AI and Race](/Topics%20and%20Materials/7.-AI-and-Race.md)
-
-## Materials
-
-All materials used in the DataKind UK Data Ethics Book club are also
-provided:
-
-  - [All
-    materials](/Topics%20and%20Materials/All-Reading-Materials---2019.md)
 
 ## Suggestions or Changes?
 
