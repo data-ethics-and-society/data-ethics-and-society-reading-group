@@ -8,12 +8,10 @@ Hosts should also adhere to the Facilitator Guide.
 
 ### Opening the Event
 
-  - Intro to DataKind UK and why we are interested in ethics
-  - Welcome from the sponsor (e.g. if being hosted at a company’s
-    meeting space)
+  - Intro to the reading group, cross-government data science community, and why we are interested in ethics
+  - Welcome from the hosts
   - Reminder of the topic and materials
-  - Reminder of others: We are running the book club simultaneously with
-    friends in Scotland and online
+  - Reminder of others: DataKind UK (and their [upcoming event](https://www.eventbrite.co.uk/e/online-data-science-ethics-book-club-11-data-and-social-change-movements-tickets-113751574020))
   - Tell community this is a safe space:
       - to explore ideas and opinions.
       - Everyone should listen actively with a **generous and open
@@ -21,25 +19,22 @@ Hosts should also adhere to the Facilitator Guide.
       - do not interrupt or criticise others,
       - consciously aim to help everyone to speak for roughly equal time
       - If anyone feels uncomfortable at any time do speak with
-        \[**named responsible individual/s **\]
+        \[**Hillary**\]
       - Chatham House
         [rules](https://www.chathamhouse.org/chatham-house-rule)
-  - Ask people to get into groups of 6-8
+  - Signpost people to the relevant group
   - Point out the facilitators
-  - Ask people to put thoughts on Twitter \[**your hashtag here**\] but
+  - Ask people to put thoughts on Twitter \[**govethicsbookclub**\] but
     paraphrase what people say if needed, as it is Chatham House
   - There'll be a break in the middle (go round and remind the groups of
-    this at 7:30pm) and give option for people to move groups at this
-    time - or any time if they want to\!
+    this at \[xpm\]) 
 
 ### End
 
   - Ask participants if anyone would like to write a blog about the book
     club around the questions discussed
   - Let everyone know about the next book club
-  - No one location, always looking for hosts. if your organisation
-    would like to host a bookclub - et us know
+  - Let us know
       - If you would like to facilitate
       - If you have ideas about future topics
-  - We will send out a feedback survey tomorrow.
-  - Thanks again to the sponsor
+  - We will send out a feedback survey.
