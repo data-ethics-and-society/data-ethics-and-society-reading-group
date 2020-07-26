@@ -1,6 +1,7 @@
 What you need for the book club - processes and planning
 ================
 
+**Please note that this document has not yet been edited from the DataKind UK original material.**
 # Preparation
 
 ### Materials

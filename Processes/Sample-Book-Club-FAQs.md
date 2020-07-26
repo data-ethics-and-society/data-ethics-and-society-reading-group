@@ -1,6 +1,8 @@
 Sample FAQs
 ================
 
+**Please note that this document has not yet been edited from the DataKind UK original material.**
+
 ### Why are you doing this?
 
 We think that discussing the ethics and impacts of data science is
