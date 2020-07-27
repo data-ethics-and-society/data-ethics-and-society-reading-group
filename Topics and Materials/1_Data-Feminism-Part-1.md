@@ -9,6 +9,7 @@ Data Science: Ethics & Society Reading Group Materials
 
 __Main text:__ Data Feminism [(open review version)](https://bookbook.pubpub.org/data-feminism) (Intro & chapters
 1 - 5 only), _Catherine D'Ignazio & Lauren Klein_.
+
 A fully open-access version of this text will soon be available. In the
 meantime, attendees of the event can be sent a link to a digital version of the
 text upon request (please email one of the course leaders). Please **do not share** this digital copy of the book outside of the group.
@@ -32,14 +33,15 @@ __Quick read:__
 * [Catherine D’Ignazio: 'Data is never a raw, truthful input – and it is never
   neutral'](https://www.theguardian.com/technology/2020/mar/21/catherine-dignazio-data-is-never-a-raw-truthful-input-and-it-is-never-neutral),
   _Zoe Corbyn_ for The Guardian 2020 (5 minute read)
+  
 * [Putting Data Back Into
   Context](https://datajournalism.com/read/longreads/putting-data-back-into-context),
-  _Catherine D'Ignazio_, DataJournalism.com
+  _Catherine D'Ignazio_, DataJournalism.com (10 minute read)
   
 * [“Having Trouble Explaining Oppression? This Comic Can Do It for
   You](https://everydayfeminism.com/2017/01/trouble-explaining-oppression/)
-  Robot Hugs, 2017 (3
-  minute read) 
+  Robot Hugs, 2017 (3 minute read) 
+  
 * [The Matrix of Domination and the Four Domains of
   Power](https://www.blackfeminisms.com/matrix/), Black Feminisms, 2019 (5 minute read)
 
@@ -56,6 +58,7 @@ __Short watch:__
 
 __Visual story:__
 * [U.S Gun Deaths](https://guns.periscopic.com/?year=2013), Periscopic
+
 * _Mimi Onuoha’s_ [Library of Missing Datasets](https://mimi-onuoha-9s0o.squarespace.com/the-library-of-missing-datasets) ([github repo](https://github.com/MimiOnuoha/missing-datasets))
 
 ### Further Reading
