@@ -8,7 +8,7 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from
 
 
 Centered around [Data Feminism](https://data-feminism.mitpress.mit.edu/) by
-Catherine D'Ignazio and Lauren Klein, this reading group intends to broaden and
+Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)), this reading group intends to broaden and
 challenge our understanding of data ethics and its place in our Data Practice across government. 
 
 The aims of the book club, adapted from DataKind UK, are:
@@ -33,7 +33,7 @@ General processes for a book club are found in [Processes](/Processes).
 
 ## Suggestions or Changes?
 
-We welcome suggestions, please do contribute to the repo via Github or you can
+We welcome suggestions, please do contribute to the repo via a Github Pull Request or you can
 get in touch at
 [datasciencecampus@ons.gov.uk](mailto:datasciencecampus@ons.gov.uk), or join the
 conversation in the #ethics channel of the X-Gov data science slack.
