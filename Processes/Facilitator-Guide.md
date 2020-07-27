@@ -5,32 +5,20 @@ This can be given to facilitators in advance of the book club as a
 general help to set expectations etc. We also have specific facilitator
 prompts for each topic.
 
-### Part 1: Welcoming
+### Part 1: Welcoming (for in-person events)
 
   - Have one or two people at the entrance to welcome people in
   - Ask people to write out a name label, if they so wish. Include
-    pronouns (if you feel comfortable with this\!)
+    pronouns (if you feel comfortable with this)
   - Let them know when we'll be starting (e.g. 630pm doors for 6:45pm
     start)
 
-### Part 2: Introduction
+### Part 2: Group Discussion
 
-  - Start by welcoming everyone to the session
-  - Make sure everyone has snacks, drinks, knows where the loo is, etc.
-  - Let everyone know that this is a safe space to explore ideas and
-    opinions. Request that everyone listens actively with a generous and
-    open mind, that they do not interrupt or criticise others, and that
-    they consciously aim to help everyone to speak for roughly equal
-    time.
-  - Let everyone know the discussion is under [Chatham house
-    rule](https://www.chathamhouse.org/chatham-house-rule)
-  - Explain the schedule for the evening - e.g. divide into groups,
-    break halfway through, mix groups for second half, end by 8:30pm,
-    pub afterwards
-
-### Part 3: Group Discussion
-
-  - Groups should be no more than 8 people with one facilitator
+  - Groups should be 5-9 people with one facilitator.
+  - Remind the group of the schedule for the evening: discussion time should have a 5 minute
+    coffee/ loo break halfway through, before regrouping 5 minutes before the
+    end.
   - Ask people to introduce themselves - perhaps you could ask everyone
     to say their names, and one word they would use to sum up the
     book/article they read or the topic
@@ -49,19 +37,6 @@ prompts for each topic.
     conversation**
   - Let participants know that they are free to move around the room,
     between groups
-
-### Part 4: Wrap-Up
-
-  - Summarise some of the most important and/or interesting points which
-    were discussed
-  - Thank everyone for their time and contributions
-  - Announce the next book club date and topic
-  - Check out? If you wanted to, you could do a quick check out and ask
-    people to sum up in one sentence what they are taking away from the
-    discussion
-  - Encourage people to give feedback about the book club on how to
-    improve it - they'll be a link to a google form which will get
-    emailed out following the session
 
 -----
 
