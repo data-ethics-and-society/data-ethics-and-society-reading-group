@@ -60,8 +60,8 @@ __Visual story:__
 
 ### Further Reading
 
-* [[Hidden Figures: The American Dream and the Untold Story of the Black Women Who
-Helped Win the Space Race](https://en.wikipedia.org/wiki/Hidden_Figures_(book), _Margot Lee Shetterly_, 2016
+* <a href="https://en.wikipedia.org/wiki/Hidden_Figures_(book)">Hidden Figures: The American Dream and the Untold Story of the Black Women Who
+Helped Win the Space Race</a>, _Margot Lee Shetterly_, 2016
 
 * [[When proof is not
 enough](https://fivethirtyeight.com/features/when-proof-is-not-enough/), _Mimi
