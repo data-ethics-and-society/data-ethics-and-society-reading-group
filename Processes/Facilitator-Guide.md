@@ -92,7 +92,7 @@ prompts for each topic.
 
 ### Be prepared
 
-  - Have some questions ready. Both the general, and the specific (see [here]() for specific question prompts).
+  - Have some questions ready. Both the general, and the specific (see [here](Topics and Materials/Session-1-Facilitator-Qs.md) for specific question prompts).
   - General questions might be:
       - What did you think about what you read?
           - What was your favourite idea/passage in the piece?
