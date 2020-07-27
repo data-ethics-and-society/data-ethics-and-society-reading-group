@@ -35,8 +35,15 @@ prompts for each topic.
     with in the book/article
   - **It's your role to make sure that no one person is dominating the
     conversation**
-  - Let participants know that they are free to move around the room,
-    between groups
+    
+### Part 3: Wrap-Up
+
+  - Summarise some of the most important and/or interesting points which
+    were discussed
+  - Check out? If you wanted to, you could do a quick check out and ask
+    people to sum up in one sentence what they are taking away from the
+    discussion
+  - Signpost people to regroup in the main event
 
 -----
 
@@ -85,7 +92,7 @@ prompts for each topic.
 
 ### Be prepared
 
-  - Have some questions ready. Both the general, and the specific.
+  - Have some questions ready. Both the general, and the specific (see [here]() for specific question prompts).
   - General questions might be:
       - What did you think about what you read?
           - What was your favourite idea/passage in the piece?
