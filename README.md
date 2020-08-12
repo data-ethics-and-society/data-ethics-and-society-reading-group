@@ -39,3 +39,10 @@ get in touch at
 conversation in the #ethics channel of the X-Gov data science slack.
 
 
+## Next session 
+
+Next session will be on the 25th August, 4-5pm. 
+Click her to register to [attend](https://www.eventbrite.co.uk/e/data-science-ethics-and-society-reading-group-tickets-109605695586)
+
+
+

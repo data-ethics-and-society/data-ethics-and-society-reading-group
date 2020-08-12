@@ -43,3 +43,15 @@ Session 1: Discussion Prompts
       gender/race/ethnicity disaggregated data, effect of occupational
       differences (to health and economic stability), caregiving, Data for black lives crowdsourcing getting data on race and ethnicity in the US
 
+
+##### Table 2.1 From data ethics to data justice from Data Feminism
+
+| Concepts That Secure Power Because they locate the source of the problem in individuals or technical systems | Concepts That Challenge Power Because they acknowledge structural power differentials and work toward dismantling them |
+|---|---|
+| Ethics | Justice |
+| Bias | Oppression |
+| Fairness | Equity |
+| Accountability | Co-liberation |
+| Transparency | Reflexivity |
+| Understanding algorithms | Understanding history, culture and context |
+
