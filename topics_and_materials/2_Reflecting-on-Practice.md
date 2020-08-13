@@ -1,7 +1,7 @@
 Data Science: Ethics & Society Reading Group Materials
 ================
 
-# Reflecting on Practice
+# Session 2: Reflecting on Practice
 
 ## Materials
 
