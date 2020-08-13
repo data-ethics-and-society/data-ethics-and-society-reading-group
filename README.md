@@ -26,8 +26,8 @@ General processes for a book club are found in [here](/process_guides).
 
   - [What to think about for your book
     club](/process_guides/What-you-need-for-your-book-club.md)
-  - [Sample Facilitator Guide](/process_guides/Sample-Facilitator-Guide.md)
-  - [Sample Hosting Guide](/process_guides/Sample-Hosting-Guide.md)
+  - [Facilitator Guide](/process_guides/Sample-Facilitator-Guide.md)
+  - [Hosting Guide](/process_guides/Sample-Hosting-Guide.md)
   - [Sample Book Club FAQs](/process_guides/Sample-Book-Club-FAQs.md)
 
 
