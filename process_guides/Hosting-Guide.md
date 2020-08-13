@@ -12,7 +12,7 @@ Hosts should also adhere to the Facilitator Guide.
   - Intro to the reading group, cross-government data science community, and why we are interested in ethics
   - Welcome from the hosts
   - Reminder of the topic and materials
-  - Reminder of others: DataKind UK (and their [upcoming event](https://www.eventbrite.co.uk/e/online-data-science-ethics-book-club-11-data-and-social-change-movements-tickets-113751574020))
+  - Reminder of others: DataKind UK (and any upcoming events)
   - Tell community this is a safe space:
       - to explore ideas and opinions.
       - Everyone should listen actively with a **generous and open

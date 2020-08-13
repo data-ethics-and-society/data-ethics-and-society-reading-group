@@ -92,6 +92,8 @@ prompts for each topic.
 
 ### Be prepared
 
-  - Have some questions ready. Both the general, and the specific (see [here](https://github.com/datasciencecampus/ethics_society_reading_group/blob/main/Topics%20and%20Materials/Session-1-Facilitator-Qs.md) for specific question prompts).
+  - Have some questions ready. Both the general, and the specific. Some
+    faciliator questions will be created and shared ahead of the event (see
+    [here](../topics_and_materials/Session-1-Facilitator-Qs.md) for an example)
   - Make sure you know how to enter back into the main event
   - Keep an eye on the time

@@ -147,13 +147,13 @@ What you need for the book club - processes and planning
         Large signs pointing along corridors? Hard copies of facilitator
         notes? Get those things\!
       - Get snacks, drinks, cups, nametags and pens.
-  - Use the [Hosting Guide](Sample-Hosting-Guide.md).
+  - Use the [Hosting Guide](Hosting-Guide.md).
   - **During Discussion**
       - Keep someone monitoring the door for latecomers (and/or the
         social media for people complaining the teleconferencing link is
         broken…).
       - Make sure Designated Tweeters are tweeting.
-      - Use the [Facilitator Guide](Sample-Facilitator-Guide.md).
+      - Use the [Facilitator Guide](Facilitator-Guide.md).
       - Break for snacks\!
   - **Ending the Book club**
       - Do you want to have groups report back to everybody? If so, each
