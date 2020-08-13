@@ -22,13 +22,13 @@ The aims of the book club, adapted from DataKind UK, are:
 
 ## Structure
 
-General processes for a book club are found in [Processes](/Processes).
+General processes for a book club are found in [here](/process_guides).
 
   - [What to think about for your book
-    club](/Processes/What-you-need-for-your-book-club.md)
-  - [Sample Facilitator Guide](/Processes/Sample-Facilitator-Guide.md)
-  - [Sample Hosting Guide](/Processes/Sample-Hosting-Guide.md)
-  - [Sample Book Club FAQs](/Processes/Sample-Book-Club-FAQs.md)
+    club](/process_guides/What-you-need-for-your-book-club.md)
+  - [Sample Facilitator Guide](/process_guides/Sample-Facilitator-Guide.md)
+  - [Sample Hosting Guide](/process_guides/Sample-Hosting-Guide.md)
+  - [Sample Book Club FAQs](/process_guides/Sample-Book-Club-FAQs.md)
 
 
 ## Suggestions or Changes?
@@ -42,7 +42,7 @@ conversation in the #ethics channel of the X-Gov data science slack.
 ## Next session 
 
 Next session will be on the 25th August, 4-5pm. 
-Click her to register to [attend](https://www.eventbrite.co.uk/e/data-science-ethics-and-society-reading-group-tickets-109605695586)
+Click here to register to [attend](https://www.eventbrite.co.uk/e/data-science-ethics-and-society-reading-group-tickets-109605695586)
 
 
 
