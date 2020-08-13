@@ -10,9 +10,15 @@ Data Science: Ethics & Society Reading Group Materials
 * Should we think critically about 'public good' as civil servants?
 * Is working through a lens of intersectional feminism in direct conflict with public sector 'neutrality'?
 
-### Materials for Book Club
+### Materials for Book Club 
 
-Below is a selection of supplementary reading material.
+__Main text:__ Data Feminism [(open review version)](https://bookbook.pubpub.org/data-feminism), _Catherine D'Ignazio & Lauren Klein_.
+
+A fully open-access version of this text will soon be available. In the
+meantime, attendees of the event can be sent a link to a digital version of the
+text upon request (please email one of the course leaders). Please **do not share** this digital copy of the book outside of the group.
+
+__For this session, please focus on the following selection of supplementary reading material__
 
 __Quick reads:__
 * [Police built an AI to predict violent crime. It was seriously
