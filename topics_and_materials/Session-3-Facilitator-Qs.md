@@ -37,6 +37,9 @@ A few ideas of specific points of discussion, based on the material:
   public sector 'neutrality'?
   
 #### Specific discussion points for Chapters 6+ of Data Feminism for civil servants:
+- Is there 'hidden labour' involved in data science practice in the civil
+  service?
 - Is the concept of 'technochauvinism', the belief that the technological
   solution to a problem is the right one, useful?
+
 
