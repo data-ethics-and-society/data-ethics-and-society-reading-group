@@ -7,8 +7,8 @@ Data Science: Ethics & Society Reading Group Materials
 
 ### Materials for Book Club
 
-__Main text:__ Data Feminism [(open review version)](https://bookbook.pubpub.org/data-feminism) (Intro & chapters
-1 - 5 only), _Catherine D'Ignazio & Lauren Klein_.
+__Main text:__ Data Feminism [(open review
+version)](https://bookbook.pubpub.org/data-feminism) (Chapter 6 onwards), _Catherine D'Ignazio & Lauren Klein_.
 
 A fully open-access version of this text will soon be available. In the
 meantime, attendees of the event can be sent a link to a digital version of the
