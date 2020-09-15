@@ -39,10 +39,10 @@ get in touch at
 conversation in the #ethics channel of the X-Gov data science slack.
 
 
-## Next session 
+## Sessions
 
-Next session will be on the 25th August, 4-5pm. 
-Click here to register to [attend](https://www.eventbrite.co.uk/e/data-science-ethics-and-society-reading-group-tickets-109605695586)
-
+* [Data Feminism Part 1](https://datasciencecampus.github.io/ethics_society_reading_group/topics_and_materials/1_Data-Feminism-Part-1.html)
+* [Reflecting on Practice](https://datasciencecampus.github.io/ethics_society_reading_group/topics_and_materials/2_Reflecting-on-Practice.md.html)
+* [Data Feminism Part 2](https://datasciencecampus.github.io/ethics_society_reading_group/topics_and_materials/1_Data-Feminism-Part-3.html)
 
 
