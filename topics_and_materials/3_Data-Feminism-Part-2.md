@@ -32,7 +32,7 @@ __Journal articles:__
   Wikipedia's infrastructure and the gender
   gap](https://www.researchgate.net/publication/311769445_%27Anyone_can_edit%27_not_everyone_does_Wikipedia%27s_infrastructure_and_the_gender_gap).
   Social Studies of Science. 47. 10.1177/0306312717692172. (25 minute read)
-
+  * Given the nature of this article, what user information should be stated alongside data visualisations such as this: https://pudding.cool/2019/06/people-map-uk/
 ### Further Reading
 
 * [Critical Race & Digital Studies Syllabus](https://criticalracedigitalstudies.com/syllabus/), Center For Critical Race & Digital
