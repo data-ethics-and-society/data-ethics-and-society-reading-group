@@ -4,24 +4,6 @@ Built off of, inspired by, and borrowing **heavily** from [Ethics Book Club in a
 Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from
 [DataKind UK](https://datakind.org.uk/): an intro to setting up a data ethics book club.
 
----
-
-## Next Session: Bias in Data Science
-
-The next session in the series will focus on bias in Data Science. 
-
----
-
-## Past Sesssions
-
-### Data Feminism
-
-Centered around [Data Feminism](https://data-feminism.mitpress.mit.edu/) by
-Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)), this reading group intends to broaden and
-challenge our understanding of data ethics and its place in our Data Practice across government. 
-
----
-
 ## Aims
 
 
@@ -43,6 +25,24 @@ General processes for a book club are found in [here](/process_guides).
   - [Facilitator Guide](/process_guides/Facilitator-Guide.md)
   - [Hosting Guide](/process_guides/Hosting-Guide.md)
   - [Sample Book Club FAQs](/process_guides/Sample-Book-Club-FAQs.md)
+
+---
+
+## Next Session: Bias in Data Science
+
+The next session in the series will focus on bias in Data Science. 
+
+---
+
+## Past Sesssions
+
+### Data Feminism
+
+Centered around [Data Feminism](https://data-feminism.mitpress.mit.edu/) by
+Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)), this reading group intends to broaden and
+challenge our understanding of data ethics and its place in our Data Practice across government. 
+
+---
 
 
 ## Suggestions or Changes?
