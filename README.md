@@ -6,10 +6,24 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from
 
 ---
 
+## Next Session: Bias in Data Science
+
+The next session in the series will focus on bias in Data Science. 
+
+---
+
+## Past Sesssions
+
+### Data Feminism
 
 Centered around [Data Feminism](https://data-feminism.mitpress.mit.edu/) by
 Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)), this reading group intends to broaden and
 challenge our understanding of data ethics and its place in our Data Practice across government. 
+
+---
+
+## Aims
+
 
 The aims of the book club, adapted from DataKind UK, are:
 
@@ -37,12 +51,4 @@ We welcome suggestions, please do contribute to the repo via a Github Pull Reque
 get in touch at
 [datasciencecampus@ons.gov.uk](mailto:datasciencecampus@ons.gov.uk), or join the
 conversation in the #ethics channel of the X-Gov data science slack.
-
-
-## Sessions
-
-* [Data Feminism Part 1](https://datasciencecampus.github.io/ethics_society_reading_group/topics_and_materials/1_Data-Feminism-Part-1.html)
-* [Reflecting on Practice](https://datasciencecampus.github.io/ethics_society_reading_group/topics_and_materials/2_Reflecting-on-Practice.md.html)
-* [Data Feminism Part 2](https://datasciencecampus.github.io/ethics_society_reading_group/topics_and_materials/1_Data-Feminism-Part-3.html)
-
 
