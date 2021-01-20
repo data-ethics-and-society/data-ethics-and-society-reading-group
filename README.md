@@ -28,15 +28,15 @@ General processes for a book club are found in [here](/process_guides).
 
 ---
 
-## Next Session: Bias in Data Science
+## Next Session: 4: Bias in Data Science
 
 The next session in the series will focus on bias in Data Science. 
 
 ---
 
-## Past Sesssions
+## Past Sessions
 
-### Data Feminism
+### 1-3: Data Feminism
 
 Centered around [Data Feminism](https://data-feminism.mitpress.mit.edu/) by
 Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)), this reading group intends to broaden and
