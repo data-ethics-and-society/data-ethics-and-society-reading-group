@@ -18,7 +18,7 @@ The aims of the book club, adapted from DataKind UK, are:
 
 ## Structure
 
-General processes for a book club are found in [here](/process_guides).
+General processes for a book club are found in [here](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Guides).
 
   - [What to think about for your book
     club](/Guides/What-you-need-for-your-book-club.md)
@@ -30,7 +30,7 @@ General processes for a book club are found in [here](/process_guides).
 
 ## Next Session: 4: Bias in Data Science
 
-The next session in the series will focus on [Bias in Data Science](/Sessions/Bias_in_data_science). 
+The next session in the series will focus on [Bias in Data Science](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Sessions/Bias_in_Data_Science). 
 
 ---
 
@@ -38,7 +38,7 @@ The next session in the series will focus on [Bias in Data Science](/Sessions/Bi
 
 ### 1-3: Data Feminism
 
-The first three sessions focused on [Data Feminism](/Sessions/Data_feminism), centered around [the Data Feminism book](https://data-feminism.mitpress.mit.edu/) by
+The first three sessions focused on [Data Feminism](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Sessions/Data_feminism), centered around [the Data Feminism book](https://data-feminism.mitpress.mit.edu/) by
 Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)), this reading group intends to broaden and
 challenge our understanding of data ethics and its place in our Data Practice across government. 
 
