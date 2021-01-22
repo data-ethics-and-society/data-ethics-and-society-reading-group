@@ -18,7 +18,7 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 
 Bias “[uncountable, countable] the fact that the results of research or an experiment are not accurate because a particular factor has not been considered when collecting the information”
 
-Research list “create a page, that would include the list”. If you would like to contribute to the list, submit a comment.
+[Click here for the research list](bias_research_list.md). If you would like to contribute to the list, submit a comment.
 
 ---
 
