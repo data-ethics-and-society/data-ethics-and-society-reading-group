@@ -1,3 +1,5 @@
+These are not pre-requisite reading material for attendance, but a compliation of material the team find interesting and would read if they themselves have unlimited time.
+
 ## YouTube Videos
 
 - Arvind Narayan, [21 Definitions of Fairness](https://www.youtube.com/watch?v=jIXIuYdnyyk) (55 mins)
