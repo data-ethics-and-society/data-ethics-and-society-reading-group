@@ -30,7 +30,7 @@ General processes for a book club are found in [here](https://github.com/datasci
 
 ## Next Session: 4: Bias in Data Science
 
-The next session in the series will focus on [Bias in Data Science](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Sessions/Bias_in_Data_Science). 
+The next session in the series will focus on [Bias in Data Science](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Sessions/Bias_in_Data_Science). Bias “[uncountable, countable] the fact that the results of research or an experiment are not accurate because a particular factor has not been considered when collecting the information”
 
 ---
 
