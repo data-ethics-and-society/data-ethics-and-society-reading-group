@@ -24,7 +24,7 @@ If you would like to contribute to the list, submit an [issue](https://github.co
 
 This meetup is exclusively for the public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
 
-If you would like to receive the EventBrite link, please email [datacampus@ons.gov.uk](datacampus@ons.gov.uk).
+If you would like to receive the EventBrite link, please email [datacampus@ons.gov.uk](datacampus@ons.gov.uk) or visit the Gov Data Science Slack ethics channel.
 
 #### Frequently asked questions
 
