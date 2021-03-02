@@ -18,6 +18,8 @@ Bias “[uncountable, countable] the fact that the results of research or an exp
 
 [Reading list can be seen on our github.](Sessions/Bias_in_Data_Science/Session_4/bias_research_list.md). 
 
+[Disscussion questions](Sessions/Bias_in_Data_Science/Session_4/questions.md) 
+
 If you would like to contribute to the list, submit an [issue](https://github.com/datasciencecampus/ethics_society_reading_group/issues).
 
 #### Registration
