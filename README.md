@@ -18,6 +18,8 @@ Bias “[uncountable, countable] the fact that the results of research or an exp
 
 [Reading list can be seen on our github.](Sessions/Bias_in_Data_Science/Session_4/bias_research_list.md). 
 
+[Discussion questions](Sessions/Bias_in_Data_Science/Session_4/questions.md) 
+
 If you would like to contribute to the list, submit an [issue](https://github.com/datasciencecampus/ethics_society_reading_group/issues).
 
 #### Registration
@@ -61,3 +63,4 @@ Built off of, inspired by, and borrowing heavily from [Ethics Book Club in a
 Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKind UK](https://datakind.org.uk/): an intro to setting up a data ethics book club.
 
 ---
+
