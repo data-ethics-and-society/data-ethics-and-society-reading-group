@@ -46,10 +46,9 @@ If you would like to receive the EventBrite link, please email [datacampus@ons.g
 
 - If you have any suggestions or requests regarding accessibility features, please email Government.Data.Science.Conference@ons.gov.uk
 
-#### Privacy Statement
+#### Privacy statement
 
 [ONS Privacy Statement](https://www.ons.gov.uk/aboutus/transparencyandgovernance/dataprotection/privacyinformationforourstakeholders)
-
 
 ---
 
@@ -74,3 +73,4 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 ---
 
 This website has passed the Government's [accessibility criteria](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag). If you want to raise anything related to its accessibility, please email Government.Data.Science.Conference@ons.gov.uk
+
