@@ -16,9 +16,15 @@ prompts for each topic.
 ### Part 2: Group Discussion
 
   - Groups should be 5-9 people with one facilitator.
+  - Remind the group of the schedule for the evening: discussion time should have a 5 minute
+    coffee/ loo break halfway through, before regrouping 5 minutes before the
+    end.
   - Ask people to introduce themselves - perhaps you could ask everyone
     to say their names, and one word they would use to sum up the
     book/article they read or the topic
+  - Introduce the book and articles - who read what? (could be a show of
+    hands) - this will give you an idea of what to focus on (e.g. if no
+    one read an article, don't focus on that one)
   - Warm up by reading over the pre-set questions to get people thinking
   - Encourage someone to start with sharing something they found
     interesting, e.g. an idea, opinion or a quote they liked or didn't
@@ -28,7 +34,7 @@ prompts for each topic.
     to give their opinions on the topic and how this is reflected/dealt
     with in the book/article
   - **It's your role to make sure that no one person is dominating the
-    conversation**. For this, you may want to use the 1-2 method, whereby the person has one minute to make their discussion point, and everyone has two minutes to discuss it.
+    conversation**
     
 ### Part 3: Wrap-Up
 
@@ -87,6 +93,7 @@ prompts for each topic.
 ### Be prepared
 
   - Have some questions ready. Both the general, and the specific. Some
-    faciliator questions will be created and shared ahead of the event
+    faciliator questions will be created and shared ahead of the event (see
+    [here](../topics_and_materials/Session-1-Facilitator-Qs.md) for an example)
   - Make sure you know how to enter back into the main event
   - Keep an eye on the time

@@ -2,9 +2,9 @@ Hosting Guide
 ================
 
 This can help hosts of the book club events - especially useful if you
-rotate hosts, have multiple locations or online meetings.
+rotate hosts, have multiple locations or online meetings. 
 
-Hosts should also adhere to the Facilitator Guide.
+Hosts should also adhere to the [Facilitator Guide](Guides/Facilitator-Guide.md).
 
 ### Opening the Event
 
@@ -32,9 +32,22 @@ Hosts should also adhere to the Facilitator Guide.
     paraphrase what people say if needed, as it is Chatham House
   - There'll be a break in the middle of the discussion.
 
-### End
+### Introduce Lightning Talk Speakers
 
-### Part 3: Wrap-Up
+  - Provide a short introduction to each speaker: who they are, and what they will be talking about
+  - Act as a time-keeper for talks
+  
+### Break-out Discussions
+
+  - After the lightning talks split people into break-out rooms for group discussions.
+  - If also facilitating, follow the [Facilitator Guide](Guides/Facilitator-Guide.md).
+
+### Group Discussions
+
+  - Ask if anyone wishes to contribute back to the group from their group discussions.
+  - Follow the [Facilitator Guide](Guides/Facilitator-Guide.md) for this.
+
+### Wrap up
 
   - Thank everyone for their time and contributions
   - Announce the next book club date and topic
