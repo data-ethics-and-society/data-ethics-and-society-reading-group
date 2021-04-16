@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 Title:
-Material type: Article / Blog Post / Video / Report / Podcast
+Material type: Article / Blog Post / Video / Report / Podcast / Framework
 Short blurb:
 Reading/watch time (if known):
 Any other comments:
