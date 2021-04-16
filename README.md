@@ -24,11 +24,13 @@ Everyone should be given the opportunity to regroup and to raise any discussion 
 
 ### Next Session
 
-#### TBC
+#### Communcating with Data (25th May 2021)
 
-If you would like to contribute to the list, submit an [issue](https://github.com/datasciencecampus/ethics_society_reading_group/issues).
+We are currently planning our next session: Commincating with Data. This will look at accessible, responsible and equitable data communication. If you would like to contribute to the reading list, submit an [request here](https://github.com/datasciencecampus/ethics_society_reading_group/issues).
 
 #### Registration
+
+The EventBrite link will be posted here soon.
 
 This meetup is exclusively for the public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
 
