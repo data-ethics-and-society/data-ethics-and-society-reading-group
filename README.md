@@ -1,5 +1,28 @@
-# Data Ethics and Society Reading Group
-
+██████   █████ ████████  █████      ███████ ████████ ██   ██ ██  ██████ ███████         
+██   ██ ██   ██   ██    ██   ██     ██         ██    ██   ██ ██ ██      ██              
+██   ██ ███████   ██    ███████     █████      ██    ███████ ██ ██      ███████         
+██   ██ ██   ██   ██    ██   ██     ██         ██    ██   ██ ██ ██           ██         
+██████  ██   ██   ██    ██   ██     ███████    ██    ██   ██ ██  ██████ ███████         
+                                                                                        
+ █████  ███    ██ ██████      ███████  ██████   ██████ ██ ███████ ████████ ██    ██     
+██   ██ ████   ██ ██   ██     ██      ██    ██ ██      ██ ██         ██     ██  ██      
+███████ ██ ██  ██ ██   ██     ███████ ██    ██ ██      ██ █████      ██      ████       
+██   ██ ██  ██ ██ ██   ██          ██ ██    ██ ██      ██ ██         ██       ██        
+██   ██ ██   ████ ██████      ███████  ██████   ██████ ██ ███████    ██       ██        
+                                                                                        
+██████  ███████  █████  ██████  ██ ███    ██  ██████                                    
+██   ██ ██      ██   ██ ██   ██ ██ ████   ██ ██                                         
+██████  █████   ███████ ██   ██ ██ ██ ██  ██ ██   ███                                   
+██   ██ ██      ██   ██ ██   ██ ██ ██  ██ ██ ██    ██                                   
+██   ██ ███████ ██   ██ ██████  ██ ██   ████  ██████                                    
+                                                                                        
+ ██████  ██████   ██████  ██    ██ ██████                                               
+██       ██   ██ ██    ██ ██    ██ ██   ██                                              
+██   ███ ██████  ██    ██ ██    ██ ██████                                               
+██    ██ ██   ██ ██    ██ ██    ██ ██                                                   
+ ██████  ██   ██  ██████   ██████  ██        
+> Data Ethics and Society Reading Group 
+ 
 _“Data Science isn’t neutral”;_ books such as Race After Technology, Invisible Woman and Data Feminism have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
 The Data Science and Ethics Society reading group is a space for public sector colleagues to reflect on the ethical implication of our work in response to research. For more information on how to host an event please see the [Hosting Guide](Guides/Hosting-Guide.md). The role of the host is to introduce the session, talk about ground rules, introduce speakers, and oversee final discussion points at the end of the session. Typically we run hour sessions using a 15-30-15 method but this is only a guide and times can be adjusted if there are fewer than three speakers, or a large attendance with lots of rooms, for example
@@ -61,6 +84,8 @@ If you would like to receive the EventBrite link, please email [datacampus@ons.g
 Bias “[uncountable, countable] the fact that the results of research or an experiment are not accurate because a particular factor has not been considered when collecting the information”, Oxford Learners Dictionary. If you want to run this session a [reading list can be seen on our github](Sessions/Bias_in_Data_Science/Session_4/bias_research_list.md). Furthermore, a set of [Discussion questions](Sessions/Bias_in_Data_Science/Session_4/questions.md) are also available.
 
 ### 1-3: Data Feminism
+
+
 
 The first three sessions focused on [Data Feminism](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Sessions/Data_feminism), centered around [the Data Feminism book](https://data-feminism.mitpress.mit.edu/) by
 Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)). If you want to run these sessions a reading list can be seen on our github: [session 1](Sessions/Data_Feminism/Session_1/1_Data-Feminism-Part-1.md), [session 2](Sessions/Data_Feminism/Session_2/2_Reflecting-on-Practice.md), [session 3](Sessions/Data_Feminism/Session_3/3_Data-Feminism-Part-2.md). Furthermore, a set of Discussion questions are also available: [session 1](Sessions/Data_Feminism/Session_1/Session-1-Facilitator-Qs.md), [session 2](Sessions/Data_Feminism/Session_2/Session-2-Facilitator-Qs.md), [session 3](Sessions/Data_Feminism/Session_3/Session-3-Facilitator-Qs.md).
