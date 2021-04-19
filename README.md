@@ -50,7 +50,7 @@ Everyone should be given the opportunity to regroup and to raise any discussion 
 
 ### Next Session
 
-#### Communcating with Data (25th May 2021)
+#### Communcating with Data (25th May 2021, 3pm to 4:30pm)
 
 We are currently planning our next session: Commincating with Data. This will look at accessible, responsible and equitable data communication. If you would like to contribute to the reading list, submit an [request here](https://github.com/datasciencecampus/ethics_society_reading_group/issues).
 
