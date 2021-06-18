@@ -1,0 +1,57 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "harrietrs",
+      "name": "Harriet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28767009?v=4",
+      "profile": "https://github.com/harrietrs",
+      "contributions": [
+        "eventOrganizing",
+        "ideas",
+        "design",
+        "content",
+        "question",
+        "blog"
+      ]
+    },
+    {
+      "login": "mshodge",
+      "name": "Michael",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15108577?v=4",
+      "profile": "https://github.com/mshodge",
+      "contributions": [
+        "eventOrganizing",
+        "ideas",
+        "content",
+        "question",
+        "infra",
+        "blog"
+      ]
+    },
+    {
+      "login": "HillaryJuma",
+      "name": "Hillary Juma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52030096?v=4",
+      "profile": "https://github.com/HillaryJuma",
+      "contributions": [
+        "eventOrganizing",
+        "ideas",
+        "content",
+        "question",
+        "infra",
+        "blog"
+      ]
+    },
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "data-ethics-and-society-reading-group",
+  "projectOwner": "ukgovdatascience",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
