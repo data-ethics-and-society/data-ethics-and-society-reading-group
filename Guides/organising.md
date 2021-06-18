@@ -1,6 +1,8 @@
 
 # How we organise the Data Science: Ethics & Society Reading Group
 
+As with much of this repository, the below borrows heavily from [Data Ethics Club](https://github.com/very-good-science/data-ethics-club).
+
 We've described how a typical meeting would run in the ['Facilitating'](./facilitating.md) document, and so this document is more about how people can contribute to the repository, and how we operate more generally.
 
 ## Deciding on material to read
