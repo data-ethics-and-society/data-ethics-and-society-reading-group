@@ -37,6 +37,6 @@ Unacceptable behaviours include but are not limited to:
 
 ## Reporting Procedure
 
-If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either Harriet or Michael.  
-Harriet: harriet.sands@hmtreasury.gov.uk  
-Michael: michael.hodge@statistics.gov.uk  
+If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either Harriet or Michael via the reading group email address.
+
+TODO: add email address
