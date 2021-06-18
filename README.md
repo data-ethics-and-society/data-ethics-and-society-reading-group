@@ -24,69 +24,68 @@
  ██████  ██   ██  ██████   ██████  ██                                                   
                                                              
 ```
-# Data Ethics and Society Reading Group 
- 
+
+# Data Ethics and Society Reading Group
+
 _“Data Science isn’t neutral”;_ books such as Race After Technology, Invisible Woman and Data Feminism have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
-The Data Science and Ethics Society reading group is a space for public sector colleagues to reflect on the ethical implication of our work in response to research. For more information on how to host an event please see the [Hosting Guide](Guides/Hosting-Guide.md). The role of the host is to introduce the session, talk about ground rules, introduce speakers, and oversee final discussion points at the end of the session. 
+The Data Science and Ethics Society discussion/reading group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically.
 
-### Session Framework
+The organisers are based in London and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join.
 
-#### Format A
+While you're here, you may also want to:
 
-Format A is a classic read group format. A book, book chapter or article is decided on by the group, and the group spends the session discussing the book.
+* [see the dates of our upcoming sessions](./SESSIONS.md).
+* enjoy our [reading list](./READING-LIST.md).
+* [suggest reading materials](#how-to-make-suggestions).
+* [get involved in organising](#get-involved).
+* [host a similar event](Guides/Hosting-Guide.md).
 
-##### Break-out Discussions (35 mins)
+## Stay in the loop
 
-The introduction is followed by semi-structured breakout out room discussions. The size of the rooms is up to you, but they should not be too large that people aren't able to contribute. Note though, some people may not want to contribute. To allow for time for everyone to talk you may want to adopt a 1-2 approach, where someone gets one minute to raise a point and everyone gets two minutes to respond. This should be a loose guide and not used to limit discussions though. If you do use this method, 10 people in a room would only get one minute each to talk about a point *they* want to talk about. Please refer to the [Facilitator Guide](Guides/Facilitator-Guide.md) for more information.
+The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join the :sparkles: :arrow_right: [**#ethics channel of the cross-government data science slack workspace](https://govdatascience.slack.com)**] :arrow_left: :sparkles: !
 
-##### Group Discussion (20 mins)
+We will also advertise sessions:
 
-Everyone should be given the opportunity to regroup and to raise any discussion points, if they wish to. Some may not want to. Again, the 1-2 method may be used. The organisers should close the session, providing guidance on how to continue to discussions going forward.
+* By putting the dates [right here in this repository](./SESSIONS.md).
+* We'll [tweet about it at #DSEthicsGroup](https://twitter.com/hashtag/DSEthicsGroup?src=hashtag_click)
 
-#### Format B
+## Get Involved
 
-Format B comprises lightning talks and discussions around several book chapters or articles that speakers want to talk about. This is run as an hours session using a 15-30-15 method but this is only a guide and times can be adjusted if there are fewer than three speakers, or a large attendance with lots of rooms.
+If you're interested in joining us in organising, please ping us on [Slack](https://govdatascience.slack.com/team/U01BSUWU0UE). We would really welcome new organisers.
 
-##### Lightning Talks (15 mins)
+### Organisers
 
-The sessions start with up to three lightning talks, each a maximum of five minutes. Talks may cover an interesting research paper, application, blog post, anything that fits to the theme of the session. Please refer to the [Lightning Talk Guide](Guides/Lightning-Talk-Guide.md) for more information.
+You can also contact us separately:
 
-##### Break-out Discussions (30 mins)
+* Harriet - [Slack](https://govdatascience.slack.com/team/U01BSUWU0UE)
+* Michael - [Slack](https://govdatascience.slack.com/team/UE7T99KTR)
+TODO: add twitter
 
-These talks are then followed by semi-structured breakout out room discussions. The size of the rooms is up to you, but they should not be too large that people aren't able to contribute. Note though, some people may not want to contribute. To allow for time for everyone to talk you may want to adopt a 1-2 approach, where someone gets one minute to raise a point and everyone gets two minutes to respond. This should be a loose guide and not used to limit discussions though. If you do use this method, 10 people in a room would only get one minute each to talk about a point *they* want to talk about. Please refer to the [Facilitator Guide](Guides/Facilitator-Guide.md) for more information.
+## How to make suggestions
 
-##### Group Discussion (15 mins)
+If you'd like to make a suggestion for what to read, please do whatever you'd prefer:
 
-Everyone should be given the opportunity to regroup and to raise any discussion points, if they wish to. Some may not want to. Again, the 1-2 method may be used. The organisers should close the session, providing guidance on how to continue to discussions going forward.
+* [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
+* make a Pull Request (PR)
 
 ---
 
-## Sessions and Reading List
-
-### Next Session
-
-#### Atlas of AI by Dr Kate Crawford (TBC)
-
-We are currently planning our next session: [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai) by Dr Kate Crawford. This will follow format A, that is, a session used to discuss the book. 
-
-#### Registration
-
-The registration details  will be posted here soon.
+## Attendance
 
 This meetup is exclusively for the public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
 
-#### Frequently Asked Questions
+### Frequently Asked Questions
 
-- Can I use a personal email address to register and access the event on Microsoft Teams?
+* Can I use a personal email address to register and access the event on Microsoft Teams?
 
 > Please register with your work address to help us check that you are a UK public sector employee. If you use a personal email address, your registration may be cancelled.
 
-- How do you make your events accessible to all attendees?
+* How do you make your events accessible to all attendees?
 
 > Microsoft Teams provides a live captioning feature for attendees to use. We encourage our speakers to design slides with accessibility in mind, and we will try our best to send the slides in advance.
 
-- If you have any suggestions or requests regarding accessibility features, please email Government.Data.Science.Conference@ons.gov.uk
+* If you have any suggestions or requests regarding accessibility features, please email []. TODO: add email
 
 #### Privacy statement
 
@@ -94,25 +93,46 @@ This meetup is exclusively for the public sector (central and local government a
 
 ---
 
-## Past Sessions
-
-### 4: Bias 
-
-Bias “[uncountable, countable] the fact that the results of research or an experiment are not accurate because a particular factor has not been considered when collecting the information”, Oxford Learners Dictionary. If you want to run this session a [reading list can be seen on our github](Sessions/Bias_in_Data_Science/Session_4/bias_research_list.md). Furthermore, a set of [Discussion questions](Sessions/Bias_in_Data_Science/Session_4/questions.md) are also available.
-
-### 1-3: Data Feminism
-
-The first three sessions focused on [Data Feminism](https://github.com/datasciencecampus/ethics_society_reading_group/tree/main/Sessions/Data_feminism), centered around [the Data Feminism book](https://data-feminism.mitpress.mit.edu/) by
-Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)). If you want to run these sessions a reading list can be seen on our github: [session 1](Sessions/Data_Feminism/Session_1/1_Data-Feminism-Part-1.md), [session 2](Sessions/Data_Feminism/Session_2/2_Reflecting-on-Practice.md), [session 3](Sessions/Data_Feminism/Session_3/3_Data-Feminism-Part-2.md). Furthermore, a set of Discussion questions are also available: [session 1](Sessions/Data_Feminism/Session_1/Session-1-Facilitator-Qs.md), [session 2](Sessions/Data_Feminism/Session_2/Session-2-Facilitator-Qs.md), [session 3](Sessions/Data_Feminism/Session_3/Session-3-Facilitator-Qs.md).
-
----
-
 ## Acknowledgements
 
-Built off of, inspired by, and borrowing heavily from [Ethics Book Club in a
+Built off of, inspired by, and borrowing heavily from:
+
+* [Ethics Book Club in a
 Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKind UK](https://datakind.org.uk/): an intro to setting up a data ethics book club.
+* [Data Ethics Club](https://github.com/very-good-science/data-ethics-club)
 
 ---
 
 This website has passed the Government's [accessibility criteria](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag). If you want to raise anything related to its accessibility, please email Government.Data.Science.Conference@ons.gov.uk
 
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/harrietrs"><img src="https://avatars.githubusercontent.com/u/28767009?v=4" width="100px;" alt=""/><br /><sub><b>harrietrs</b></sub></a><br /><a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a> <a href="#ideas-harrietrs" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-harrietrs" title="Design">🎨</a> <a href="#content-harrietrs" title="Content">🖋</a> <a href="#question-harrietrs" title="Answering Questions">💬</a> <a href="#blog-harrietrs" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/mshodge"><img src="https://avatars.githubusercontent.com/u/15108577?v=4" width="100px;" alt=""/><br /><sub><b>mshodge</b></sub></a><br /><a href="#eventOrganizing-mshodge" title="Event Organizing">📋</a> <a href="#ideas-mshodge" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-mshodge" title="Content">🖋</a> <a href="#question-mshodge" title="Answering Questions">💬</a> <a href="#infra-mshodge" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#blog-mshodge" title="Blogposts">📝</a></td>
+    <td align="center"><a href="https://github.com/HillaryJuma"><img src="https://avatars.githubusercontent.com/u/52030096?v=4" width="100px;" alt=""/><br /><sub><b>HillaryJuma</b></sub></a><br /><a href="#eventOrganizing-HillaryJuma" title="Event Organizing">📋</a> <a href="#ideas-HillaryJuma" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-HillaryJuma" title="Content">🖋</a> <a href="#question-HillaryJuma" title="Answering Questions">💬</a> <a href="#infra-HillaryJuma" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#blog-HillaryJuma" title="Blogposts">📝</a></td>
+</tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+### Emoji Key
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...  
+
++ 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
++ 💬  for leading the discussion in a meeting  
++ 📝  for attending a Data Ethics Club meeting (and contributing to our outputs)
++ 📋  for organising  
++ 🤔  for ideas and planning of the group
++ 🎨  for visual design (e.g. logo)
++ 🚇  for infrastructure (e.g. bots, CI)
++ 🚧  for repository maintenance (e.g. fixing links)
