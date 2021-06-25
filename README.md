@@ -39,7 +39,7 @@ While you're here, you may also want to:
 * enjoy our [reading list](./READING-LIST.md).
 * [suggest reading materials](#how-to-make-suggestions).
 * [get involved in organising](#get-involved).
-* [host a similar event](Guides/Hosting-Guide.md).
+* [host a similar event](Guides/organising.md).
 
 ## Stay in the loop
 
