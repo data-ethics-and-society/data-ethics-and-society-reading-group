@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                      | Discussion Material |
 |--------------------------------------------------------|---------------------|
-| [26.07.2021, 12pm](./Sessions/2021/07-21-session.md)   |         ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570)            |
+| [26.07.2021, 12pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) |
 
 --------------
 
