@@ -58,9 +58,8 @@ If you're interested in joining us in organising, please ping us on [Slack](http
 
 You can also contact us separately:
 
-* Harriet - [Slack](https://govdatascience.slack.com/team/U01BSUWU0UE)
-* Michael - [Slack](https://govdatascience.slack.com/team/UE7T99KTR)
-TODO: add twitter
+* Harriet - [Slack](https://govdatascience.slack.com/team/U01BSUWU0UE) [Twitter](https://twitter.com/DataDiva)
+* Michael - [Slack](https://govdatascience.slack.com/team/UE7T99KTR) [Twitter](https://twitter.com/hodge_online)
 
 ## How to make suggestions
 
@@ -110,12 +109,21 @@ This website has passed the Government's [accessibility criteria](https://www.go
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/harrietrs"><img src="https://avatars.githubusercontent.com/u/28767009?v=4" width="100px;" alt=""/><br /><sub><b>harrietrs</b></sub></a><br /><a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a> <a href="#ideas-harrietrs" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-harrietrs" title="Design">🎨</a> <a href="#content-harrietrs" title="Content">🖋</a> <a href="#question-harrietrs" title="Answering Questions">💬</a> <a href="#blog-harrietrs" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://github.com/mshodge"><img src="https://avatars.githubusercontent.com/u/15108577?v=4" width="100px;" alt=""/><br /><sub><b>mshodge</b></sub></a><br /><a href="#eventOrganizing-mshodge" title="Event Organizing">📋</a> <a href="#ideas-mshodge" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-mshodge" title="Content">🖋</a> <a href="#question-mshodge" title="Answering Questions">💬</a> <a href="#infra-mshodge" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#blog-mshodge" title="Blogposts">📝</a></td>
-    <td align="center"><a href="https://github.com/HillaryJuma"><img src="https://avatars.githubusercontent.com/u/52030096?v=4" width="100px;" alt=""/><br /><sub><b>HillaryJuma</b></sub></a><br /><a href="#eventOrganizing-HillaryJuma" title="Event Organizing">📋</a> <a href="#ideas-HillaryJuma" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-HillaryJuma" title="Content">🖋</a> <a href="#question-HillaryJuma" title="Answering Questions">💬</a> <a href="#infra-HillaryJuma" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#blog-HillaryJuma" title="Blogposts">📝</a></td>
-</tr>
+	<tbody>
+		<tr>
+			<td align="center"><font color="#333333"><a href="https://github.com/harrietrs"><img alt="" src="https://avatars.githubusercontent.com/u/28767009?v=4" width="100px;" /><br />
+			<sub>harrietrs</sub></a><br />
+			<a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a> <a href="#ideas-harrietrs" title="Ideas, Planning, &amp; Feedback">🤔</a> <a href="#design-harrietrs" title="Design">🎨</a> <a href="#content-harrietrs" title="Content">🖋</a> <a href="#question-harrietrs" title="Answering Questions">💬</a> <a href="#blog-harrietrs" title="Blogposts">📝</a></font><a href="#maintenance-harrietrs" title="Maintenance">🚧</a></td>
+			<td align="center"><font color="#333333"><a href="https://github.com/mshodge"><img alt="" src="https://avatars.githubusercontent.com/u/15108577?v=4" width="100px;" /><br />
+			<sub>mshodge</sub></a><br />
+			<a href="#eventOrganizing-mshodge" title="Event Organizing">📋</a> <a href="#ideas-mshodge" title="Ideas, Planning, &amp; Feedback">🤔</a> <a href="#content-mshodge" title="Content">🖋</a> <a href="#question-mshodge" title="Answering Questions">💬</a> <a href="#infra-mshodge" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#blog-mshodge" title="Blogposts">📝</a> <a href="#maintenance-mshodge" title="Maintenance">🚧</a></font></td>
+			<td align="center"><font color="#333333"><a href="https://github.com/HillaryJuma"><img alt="" src="https://avatars.githubusercontent.com/u/52030096?v=4" width="100px;" /><br />
+			<sub>HillaryJuma</sub></a><br />
+			<a href="#ideas-mshodge" style="text-align: -webkit-center;" title="Ideas, Planning, &amp; Feedback">🤔</a></font></td>
+		</tr>
+	</tbody>
 </table>
+
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
