@@ -1,6 +1,6 @@
 # Meeting Dates
 
-Sessions are every one-two months on a **weekday lunchtime** from 12-1pm.
+Sessions are every one-two months on a **weekday lunchtime** from 12:30-1:30pm.
 
 The dates for upcoming sessions are here, but the discussion material will be voted for in the meeting before. All additional material can be found in the relevant session information document.
 
@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                      | Discussion Material |
 |--------------------------------------------------------|---------------------|
-| [26.07.2021, 12pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) |
+| [26.07.2021, 12:30pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) |
 
 --------------
 
