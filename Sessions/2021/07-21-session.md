@@ -4,9 +4,9 @@
 
 ### Description
 
-You're welcome to join us for our next Data Science: Ethics & Society Reading Group on DAY the DATE at [12:30 GMT]((https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&am=45)). This time we're going to watch/read [Atlas of AI](LINK-TO-CONTENT) by Kate Crawford, which presents AI as a technology of extraction: from the minerals drawn from the earth, to the labour pulled from low-wage information workers, to the data taken from every action and expression.
+You're welcome to join us for our next Data Science: Ethics & Society Reading Group on DAY the DATE at [12:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&am=45). This time we're going to watch/read [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai) by Kate Crawford, which presents AI as a technology of extraction: from the minerals drawn from the earth, to the labour pulled from low-wage information workers, to the data taken from every action and expression.
 
-This book can be purchased in the UK from Blackwell's[https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570], AbeBooks[https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp], Amazon[https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1] (kindle or hardcover), or an independent retailer. At the time of writing, Blackwell's[https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570] is the cheapest.
+This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardcover), or an independent retailer.
 
 **You can also attend if you haven't read the book**. We have put together some material related to some of the concepts in the book:
 
