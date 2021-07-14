@@ -16,10 +16,10 @@ This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk
 
 We have put together some material related to some of the concepts in the book below.
 
-- [Kate Crawford on “Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence”], *Kate Crawford*, (video, 48 mins).
+- [Kate Crawford on “Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence”](https://www.youtube.com/watch?v=KcefG-0InLE), *Kate Crawford*, (video, 48 mins).
 Crawford discusses the book in this sub one-hour video using content from the book itself. If you don't have time to read the book, or read/watch/listen to the below, **please watch this video**.
 
-- [Anatomy of AI](https://anatomyof.ai/) and [Verge blog post], *Kate Crawford & Vladan Joler*, Verge post by *James Vincent*
+- [Anatomy of AI](https://anatomyof.ai/) and [Verge blog post](https://www.theverge.com/2018/9/9/17832124/ai-artificial-intelligence-supply-chain-anatomy-of-ai-kate-crawford-interview), *Kate Crawford & Vladan Joler*, Verge post by *James Vincent*
 Crawford & Joler started with trying to draw (literally) what it takes to make an Amazon Echo work. They end up with this two-year research project to trace those material supply chains from cradle to grave. Crawford then shifted from an analysis of just one device to applying this sort of critical analysis to the entire industry in her book: Atlas of AI. The Verge post provides explanatory background information for the illustration.
 
 - [Mapping AI's Societal Impact](https://hbr.org/podcast/2021/04/mapping-ais-societal-impact), *Exponential View WIth Azeem Azhar*, (podcast, 1 hour).
