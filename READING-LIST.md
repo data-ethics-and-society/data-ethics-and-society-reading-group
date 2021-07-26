@@ -16,3 +16,14 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [Design Justice](https://design-justice.pubpub.org/)
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/) ✅
   - [Reading Group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
+- [Practical Data Ethics](https://ethics.fast.ai/)
+  - [Lesson 2: Bias & Fairness](https://ethics.fast.ai/videos/?lesson=2)
+
+## Algorithmic decision making
+
+- [Review into bias in algorithmic decision making](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939109/CDEI_review_into_bias_in_algorithmic_decision-making.pdf)
+
+## Technology & Society
+
+- [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai)
+  - [Anatomy of AI](https://anatomyof.ai/)
