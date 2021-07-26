@@ -16,7 +16,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [Design Justice](https://design-justice.pubpub.org/)
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/) ✅
   - [Reading Group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
-- [Practical Data Ethics](https://ethics.fast.ai/)
+- [Practical Data Ethics](https://ethics.fast.ai/)<sup>1</sup>
   - [Lesson 2: Bias & Fairness](https://ethics.fast.ai/videos/?lesson=2)
 
 ## Algorithmic decision making
@@ -25,5 +25,5 @@ We welcome suggestions for new categories, or moving materials between categorie
 
 ## Technology & Society
 
-- [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai)
+- [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai)<sup>1</sup>
   - [Anatomy of AI](https://anatomyof.ai/)
