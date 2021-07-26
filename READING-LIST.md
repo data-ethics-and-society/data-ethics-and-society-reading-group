@@ -22,6 +22,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 ## Algorithmic decision making
 
 - [Review into bias in algorithmic decision making](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939109/CDEI_review_into_bias_in_algorithmic_decision-making.pdf)
+- [The Ethical Data Scientist: People have too much trust in numbers to be intrinsically objective](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 
 ## Technology & Society
 
