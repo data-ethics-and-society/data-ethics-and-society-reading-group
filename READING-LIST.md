@@ -3,7 +3,7 @@
 (format borrowed from [Data Ethics Club](https://github.com/very-good-science/data-ethics-club))
 
 - 🕰️ = waiting for paper to drop
-- :white_check_mark: = we've read it
+- ✅ = we've read it
 - 📺 = Watching/Listening material
 - [1] = A longer piece of work, we'd need to choose a chapter or section.
 - [2] = A shorter piece of work, perhaps to combine with something else
@@ -14,5 +14,5 @@ We welcome suggestions for new categories, or moving materials between categorie
 ## Ethics in action (the good and the not so good)
 
 - [Design Justice](https://design-justice.pubpub.org/)
-- [Data Feminism](https://data-feminism.mitpress.mit.edu/) :white_check_mark:
+- [Data Feminism](https://data-feminism.mitpress.mit.edu/) ✅
   - [Reading Group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
