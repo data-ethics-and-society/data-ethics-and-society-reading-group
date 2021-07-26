@@ -11,7 +11,7 @@
 These are rough categories, reading materials appear once in the category we felt they fit best. 
 We welcome suggestions for new categories, or moving materials between categories (please [open an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose), or [send us a Slack message](https://govdatascience.slack.com/team/UE7T99KTR)).
 
-## Ethics in action (the good and the not so good)
+## Ethics in action
 
 - [Design Justice](https://design-justice.pubpub.org/)
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/) ✅
