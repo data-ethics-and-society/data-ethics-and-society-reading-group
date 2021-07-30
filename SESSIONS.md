@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                      | Discussion Material |
 |--------------------------------------------------------|---------------------|
-| [24.08.2021, 12:30pm](./Sessions/2021/08-24-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
+| [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
 
 --------------
 
