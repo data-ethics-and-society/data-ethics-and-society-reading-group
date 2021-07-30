@@ -46,10 +46,9 @@ There will be time to talk about whatever we like, relating to the paper, but he
 ## Meeting notes
 
 ### Who came
-Number of people:
+Number of people: 33
 
 ### What did we think?
-Notes here!
-Shall we email the author? If so, who'll send the email?
+Well attended event with lots of engagement from attendees. Mix between those who had read the book and those who had watched the video and read supplementary material. Lots of interest from those who attended to read the rest of the book, or buy the book if they hadn't already. We didn't find out how people found out about the event so will send round a survey afterwards so that we know how people are finding out about the events.
 
 -->
