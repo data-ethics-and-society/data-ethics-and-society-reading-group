@@ -25,9 +25,11 @@ Contains a lot of similar material to that covered in the 'Classification' chapt
 - [Artificial Intelligence is Misreading Human Emotion](https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/), *Kate Crawford, The Atlantic*. 
 This article is adapted from the book's 'Affect' chapter.
 
-- Placeholder for State material
+- [Google’s artificial intelligence ethics won't curb war by algorithm](https://www.wired.co.uk/article/google-project-maven-drone-warfare-artificial-intelligence), *Phoebe Braithwaite, Wired*. 
+This article explores how Google was involved with the  US Department of Defense’s Project Maven, which used AI to target drone strikes. 
 
-- Placeholder for Power material
+- [Stop talking about AI ethics. It’s time to talk about power](https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/), *Karen Hao, MIT Technology Review*.
+This is a review article for the book, which summarises everything neatly.
 
 Thank you to Harriet for suggesting this week's content, and to all those who suggested content, which we we look forward to sharing at future events.
 
