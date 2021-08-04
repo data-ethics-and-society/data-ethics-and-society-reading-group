@@ -20,7 +20,7 @@ We have put together some material related to some of the concepts in the book b
 Crawford discusses the book in this sub one-hour video using content from the book itself. If you don't have time to read the book, or read/watch/listen to the below, **please watch this video**.
 
 - [Excavating AI](https://excavating.ai/), *Kate Crawford & Trevor Paglen*
-Contains a lot of similar material to the part of the book that interrogates the widespread use of ImageNet.
+Contains a lot of similar material to that covered in the 'Classification' chapter.
 
 - [Artificial Intelligence is Misreading Human Emotion](https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/), *Kate Crawford, The Atlantic*. 
 This article is adapted from the book's 'Affect' chapter.
