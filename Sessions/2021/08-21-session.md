@@ -35,7 +35,7 @@ Thank you to Harriet for suggesting this week's content, and to all those who su
 
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
-- Add discussion points
+- Should AI be used for emotion detection?
 
 ---
 
