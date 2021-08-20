@@ -38,9 +38,9 @@ Thank you to Harriet for suggesting this week's content, and to all those who su
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
 - Should AI be used for emotion detection?
-- How do we handle individual interpretations when classifying? (e.g. words in WordNet, images in ImageNet)
-- Is it right to keep building systems based on historic data?
-- Could a project like Project Maven ever be truly ethical?
+- How do we handle individual interpretations/biases when classifying? (e.g. words in WordNet, images in ImageNet)
+- Is it fair to keep building systems based on historic data?
+- Could AI use in projects like Project Maven ever be truly ethical?
 
 ---
 
