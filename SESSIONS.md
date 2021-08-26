@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                      | Discussion Material |
 |--------------------------------------------------------|---------------------|
-| [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
+| TBD  | TBD |
 
 --------------
 
@@ -16,7 +16,8 @@ You can see a record of what we have discussed previously in 2021 here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
-| [26.07.2021, 12:30pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Earth, Labor and Data) |
+| [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI Part 2'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
+| [26.07.2021, 12:30pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI Part 1'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Earth, Labor and Data) |
 | 25.05.2021, 3pm   | Refresher & Book Pitches|
 | [03.03.2021, 3pm](Sessions/2021/03-21-session.md)   | Bias |
 
