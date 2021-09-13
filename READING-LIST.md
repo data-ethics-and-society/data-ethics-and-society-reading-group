@@ -18,6 +18,8 @@ We welcome suggestions for new categories, or moving materials between categorie
   - [Reading Group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
 - [Practical Data Ethics](https://ethics.fast.ai/)<sup>1</sup>
   - [Lesson 2: Bias & Fairness](https://ethics.fast.ai/videos/?lesson=2)
+- [The Ethical Data Scientist](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
+- [The problem with metrics is a big problem for AI](https://www.fast.ai/2019/09/24/metrics/)
 
 ## Algorithmic decision making
 
@@ -29,3 +31,4 @@ We welcome suggestions for new categories, or moving materials between categorie
 
 - [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai)<sup>1</sup>
   - [Anatomy of AI](https://anatomyof.ai/)
+- [Fair Warning: For as long as there has been AI research, there have been credible critiques about the risks of AI boosterism](https://reallifemag.com/fair-warning/)
