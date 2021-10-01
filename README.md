@@ -111,15 +111,39 @@ This website has passed the Government's [accessibility criteria](https://www.go
 <table>
 	<tbody>
 		<tr>
-			<td align="center"><font color="#333333"><a href="https://github.com/harrietrs"><img alt="" src="https://avatars.githubusercontent.com/u/28767009?v=4" width="100px;" /><br />
-			<sub>harrietrs</sub></a><br />
-			<a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a> <a href="#ideas-harrietrs" title="Ideas, Planning, &amp; Feedback">🤔</a> <a href="#design-harrietrs" title="Design">🎨</a> <a href="#content-harrietrs" title="Content">🖋</a> <a href="#question-harrietrs" title="Answering Questions">💬</a> <a href="#blog-harrietrs" title="Blogposts">📝</a></font><a href="#maintenance-harrietrs" title="Maintenance">🚧</a></td>
-			<td align="center"><font color="#333333"><a href="https://github.com/mshodge"><img alt="" src="https://avatars.githubusercontent.com/u/15108577?v=4" width="100px;" /><br />
-			<sub>mshodge</sub></a><br />
-			<a href="#eventOrganizing-mshodge" title="Event Organizing">📋</a> <a href="#ideas-mshodge" title="Ideas, Planning, &amp; Feedback">🤔</a> <a href="#content-mshodge" title="Content">🖋</a> <a href="#question-mshodge" title="Answering Questions">💬</a> <a href="#infra-mshodge" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#blog-mshodge" title="Blogposts">📝</a> <a href="#maintenance-mshodge" title="Maintenance">🚧</a></font></td>
-			<td align="center"><font color="#333333"><a href="https://github.com/HillaryJuma"><img alt="" src="https://avatars.githubusercontent.com/u/52030096?v=4" width="100px;" /><br />
-			<sub>HillaryJuma</sub></a><br />
-			<a href="#ideas-mshodge" style="text-align: -webkit-center;" title="Ideas, Planning, &amp; Feedback">🤔</a></font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/harrietrs"><img alt="" src="https://avatars.githubusercontent.com/u/28767009?v=4" width="100px;" />
+			<br />
+			<sub>harrietrs</sub></a>
+			<br />
+			<a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a>
+			<a href="#ideas-harrietrs" title="Ideas, Planning, &amp; Feedback">🤔</a>
+			<a href="#content-harrietrs" title="Content">🖋</a>
+			<a href="#question-harrietrs" title="Leading Discussion">💬</a>
+			<a href="#maintenance-harrietrs" title="Maintenance">🚧</a>
+			</font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/mshodge"><img alt="" src="https://avatars.githubusercontent.com/u/15108577?v=4" width="100px;" />
+			<br />
+			<sub>mshodge</sub></a>
+			<br />
+			<a href="#eventOrganizing-mshodge" title="Event Organizing">📋</a>
+			<a href="#ideas-mshodge" title="Ideas, Planning, &amp; Feedback">🤔</a>
+			<a href="#content-mshodge" title="Content">🖋</a>
+			<a href="#question-mshodge" title="Leading Discussion">💬</a>
+			<a href="#blog-mshodge" title="Blogposts">📝</a>
+			<a href="#maintenance-mshodge" title="Maintenance">🚧</a></font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/HillaryJuma"><img alt="" src="https://avatars.githubusercontent.com/u/52030096?v=4" width="100px;" />
+			<br />
+			<sub>HillaryJuma</sub></a>
+			<br />
+			<a href="#eventOrganizing-HillaryJuma" title="Event Organizing">📋</a>
+			<a href="#ideas-HillaryJuma" style="text-align: -webkit-center;" title="Ideas, Planning, &amp; Feedback">🤔</a>
+			<a href="#content-HillaryJuma" title="Content">🖋</a>
+			<a href="#question-HillaryJuma" title="Leading Discussion">💬</a>
+			<a href="#design-HillaryJuma" title="Design">🎨</a>
+			</font></td>
 		</tr>
 	</tbody>
 </table>
@@ -142,5 +166,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 + 📋  for organising  
 + 🤔  for ideas and planning of the group
 + 🎨  for visual design (e.g. logo)
-+ 🚇  for infrastructure (e.g. bots, CI)
 + 🚧  for repository maintenance (e.g. fixing links)
