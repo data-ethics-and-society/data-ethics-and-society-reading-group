@@ -6,9 +6,9 @@ The dates for upcoming sessions are here, but the discussion material will be vo
 
 An Eventbrite link will be sent out via Slack so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via the [Slack Workspace](https://govdatascience.slack.com) if you do not receive an invite.
 
-| Upcoming Sessions                                      | Discussion Material |
-|--------------------------------------------------------|---------------------|
-| TBD  | TBD |
+| Upcoming Sessions                                        | Discussion Material                   |
+|----------------------------------------------------------|---------------------------------------|
+| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging- see session detail for links |
 
 --------------
 
