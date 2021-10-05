@@ -18,6 +18,8 @@ It will include discussion of the following material:
 
 - [TechScape: Should government use the web to nudge our behaviour?](https://www.theguardian.com/technology/2021/sep/08/techscape-nudge-government-influence), Alex Hern @ The Guardian, September 2021 (est. 10 min read)
 
+- [Algorithmic Nudges Don't Have to Be Unethical](https://hbr.org/2021/04/algorithmic-nudges-dont-have-to-be-unethical), Mareike Möhlmann @ Harvard Business Review, April 2021 (est. 10 mins)
+
 **If you're stretched for time, try and skim the first Guardian article.**
 
 Thank you to Callum for suggesting this week's content and leading this month's meeting.
