@@ -10,15 +10,15 @@ We will be discussing whether nudging helps or hinders us, whether government sh
 
 It will include discussion of the following material:
 
-- [How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), Tristan Harris, May 2016 (est. 15 min read)
+- [How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), *Tristan Harris*, May 2016 (est. 15 min read)
 
-- [Tech for Good: Marcus Smith speaks to Tristan Harris](https://www.bbc.co.uk/sounds/play/m000vp31), One to One @BBC Radio 4, May 2021 (14 mins, BBC login required)
+- [Tech for Good: Marcus Smith speaks to Tristan Harris](https://www.bbc.co.uk/sounds/play/m000vp31), *One to One, BBC Radio 4*, May 2021 (14 mins, BBC login required)
 
-- [Study finds growing government use of sensitive data to ‘nudge’ behaviour](https://www.theguardian.com/technology/2021/sep/08/study-finds-growing-government-use-of-sensitive-data-to-nudge-behaviour), Alex Hern @ The Guardian, September 2021 (est. 5 min read)
+- [Study finds growing government use of sensitive data to ‘nudge’ behaviour](https://www.theguardian.com/technology/2021/sep/08/study-finds-growing-government-use-of-sensitive-data-to-nudge-behaviour), *Alex Hern, The Guardian*, September 2021 (est. 5 min read)
 
-- [TechScape: Should government use the web to nudge our behaviour?](https://www.theguardian.com/technology/2021/sep/08/techscape-nudge-government-influence), Alex Hern @ The Guardian, September 2021 (est. 10 min read)
+- [TechScape: Should government use the web to nudge our behaviour?](https://www.theguardian.com/technology/2021/sep/08/techscape-nudge-government-influence), *Alex Hern, The Guardian*, September 2021 (est. 10 min read)
 
-- [Algorithmic Nudges Don't Have to Be Unethical](https://hbr.org/2021/04/algorithmic-nudges-dont-have-to-be-unethical), Mareike Möhlmann @ Harvard Business Review, April 2021 (est. 10 mins)
+- [Algorithmic Nudges Don't Have to Be Unethical](https://hbr.org/2021/04/algorithmic-nudges-dont-have-to-be-unethical),*Mareike Möhlmann, Harvard Business Review*, April 2021 (est. 10 mins)
 
 **If you're stretched for time, try and skim the first Guardian article.**
 
