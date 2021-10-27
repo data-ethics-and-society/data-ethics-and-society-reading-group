@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging- see session detail for links |
+| TBC- sometime in November/December-----------------------| TBC-----------------------------------|
 
 --------------
 
@@ -16,6 +16,7 @@ You can see a record of what we have discussed previously in 2021 here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging- see session detail for links |
 | [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI Part 2'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
 | [26.07.2021, 12:30pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI Part 1'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Earth, Labor and Data) |
 | 25.05.2021, 3pm   | Refresher & Book Pitches|
