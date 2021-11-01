@@ -35,5 +35,5 @@ We welcome suggestions for new categories, or moving materials between categorie
   - [Anatomy of AI](https://anatomyof.ai/)
 - [Fair Warning: For as long as there has been AI research, there have been credible critiques about the risks of AI boosterism](https://reallifemag.com/fair-warning/)
 
-# Data ethics in the public sector
+## Data ethics in the public sector
 - [Should more public trust in data-driven systems be the goal?](https://www.adalovelaceinstitute.org/blog/should-more-public-trust-in-data-driven-systems-be-the-goal/)
