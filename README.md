@@ -43,7 +43,7 @@ While you're here, you may also want to:
 
 ## Stay in the loop
 
-The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join the :sparkles: :arrow_right: [**#ethics channel of the cross-government data science slack workspace](https://govdatascience.slack.com)**] :arrow_left: :sparkles: !
+The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
 
 We will also advertise sessions:
 
