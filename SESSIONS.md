@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| TBC- sometime in November/December-----------------------| TBC-----------------------------------|
+| TBC- sometime in November/December | TBC |
 
 --------------
 
