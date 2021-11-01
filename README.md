@@ -144,6 +144,13 @@ This website has passed the Government's [accessibility criteria](https://www.go
 			<a href="#question-HillaryJuma" title="Leading Discussion">💬</a>
 			<a href="#design-HillaryJuma" title="Design">🎨</a>
 			</font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/alexander-newton"><img alt="" src="https://avatars.githubusercontent.com/u/43876799?v=4" width="100px;" />
+			<br />
+			<sub>alexander-newton</sub></a>
+			<br />
+			<a href="#content-alexander-newton" title="Content">🖋</a>
+			</font></td>
 		</tr>
 	</tbody>
 </table>
