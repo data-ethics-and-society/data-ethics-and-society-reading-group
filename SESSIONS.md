@@ -1,6 +1,6 @@
 # Meeting Dates
 
-Sessions are every one-two months on a **weekday lunchtime** from 12:30-1:30pm.
+Sessions are every three months (February, May, August and November) on a **weekday lunchtime** from 12:30-1:30pm.
 
 The dates for upcoming sessions are here, but the discussion material will be voted for in the meeting before. All additional material can be found in the relevant session information document.
 
@@ -8,15 +8,18 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| TBC- sometime in November/December | TBC |
+| Date TBC - February 2022 | [Hello World, Hannah Fry](https://hannahfry.co.uk/book/hello-world/) |
+| May 2022 | TBC |
+| August 2022 | TBC |
+| November 2022 | TBC |
 
 --------------
 
-You can see a record of what we have discussed previously in 2021 here:
+You can see a record of what we have discussed in 2021 here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
-| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging- see session detail for links |
+| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging |
 | [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI Part 2'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
 | [26.07.2021, 12:30pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI Part 1'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Earth, Labor and Data) |
 | 25.05.2021, 3pm   | Refresher & Book Pitches|
