@@ -8,24 +8,22 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| Date TBC - February 2022 | [Hello World, Hannah Fry](https://hannahfry.co.uk/book/hello-world/) |
-| May 2022 | TBC |
-| August 2022 | TBC |
-| November 2022 | TBC |
+| Date TBC - February 2022 | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) |
+| May 2022 | Book TBD |
+| August 2022 | Book TBD |
+| November 2022 | Book TBD |
 
 --------------
 
-You can see a record of what we have discussed in 2021 here:
+You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
-| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging |
+| [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging (journals and articles) |
 | [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI Part 2'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
 | [26.07.2021, 12:30pm](./Sessions/2021/07-21-session.md)   | ['Atlas of AI Part 1'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Earth, Labor and Data) |
 | 25.05.2021, 3pm   | Refresher & Book Pitches|
-| [03.03.2021, 3pm](Sessions/2021/03-21-session.md)   | Bias |
-
-We aim to add details of 2020 events shortly, in the meantime:
-
-The first three sessions focused on [Data Feminism](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/tree/main/Sessions/2020/Data_Feminism), centered around [the Data Feminism book](https://data-feminism.mitpress.mit.edu/) by
-Catherine D'Ignazio ([@kanarinka](https://twitter.com/kanarinka)) and Lauren Klein ([@laurenfklein](https://twitter.com/laurenfklein)). If you want to run these sessions a reading list can be seen on our github: [session 1](Sessions/2020/Data_Feminism/Session_1/1_Data-Feminism-Part-1.md), [session 2](Sessions/2020/Data_Feminism/Session_2/2_Reflecting-on-Practice.md), [session 3](Sessions/2020/Data_Feminism/Session_3/3_Data-Feminism-Part-2.md). Furthermore, a set of Discussion questions are also available: [session 1](Sessions/2020/Data_Feminism/Session_1/Session-1-Facilitator-Qs.md), [session 2](Sessions/2020/Data_Feminism/Session_2/Session-2-Facilitator-Qs.md), [session 3](Sessions/2020/Data_Feminism/Session_3/Session-3-Facilitator-Qs.md).
+| [03.03.2021, 3pm](Sessions/2021/03-21-session.md)   | Bias (journals and articles) |
+| [25.09.2020, 4pm](Sessions/2020/Data_Feminism/Session_3/3_Data-Feminism-Part-2.md)   | [Data Feminism Part 3](https://mitpress.mit.edu/books/data-feminism) |
+| [25.08.2020, 4pm](Sessions/2020/Data_Feminism/Session_2/2_Reflecting-on-Practice.md)   | [Data Feminism Part 2](https://mitpress.mit.edu/books/data-feminism) |
+| [28.07.2020, 4pm](Sessions/2020/Data_Feminism/Session_1/1_Data-Feminism-Part-1.md)   | [Data Feminism Part 1](https://mitpress.mit.edu/books/data-feminism) |
