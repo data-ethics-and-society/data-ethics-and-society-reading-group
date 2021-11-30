@@ -1,37 +1,14 @@
-```
-██████   █████ ████████  █████      ███████ ████████ ██   ██ ██  ██████ ███████         
-██   ██ ██   ██   ██    ██   ██     ██         ██    ██   ██ ██ ██      ██              
-██   ██ ███████   ██    ███████     █████      ██    ███████ ██ ██      ███████         
-██   ██ ██   ██   ██    ██   ██     ██         ██    ██   ██ ██ ██           ██         
-██████  ██   ██   ██    ██   ██     ███████    ██    ██   ██ ██  ██████ ███████         
-                                                                                        
- █████  ███    ██ ██████      ███████  ██████   ██████ ██ ███████ ████████ ██    ██     
-██   ██ ████   ██ ██   ██     ██      ██    ██ ██      ██ ██         ██     ██  ██      
-███████ ██ ██  ██ ██   ██     ███████ ██    ██ ██      ██ █████      ██      ████       
-██   ██ ██  ██ ██ ██   ██          ██ ██    ██ ██      ██ ██         ██       ██        
-██   ██ ██   ████ ██████      ███████  ██████   ██████ ██ ███████    ██       ██        
-                                                                                        
-██████  ███████  █████  ██████  ██ ███    ██  ██████                                    
-██   ██ ██      ██   ██ ██   ██ ██ ████   ██ ██                                         
-██████  █████   ███████ ██   ██ ██ ██ ██  ██ ██   ███                                   
-██   ██ ██      ██   ██ ██   ██ ██ ██  ██ ██ ██    ██                                   
-██   ██ ███████ ██   ██ ██████  ██ ██   ████  ██████                                    
-                                                                                        
- ██████  ██████   ██████  ██    ██ ██████                                               
-██       ██   ██ ██    ██ ██    ██ ██   ██                                              
-██   ███ ██████  ██    ██ ██    ██ ██████                                               
-██    ██ ██   ██ ██    ██ ██    ██ ██                                                   
- ██████  ██   ██  ██████   ██████  ██                                                   
-                                                             
-```
-
 # Data Ethics and Society Reading Group
+
+<img src="deas.png" alt="logo" class="center" width="200">
 
 _“Data Science isn’t neutral”;_ books such as Race After Technology, Invisible Woman and Data Feminism have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
 The Data Science and Ethics Society discussion/reading group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically.
 
-The organisers are based in London and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join.
+We meet four times a year: February, May, August and November.
+
+The organisers are based in London and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
 While you're here, you may also want to:
 
