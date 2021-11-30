@@ -1,6 +1,6 @@
 # Data Ethics and Society Reading Group
 
-<img src="deas.png" alt="logo" class="center" width="200">
+<center><img src="deas.png" alt="logo" width="200"></center>
 
 _“Data Science isn’t neutral”;_ books such as Race After Technology, Invisible Woman and Data Feminism have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
