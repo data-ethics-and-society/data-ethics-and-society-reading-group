@@ -8,7 +8,7 @@ The Data Science and Ethics Society discussion/reading group is a space for publ
 
 We meet four times a year: February, May, August and November. 
 
->Our next session will be on Tuesday 15th February 2022 at 12:00 on [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/).
+>Our next session will be on [Tuesday 15th February 2022 at 12:00](./Sessions/2022/02-22-session.md) on [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/).
 
 The organisers are based in London and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
