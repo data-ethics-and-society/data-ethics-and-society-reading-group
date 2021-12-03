@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| Date TBC - February 2022 | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) |
+| [15.02.2022, 12:00](./Sessions/2022/02-22-session.md) | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) |
 | May 2022 | Book TBD |
 | August 2022 | Book TBD |
 | November 2022 | Book TBD |
