@@ -12,7 +12,7 @@ We will be discussing [Hannah Fry's Hello World: How to be Human in the Age of M
 
 > Please consider either buying the book from a local, independent bookseller, or picking up a used copy online. 
 
-Thank you to Harriet for suggesting this week's content and leading this month's meeting.
+Thank you to Harriet for suggesting this events content.
 
 ### Discussion points
 
