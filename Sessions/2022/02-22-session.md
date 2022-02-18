@@ -16,7 +16,11 @@ Thank you to Harriet for suggesting this events content.
 
 ### Discussion points
 
-- Check back here at a later point to find the discussion points for this event.
+- What did you think of the book?
+- How would we know self driving cars have become better at driving than humans?
+- Do you agree with Hannah that "Having an algorithm - even an imperfect algorithm - working with judges to support their often faulty cognition is [...] a step in the right direct"?
+- Can you think of an example of an algorithm that has a net benefit to society?
+
 
 ---
 
@@ -25,7 +29,7 @@ Thank you to Harriet for suggesting this events content.
 ## Meeting notes
 
 ### Who came
-Number of people:
+Number of people: 32
 
 ### What did we think?
 Notes here!
