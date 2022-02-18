@@ -34,7 +34,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 
 - [Review into bias in algorithmic decision making](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939109/CDEI_review_into_bias_in_algorithmic_decision-making.pdf)
 - [The Ethical Data Scientist: People have too much trust in numbers to be intrinsically objective](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
-- [Hello World: How to be Human in the Age of the Machine](https://www.penguin.co.uk/books/111/1114076/hello-world/9781784163068.html), *Hannah Fry* <sup>1</sup> 📅
+- [Hello World: How to be Human in the Age of the Machine](https://www.penguin.co.uk/books/111/1114076/hello-world/9781784163068.html), *Hannah Fry* <sup>1</sup> ✅
 - [Should We Trust Algorithms?](https://hdsr.mitpress.mit.edu/pub/56lnenzj/release/1)
 
 
