@@ -29,6 +29,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 - Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech, *Sara Wachter-Boettch* <sup>1</sup>
 - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup>
 - Algorithms of Oppression, *Safiya Noble* <sup>1</sup>
+- [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting), *Deborah Stone* 📅
 
 ## Algorithmic decision making
 
@@ -50,5 +51,6 @@ We welcome suggestions for new categories, or moving materials between categorie
 ## Communication
 - How Charts Lie, *Alberto Cairo* <sup>1</sup>
 
-## Data ethics in the public sector
+## Data and data ethics in the public sector
 - [Should more public trust in data-driven systems be the goal?](https://www.adalovelaceinstitute.org/blog/should-more-public-trust-in-data-driven-systems-be-the-goal/)
+- [Data Action: Using data for public good](https://mitpress.mit.edu/books/data-action), *Sarah Williams*
