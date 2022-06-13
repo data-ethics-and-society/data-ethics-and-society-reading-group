@@ -24,9 +24,9 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
 
 ## Bias
-- Dark Data: Why What You Don’t Know Matters, *David Hand* <sup>1</sup>
-- Invisible Women: Exposing Data Bias in a World Designed for Men, *Caroline Criado Perez* <sup>1</sup>
-- Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech, *Sara Wachter-Boettch* <sup>1</sup>
+- [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/), *David Hand* <sup>1</sup>
+- [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez* <sup>1</sup>
+- [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books), *Sara Wachter-Boettch* <sup>1</sup>
 - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup>
 - Algorithms of Oppression, *Safiya Noble* <sup>1</sup>
 
