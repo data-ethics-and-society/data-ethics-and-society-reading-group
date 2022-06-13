@@ -29,7 +29,6 @@ We welcome suggestions for new categories, or moving materials between categorie
 - Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech, *Sara Wachter-Boettch* <sup>1</sup>
 - Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup>
 - Algorithms of Oppression, *Safiya Noble* <sup>1</sup>
-- [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting), *Deborah Stone* 📅
 
 ## Algorithmic decision making
 
