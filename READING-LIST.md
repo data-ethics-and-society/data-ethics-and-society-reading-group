@@ -54,3 +54,4 @@ We welcome suggestions for new categories, or moving materials between categorie
 ## Data and data ethics in the public sector
 - [Should more public trust in data-driven systems be the goal?](https://www.adalovelaceinstitute.org/blog/should-more-public-trust-in-data-driven-systems-be-the-goal/)
 - [Data Action: Using data for public good](https://mitpress.mit.edu/books/data-action), *Sarah Williams*
+- [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) ✅

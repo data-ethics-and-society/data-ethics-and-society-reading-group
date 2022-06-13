@@ -8,7 +8,6 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [31.05.2022, 12:00](./Sessions/2022/05-22-session.md) | [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) |
 | August 2022 | Book TBD |
 | November 2022 | Book TBD |
 
@@ -18,6 +17,7 @@ You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [31.05.2022, 12:00](./Sessions/2022/05-22-session.md) | [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) |
 | [15.02.2022, 12:00](./Sessions/2022/02-22-session.md) | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) |
 | [19.10.2021, 12:30pm](./Sessions/2021/10-21-session.md)  | Nudging (journals and articles) |
 | [24.08.2021, 12:30pm](./Sessions/2021/08-21-session.md)   | ['Atlas of AI Part 2'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
