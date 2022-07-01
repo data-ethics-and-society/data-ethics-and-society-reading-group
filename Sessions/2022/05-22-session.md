@@ -15,7 +15,9 @@ Thank you to Harriet for suggesting this events content.
 
 ### Discussion points
 
-- TBC
+- One of the books main focuses is how we count things. Which do you think is better, to continue to count things (like CPI) the way we have for a while, for consistency, or to change how we count things (like Boots Vimes Index)?
+- Another point is how our experiences influence our ability to measure things. Western societies may categorise and count things differently, such as gender violence, to other countries. How do we count things like this on a global scale with so many different societies and cultures?
+- You can only count what you can see. Can we ever know for sure that what we count is reliable? E.g. In developing countries, more people grow food for personal consumption instead for export, this affects counts like GDP; therefore is using GDP as a development indicator misleading?
 
 ---
 
