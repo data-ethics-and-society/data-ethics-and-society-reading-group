@@ -8,7 +8,7 @@ An Eventbrite link will be sent out via Slack so that we can keep attendance wit
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| August 2022 | Book TBD |
+| August 2022 (Date TBD) | [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) |
 | November 2022 | Book TBD |
 
 --------------
