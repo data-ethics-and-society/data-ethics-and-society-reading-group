@@ -14,20 +14,22 @@ We welcome suggestions for new categories, or moving materials between categorie
 
 ## Ethics in action
 
-- [Design Justice](https://design-justice.pubpub.org/)
-- [Data Feminism](https://data-feminism.mitpress.mit.edu/) ✅
+- [Design Justice](https://design-justice.pubpub.org/), *Sasha Costanza-Chock*
+- [Data Feminism](https://data-feminism.mitpress.mit.edu/), *Catherine D'Ignazio, Lauren Klein* ✅
   - [Reading Group](https://datafeminism.io/blog/book/data-feminism-reading-group/)
 - [Practical Data Ethics](https://ethics.fast.ai/)<sup>1</sup>
   - [Lesson 2: Bias & Fairness](https://ethics.fast.ai/videos/?lesson=2)
 - [The Ethical Data Scientist](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 - [The problem with metrics is a big problem for AI](https://www.fast.ai/2019/09/24/metrics/)
 - [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
+- [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://www.bloomsbury.com/uk/queer-data-9781350230729/), *Kevin Guyan*
+- [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez*  📅
 
 ## Bias
 - [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/), *David Hand* <sup>1</sup>
 - [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez* <sup>1</sup>
 - [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books), *Sara Wachter-Boettch* <sup>1</sup>
-- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup>
+- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy], *Cathy O'Neil* <sup>1</sup>
 - Algorithms of Oppression, *Safiya Noble* <sup>1</sup>
 
 ## Algorithmic decision making
