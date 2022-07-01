@@ -23,7 +23,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [The problem with metrics is a big problem for AI](https://www.fast.ai/2019/09/24/metrics/)
 - [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
 - [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://www.bloomsbury.com/uk/queer-data-9781350230729/), *Kevin Guyan*
-- [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez*  📅
+- [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez* <sup>1</sup>  📅
 
 ## Bias
 - [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/), *David Hand* <sup>1</sup>
