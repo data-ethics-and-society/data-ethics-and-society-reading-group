@@ -1,4 +1,4 @@
-# Data Science: Ethics & Society Reading Group TBD
+# Data Science: Ethics & Society Reading Group 06.09.22
 ## Meeting info
 
 ### Description
