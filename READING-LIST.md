@@ -22,35 +22,43 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [The Ethical Data Scientist](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 - [The problem with metrics is a big problem for AI](https://www.fast.ai/2019/09/24/metrics/)
 - [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
-- [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://www.bloomsbury.com/uk/queer-data-9781350230729/), *Kevin Guyan*
-- [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez* <sup>1</sup>  📅
+- Queer Data: Using Gender, Sex and Sexuality Data for Action, *Kevin Guyan*
+- Technology is Not Neutral: A Short Guide to Technology Ethics, *Stephanie Hare*
 
 ## Bias
-- [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/), *David Hand* <sup>1</sup>
-- [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/), *Caroline Criado Perez* <sup>1</sup>
-- [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books), *Sara Wachter-Boettch* <sup>1</sup>
-- [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy], *Cathy O'Neil* <sup>1</sup>
+- Dark Data: Why What You Don’t Know Matters, *David Hand* <sup>1</sup>
+- Invisible Women: Exposing Data Bias in a World Designed for Men, *Caroline Criado Perez* <sup>1</sup>  📅
+- Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech, *Sara Wachter-Boettch* <sup>1</sup>
+- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup>
 - Algorithms of Oppression, *Safiya Noble* <sup>1</sup>
 
 ## Algorithmic decision making
 
 - [Review into bias in algorithmic decision making](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/939109/CDEI_review_into_bias_in_algorithmic_decision-making.pdf)
 - [The Ethical Data Scientist: People have too much trust in numbers to be intrinsically objective](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
-- [Hello World: How to be Human in the Age of the Machine](https://www.penguin.co.uk/books/111/1114076/hello-world/9781784163068.html), *Hannah Fry* <sup>1</sup> ✅
+- Hello World: How to be Human in the Age of the Machine, *Hannah Fry* ✅
 - [Should We Trust Algorithms?](https://hdsr.mitpress.mit.edu/pub/56lnenzj/release/1)
-
+- Heartificial Intelligence, *John C Havens*
+- Artificial Unintelligence: How computers misunderstand the world, *Meredith Broussard*
 
 ## Technology & Society
 
-- [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai), *Kate Crawford* <sup>1</sup> ✅
+- Atlas of AI, *Kate Crawford* <sup>1</sup> ✅
   - [Anatomy of AI](https://anatomyof.ai/) ✅
 - Superintelligence: Paths, Dangers, Strategies, *Nick Bostrom* <sup>1</sup>
 - [Fair Warning: For as long as there has been AI research, there have been credible critiques about the risks of AI boosterism](https://reallifemag.com/fair-warning/)
 - [How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist](https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3), *Tristan Harris*, May 2016 (est. 15 min read) ✅
 - Exponential: How Accelerating Technology Is Leaving Us Behind and What to Do About It, *Azeem Azhar* <sup>1</sup>
+- The Age of Surveillance Capitalism, *Shosana Zuboff* <sup>1</sup> 
+- Automating Inequaltiy, *Virginia Eubanks* <sup>1</sup> 
+- Don't Be Evil: The Case Against Big Tech, *Rana Foroohar* <sup>1</sup> 
 
 ## Communication
 - How Charts Lie, *Alberto Cairo* <sup>1</sup>
+
+## Privacy
+- Privacy is Power, *Carissa Véliz*
+- Deepfakes and the Infocalypse, *Nina Schick*
 
 ## Data and data ethics in the public sector
 - [Should more public trust in data-driven systems be the goal?](https://www.adalovelaceinstitute.org/blog/should-more-public-trust-in-data-driven-systems-be-the-goal/)
