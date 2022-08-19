@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet four times a year: February, May, August and November. 
 
->Our next session will be in August 2022 (Date TBC). We will be focusing on [Invisible Women by Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/).
+>Our next session will be in September 2022 (Tue Sep 06, 2022 12:00-13:00). We will be focusing on [Invisible Women by Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/).
 
 The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
