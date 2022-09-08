@@ -6,9 +6,9 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology, Invis
 
 The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically.
 
-We meet four times a year: February, May, August and November. 
+We meet four times a year.
 
->Our next session will be in September 2022 (Tue Sep 06, 2022 12:00-13:00). We will be focusing on [Invisible Women by Caroline Criado Perez](https://carolinecriadoperez.com/book/invisible-women/).
+>Our next session is likely to be November/December, date TBC.
 
 The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
