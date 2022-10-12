@@ -22,8 +22,9 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [The Ethical Data Scientist](https://slate.com/technology/2016/02/how-to-bring-better-ethics-to-data-science.html)
 - [The problem with metrics is a big problem for AI](https://www.fast.ai/2019/09/24/metrics/)
 - [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://arxiv.org/abs/1811.03435)
-- Queer Data: Using Gender, Sex and Sexuality Data for Action, *Kevin Guyan*
-- Technology is Not Neutral: A Short Guide to Technology Ethics, *Stephanie Hare*
+- [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://www.bloomsbury.com/uk/queer-data-9781350230729/), *Kevin Guyan*
+- [We The People: A Playbook for Data Ethics in a Democratic Society](https://blackwells.co.uk/bookshop/product/We-The-People-by-Kathy-Rondon/9781634627528), *Kathy Rondon*
+- [Data and Society: A Critical Introduction](https://uk.sagepub.com/en-gb/eur/data-and-society/book269709), *Anne Beaulieu and Sabina Leonelli*
 
 ## Bias
 - Dark Data: Why What You Don’t Know Matters, *David Hand* <sup>1</sup>
@@ -40,7 +41,8 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [Should We Trust Algorithms?](https://hdsr.mitpress.mit.edu/pub/56lnenzj/release/1)
 - Heartificial Intelligence, *John C Havens*
 - Artificial Unintelligence: How computers misunderstand the world, *Meredith Broussard*
-
+- [How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More](https://link.springer.com/book/10.1007/978-1-4842-7155-1), *Noah Giansiracusa*
+- 
 ## Technology & Society
 
 - Atlas of AI, *Kate Crawford* <sup>1</sup> ✅
@@ -52,6 +54,8 @@ We welcome suggestions for new categories, or moving materials between categorie
 - The Age of Surveillance Capitalism, *Shosana Zuboff* <sup>1</sup> 
 - Automating Inequaltiy, *Virginia Eubanks* <sup>1</sup> 
 - Don't Be Evil: The Case Against Big Tech, *Rana Foroohar* <sup>1</sup> 
+- [Technology is Not Neutral: A Short Guide to Technology Ethics](https://londonpublishingpartnership.co.uk/technology-is-not-neutral/), *Stephanie Hare*
+- [Right/Wrong: How Technology Transforms Our Ethics](https://mitpress.mit.edu/9780262542814/rightwrong/), *Juan Enriquez*
 
 ## Communication
 - How Charts Lie, *Alberto Cairo* <sup>1</sup>
