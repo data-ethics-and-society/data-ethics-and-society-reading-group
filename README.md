@@ -130,6 +130,13 @@ This website has passed the Government's [accessibility criteria](https://www.go
 			<br />
 			<a href="#content-alexander-newton" title="Content">🖋</a>
 			</font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/asfass"><img alt="" src="https://avatars.githubusercontent.com/u/107923301?v=4" width="100px;" />
+			<br />
+			<sub>asfass</sub></a>
+			<br />
+			<a href="#content-asfass" title="Content">🖋</a>
+			</font></td>
 		</tr>
 	</tbody>
 </table>
