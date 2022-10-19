@@ -15,7 +15,7 @@ TODO:
 Usual time 12:00-13:00
 -->
 
-> 📝 [**Sign up here!**](LINK-TO-SIGNUP)
+> 📝 :arrow_right: [**Sign up here!**](LINK-TO-SIGNUP)
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Data Science: Ethics & Society Reading Group 06-12-22, [12:30-13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Ethics+and+Society+Reading+Group&iso=20221206T1230&p1=303&ah=1)
 
-> 📝 [**Sign up here!**](https://www.tickettailor.com/events/dataethics/778998/)
+> 📝 :arrow_right: [**Sign up here!**](https://www.tickettailor.com/events/dataethics/778998/)
 
 ## Description
 
