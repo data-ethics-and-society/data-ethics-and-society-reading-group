@@ -4,12 +4,11 @@ Sessions are every three months or so, usually on a **weekday lunchtime** at aro
 
 The dates for upcoming sessions are here, but the discussion material will be voted for in the meeting before. All additional material can be found in the relevant session information document.
 
-An Eventbrite link will be sent out via Slack so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via the [Slack Workspace](https://govdatascience.slack.com) if you do not receive an invite.
+An sign-up link will be sent out via Slack, as well as our [mailing list](https://www.getrevue.co/profile/xgov-data-ethics) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via the [Slack Workspace](https://govdatascience.slack.com) if you do not receive an invite.
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-
-| November 2022 | Material TBD |
+| [06.12.22, 12:30](./Sessions/2022/12-22-session.md) | [Artificial Unintelligence: How Computers Misunderstand the World](https://www.tickettailor.com/events/dataethics/778998/) |
 | February 2023 | Material TBD|
 | May 2023 | Material TBD|
 
