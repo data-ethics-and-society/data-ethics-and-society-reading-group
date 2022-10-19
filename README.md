@@ -137,6 +137,16 @@ This website has passed the Government's [accessibility criteria](https://www.go
 			<br />
 			<a href="#content-asfass" title="Content">🖋</a>
 			</font></td>
+			</font></td>
+			<td align="center"><font color="#333333">
+			<a href="https://github.com/annie-howard"><img alt="" src="https://avatars.githubusercontent.com/u/90615915?v=4" width="100px;" />
+			<br />
+			<sub>annie-howard</sub></a>
+			<br />
+			<a href="#content-annie-howard" title="Content">🖋</a>
+			<a href="#eventOrganizing-annie-howard" title="Event Organizing">📋</a>
+			<a href="#question-annie-howard" title="Leading Discussion">💬</a>
+			</font></td>
 		</tr>
 	</tbody>
 </table>
