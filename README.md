@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet four times a year.
 
->Our next session is likely to be November/December, date TBC.
+> Our next session will be on Tuesday 6th December.
 
 The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
@@ -22,7 +22,9 @@ While you're here, you may also want to:
 
 ## Stay in the loop
 
-The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
+The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join our [mailing list](https://www.getrevue.co/profile/xgov-data-ethics).
+
+Otherwise, we often post in the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
 
 We will also advertise sessions:
 
