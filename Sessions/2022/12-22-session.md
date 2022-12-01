@@ -20,7 +20,9 @@ Please consider either buying the book from a local, independent bookseller, or 
 
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
-Check back here at a later point to find the discussion points for this event.
+- How is this book different to _similar_ books you've read before?
+- Have you ever encountered _technochauvinism_ in your work?
+- How do you think the author's background as a computer scientist and data journalist affects its narrative?
 
 <!--
 
