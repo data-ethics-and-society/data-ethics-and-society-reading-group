@@ -29,7 +29,7 @@ There will be time to talk about whatever we like, relating to the paper, but he
 ## Meeting notes
 
 ### Who came
-Number of people:
+Number of people: 22
 
 ### What did we think?
 Notes here!

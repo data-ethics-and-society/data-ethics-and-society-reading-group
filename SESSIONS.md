@@ -8,7 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| February 2023 | Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers |
+| February 2023 | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers](./Sessions/2023/02-23-session.md) |
 | May 2023 | Material TBD|
 | September 2023 | Material TBD|
 
