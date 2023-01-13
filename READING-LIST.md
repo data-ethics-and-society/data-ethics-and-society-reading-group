@@ -25,7 +25,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://www.bloomsbury.com/uk/queer-data-9781350230729/), *Kevin Guyan*
 - [We The People: A Playbook for Data Ethics in a Democratic Society](https://blackwells.co.uk/bookshop/product/We-The-People-by-Kathy-Rondon/9781634627528), *Kathy Rondon*
 - [Data and Society: A Critical Introduction](https://uk.sagepub.com/en-gb/eur/data-and-society/book269709), *Anne Beaulieu and Sabina Leonelli*
-- [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)]([https://uk.sagepub.com/en-gb/eur/data-and-society/book269709](https://twitter.com/grsturge)), *Georgina Sturge* 📅 02-23
+- [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://twitter.com/grsturge), *Georgina Sturge* 📅 02-23
 
 ## Bias
 - Dark Data: Why What You Don’t Know Matters, *David Hand* <sup>1</sup>
@@ -43,7 +43,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 - Heartificial Intelligence, *John C Havens*
 - Artificial Unintelligence: How computers misunderstand the world, *Meredith Broussard* ✅
 - [How Algorithms Create and Prevent Fake News: Exploring the Impacts of Social Media, Deepfakes, GPT-3, and More](https://link.springer.com/book/10.1007/978-1-4842-7155-1), *Noah Giansiracusa*
-- 
+
 ## Technology & Society
 
 - Atlas of AI, *Kate Crawford* <sup>1</sup> ✅
