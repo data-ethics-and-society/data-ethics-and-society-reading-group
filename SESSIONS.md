@@ -8,9 +8,9 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [06.12.22, 12:30](./Sessions/2022/12-22-session.md) | [Artificial Unintelligence: How Computers Misunderstand the World](https://www.tickettailor.com/events/dataethics/778998/) |
-| February 2023 | Material TBD|
+| February 2023 | Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers |
 | May 2023 | Material TBD|
+| September 2023 | Material TBD|
 
 --------------
 
@@ -18,6 +18,7 @@ You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [06.12.22, 12:30](./Sessions/2022/12-22-session.md) | [Artificial Unintelligence: How Computers Misunderstand the World]([https://www.tickettailor.com/events/dataethics/778998/](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/) |
 | [06.09.22, 12:00](./Sessions/2022/09-22-session.md) | [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) |
 | [31.05.2022, 12:00](./Sessions/2022/05-22-session.md) | [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) |
 | [15.02.2022, 12:00](./Sessions/2022/02-22-session.md) | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) |
