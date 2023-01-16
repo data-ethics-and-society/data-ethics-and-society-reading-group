@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet four times a year.
 
-> Our next session will be on Tuesday 28th February 2023 where we will be discussing [Bad data: How Governments, Politicians and the Rest of Us Get Misled by Numbers, by Georgina Sturge](https://twitter.com/grsturge).
+> Our [next session](./Sessions/2023/02-23-session.md) will be on Tuesday 28th February 2023 where we will be discussing [Bad data: How Governments, Politicians and the Rest of Us Get Misled by Numbers, by Georgina Sturge](https://twitter.com/grsturge).
 
 The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
