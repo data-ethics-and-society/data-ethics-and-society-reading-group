@@ -14,7 +14,9 @@ Please consider either buying the book from a local, independent bookseller, or 
 
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
-- TBD
+1.	When is bad data better than no data?
+2.	Do you think good data can exist that satisfies everyone?
+3.	How did this book leave you feeling about your role as a public sector data practitioner?
 
 <!--
 
