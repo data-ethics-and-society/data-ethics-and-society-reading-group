@@ -10,7 +10,7 @@
 - <sup>2</sup> = A shorter piece of work, perhaps to combine with something else
 
 These are rough categories, reading materials appear once in the category we felt they fit best. 
-We welcome suggestions for new categories, or moving materials between categories (please [open an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose), or [send us a Slack message](https://govdatascience.slack.com/team/UE7T99KTR)).
+We welcome suggestions for new categories, or moving materials between categories (please [add a comment to this sli.do](https://app.sli.do/event/mwXfqUfCrXv4kUjajRWEd8), or [send us a Slack message](https://govdatascience.slack.com/team/UE7T99KTR)).
 
 ## Ethics in action
 
@@ -25,13 +25,13 @@ We welcome suggestions for new categories, or moving materials between categorie
 - [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://www.bloomsbury.com/uk/queer-data-9781350230729/), *Kevin Guyan*
 - [We The People: A Playbook for Data Ethics in a Democratic Society](https://blackwells.co.uk/bookshop/product/We-The-People-by-Kathy-Rondon/9781634627528), *Kathy Rondon*
 - [Data and Society: A Critical Introduction](https://uk.sagepub.com/en-gb/eur/data-and-society/book269709), *Anne Beaulieu and Sabina Leonelli*
-- [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://twitter.com/grsturge), *Georgina Sturge* 📅 02-23
+- [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://twitter.com/grsturge), *Georgina Sturge* ✅ 
 
 ## Bias
 - Dark Data: Why What You Don’t Know Matters, *David Hand* <sup>1</sup>
 - Invisible Women: Exposing Data Bias in a World Designed for Men, *Caroline Criado Perez* <sup>1</sup>  ✅
 - Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech, *Sara Wachter-Boettch* <sup>1</sup>
-- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup>
+- Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy, *Cathy O'Neil* <sup>1</sup> 📅 05-23
 - Algorithms of Oppression, *Safiya Noble* <sup>1</sup>
 
 ## Algorithmic decision making
