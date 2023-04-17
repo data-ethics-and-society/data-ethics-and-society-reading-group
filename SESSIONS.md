@@ -1,16 +1,16 @@
 # Meeting Dates
 
-Sessions are every three months or so, usually on a **weekday lunchtime** at around 12:30-1:30pm.
+Sessions are every three months or so, usually on a **weekday lunchtime** at around midday.
 
 The dates for upcoming sessions are here, but the discussion material will be voted for in the meeting before. All additional material can be found in the relevant session information document.
 
-An sign-up link will be sent out via Slack, as well as our [mailing list](https://www.getrevue.co/profile/xgov-data-ethics) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via the [Slack Workspace](https://govdatascience.slack.com) if you do not receive an invite.
+An sign-up link will be sent out via Slack, as well as our [mailing list](http://eepurl.com/ii-yWP) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via the [Slack Workspace](https://govdatascience.slack.com) if you do not receive an invite.
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| February 2023 | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers](./Sessions/2023/02-23-session.md) |
-| May 2023 | Material TBD|
+| [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction) |
 | September 2023 | Material TBD|
+| December 2023 | Material TBD|
 
 --------------
 
@@ -18,6 +18,7 @@ You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [28.02.23, 12:00](./Sessions/2023/02-23-session.md) | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers](https://www.waterstones.com/book/bad-data/georgina-sturge/9780349128610) |
 | [06.12.22, 12:30](./Sessions/2022/12-22-session.md) | [Artificial Unintelligence: How Computers Misunderstand the World]([https://www.tickettailor.com/events/dataethics/778998/](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/) |
 | [06.09.22, 12:00](./Sessions/2022/09-22-session.md) | [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) |
 | [31.05.2022, 12:00](./Sessions/2022/05-22-session.md) | [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) |
