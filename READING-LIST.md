@@ -57,6 +57,7 @@ We welcome suggestions for new categories, or moving materials between categorie
 - Don't Be Evil: The Case Against Big Tech, *Rana Foroohar* <sup>1</sup> 
 - [Technology is Not Neutral: A Short Guide to Technology Ethics](https://londonpublishingpartnership.co.uk/technology-is-not-neutral/), *Stephanie Hare*
 - [Right/Wrong: How Technology Transforms Our Ethics](https://mitpress.mit.edu/9780262542814/rightwrong/), *Juan Enriquez*
+- [The Truth Detective: How to make sense of a world that doesn't add up](https://toppsta.com/books/details/413338/the-truth-detective-make-sense-of-the-world-using-the-power-of-numbers), *Tim Harford*
 
 ## Communication
 - How Charts Lie, *Alberto Cairo* <sup>1</sup>
