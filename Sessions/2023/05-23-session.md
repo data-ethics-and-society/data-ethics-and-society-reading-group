@@ -14,7 +14,9 @@ Please consider either buying the book from a local, independent bookseller, or 
 
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
-TBD
+1. How did you react to learning about Weapons of Math Destruction (WMDs)? Which hit closest to home for you?
+2. Do large language models such as Chat-GPT reinforce the idea that we are living in a "techno-utopia" (the idea that data science tools are somehow making things objective and fair)? If so, how?
+3. Given that this book was first published in 2016, do you think WMDs are more or less harmful in 2023?
 
 <!--
 
