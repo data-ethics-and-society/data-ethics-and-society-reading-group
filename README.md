@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet four times a year.
 
-> Our [next session](./Sessions/2023/05-23-session.md) will be on Wednesday 17th May 2023 where we will be discussing [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy by Cathy O'Neil](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction). 📝 :arrow_right: [**Sign up here!**](https://www.eventbrite.co.uk/e/weapons-of-math-destruction-data-ethics-and-society-reading-group-tickets-592353945597)
+> Our next session is yet to be confirmed, but likely to be late summer/early autumn. Watch this space!
 
 [Sign up to our mailing list](http://eepurl.com/ii-yWP) to hear about all our events.
 
