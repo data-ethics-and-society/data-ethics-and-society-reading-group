@@ -8,8 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](http:/
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction) |
-| September 2023 | Material TBD|
+| August/September 2023 | Material TBD|
 | December 2023 | Material TBD|
 
 --------------
@@ -18,6 +17,7 @@ You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction) |
 | [28.02.23, 12:00](./Sessions/2023/02-23-session.md) | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers](https://www.waterstones.com/book/bad-data/georgina-sturge/9780349128610) |
 | [06.12.22, 12:30](./Sessions/2022/12-22-session.md) | [Artificial Unintelligence: How Computers Misunderstand the World]([https://www.tickettailor.com/events/dataethics/778998/](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/) |
 | [06.09.22, 12:00](./Sessions/2022/09-22-session.md) | [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) |
