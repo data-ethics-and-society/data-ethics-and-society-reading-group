@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet four times a year.
 
-> Our next session is yet to be confirmed, but likely to be late summer/early autumn. Watch this space!
+> [Come along](https://www.eventbrite.com/e/673819762047) to our next session, where we will discuss 'Good Data' by Sam Gilbert, on Tuesday 19th September 12:00-13:00. For more details see [this event's session page](./Sessions/2023/09-23-session.md).
 
 [Sign up to our mailing list](http://eepurl.com/ii-yWP) to hear about all our events.
 
@@ -16,7 +16,7 @@ The organisers are based in Leeds and Cardiff, and the group is open to all civi
 
 While you're here, you may also want to:
 
-* [see the dates of our upcoming sessions](./SESSIONS.md).
+* [see the dates of our upcoming sessions, and see details of previous sessions](./SESSIONS.md).
 * enjoy our [reading list](./READING-LIST.md).
 * [suggest reading materials](#how-to-make-suggestions).
 * [get involved in organising](#get-involved).

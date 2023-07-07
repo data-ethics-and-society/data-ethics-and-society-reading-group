@@ -8,7 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](http:/
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| August/September 2023 | Material TBD|
+| [19.09.23, 12:00](./Sessions/2023/09-23-session.md) | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) |
 | December 2023 | Material TBD|
 
 --------------
