@@ -10,7 +10,7 @@ We meet four times a year.
 
 > [Come along](https://www.eventbrite.com/e/673819762047) to our next session, where we will discuss 'Good Data' by Sam Gilbert, on Tuesday 19th September 12:00-13:00. For more details see [this event's session page](./Sessions/2023/09-23-session.md).
 
-[Sign up to our mailing list](http://eepurl.com/ii-yWP) to hear about all our events.
+[Sign up to our mailing list](https://xgovdataethics.substack.com/) to hear about all our events.
 
 The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
 
@@ -24,7 +24,7 @@ While you're here, you may also want to:
 
 ## Stay in the loop
 
-The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join our [mailing list](http://eepurl.com/ii-yWP).
+The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join our [mailing list](https://xgovdataethics.substack.com/).
 
 Otherwise, we often post in the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
 
