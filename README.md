@@ -167,10 +167,9 @@ This website has passed the Government's [accessibility criteria](https://www.go
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...  
 
-+ 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
-+ 💬  for leading the discussion in a meeting  
-+ 📝  for attending a Data Ethics Club meeting (and contributing to our outputs)
-+ 📋  for organising  
-+ 🤔  for ideas and planning of the group
-+ 🎨  for visual design (e.g. logo)
-+ 🚧  for repository maintenance (e.g. fixing links)
+* 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
+* 💬  for leading the discussion in a meeting  
+* 📋  for organising  
+* 🤔  for ideas and planning of the group
+* 🎨  for visual design (e.g. logo)
+* 🚧  for repository maintenance (e.g. fixing links)
