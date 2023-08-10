@@ -6,52 +6,45 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology, Invis
 
 The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically.
 
-We meet four times a year.
+We meet (virtually) four times a year.
 
 > [Come along](https://www.eventbrite.com/e/673819762047) to our next session, where we will discuss 'Good Data' by Sam Gilbert, on Tuesday 19th September 12:00-13:00. For more details see [this event's session page](./Sessions/2023/09-23-session.md).
 
-[Sign up to our mailing list](https://xgovdataethics.substack.com/) to hear about all our events.
-
-The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK.
-
-Feel free to run one of the sessions at your own organisation too. All resources are included in this repo and are available under the terms of the [license](./LICENSE).
-
 While you're here, you may also want to:
 
-* [see the dates of our upcoming sessions, and see details of previous sessions](./SESSIONS.md).
 * enjoy our [reading list](./READING-LIST.md).
 * [suggest reading materials](#how-to-make-suggestions).
+* [see details of previous sessions](./SESSIONS.md).
 * [get involved in organising](#get-involved).
-* [host a similar event](./Guides/organising.md).
+* [contact us](mailto:xgov-data-ethics@proton.me)
 
 ## Stay in the loop
 
-The main way to keep informed about [upcoming sessions](./SESSIONS.md) is to join our [mailing list](https://xgovdataethics.substack.com/).
+Join our [mailing list](https://xgovdataethics.substack.com/) to hear about upcoming events.
 
-Otherwise, we often post in the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
-
-We will also advertise sessions:
-
-* By putting the dates [right here in this repository](./SESSIONS.md).
-* We'll [tweet about it at #DSEthicsGroup](https://twitter.com/hashtag/DSEthicsGroup?src=hashtag_click)
+We also hang out in the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
 
 ## Get Involved
 
 If you're interested in joining us in organising, take a look at our [facilitating](./Guides/facilitating.md) and [organising](./Guides/organising.md) guides to see if it might be for you. Get in touch via [email](mailto:xgov-data-ethics@proton.me) if so- we would really welcome new organisers!
 
+Interested in starting your own group at your organisation? All resources included in this repo are available under the terms of the [license](./LICENSE).
+
 ## How to make suggestions
 
-If you'd like to make a suggestion for what to read, please do whatever you'd prefer:
+If you'd like to make a suggestion for what to read, please do so however you prefer:
 
 * [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
-* make a Pull Request (PR)
+* make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
 * contact us via [email](mailto:xgov-data-ethics@proton.me)
 
 ---
 
 ## Attendance
 
-This group is exclusively for the public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
+This group is exclusively for the UK public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
+
+The organisers are based in Leeds and Cardiff.
 
 ### Frequently Asked Questions
 
