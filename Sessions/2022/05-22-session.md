@@ -4,12 +4,12 @@
 
 ### Description
 
-You're welcome to join us for the second of the 2022 Data Ethics & Society Reading Group sessions, on Tuesday the 31st May 2022 at [12:00-13:00](https://www.timeanddate.com/countdown/generic?iso=20220531T12&p0=298&msg=Data+Ethics+and+Society+Reading+Group%3A+Counting%3A+How+We+Use+Numbers+to+Decide+What+Matters&ud=1&font=serif). 
+You're welcome to join us for the second of the 2022 Data Ethics & Society Reading Group sessions, on Tuesday the 31st May 2022 at [12:00-13:00](https://www.timeanddate.com/countdown/generic?iso=20220531T12&p0=298&msg=Data+Ethics+and+Society+Reading+Group%3A+Counting%3A+How+We+Use+Numbers+to+Decide+What+Matters&ud=1&font=serif).
 
 We will be discussing [Deborah Stone's Counting: How We Use Numbers to Decide What Matters
 ](https://www.goodreads.com/book/show/50489326-counting). _Stone explains how counting determines almost every facet of our lives-from how we are evaluated at work to how our political opinions are polled to whether we get into higher education or even out of prison. But numbers, Stone insists, need not rule our lives._
 
-> Please consider either buying the book from a local, independent bookseller, or picking up a used copy online. 
+> Please consider either buying the book from a local, independent bookseller, or picking up a used copy online.
 
 Thank you to Harriet for suggesting this events content.
 

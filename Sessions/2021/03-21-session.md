@@ -1,10 +1,14 @@
-# Session 03-03-2021- Bias
+# Data Ethics & Society Reading Group 03-03-2021
 
-Bias “[uncountable, countable] the fact that the results of research or an experiment are not accurate because a particular factor has not been considered when collecting the information”, Oxford Learners Dictionary. 
+## Meeting info
+
+### Description
+
+Bias “[uncountable, countable] the fact that the results of research or an experiment are not accurate because a particular factor has not been considered when collecting the information”, Oxford Learners Dictionary.
 
 ## Suggested Material
 
-These are not pre-requisite reading material for attendance, but a compliation of material the team find interesting and would read if they themselves have unlimited time.
+These are not pre-requisite reading material for attendance, but a compilation of material the team find interesting and would read if they themselves have unlimited time.
 
 ### YouTube Videos
 

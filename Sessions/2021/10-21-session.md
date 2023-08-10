@@ -28,7 +28,7 @@ Thank you to Callum for suggesting this week's content and leading this month's 
 
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
-- What is the purpose of nudging communications and methodologies? Do they help or hinder us? 
+- What is the purpose of nudging communications and methodologies? Do they help or hinder us?
 - Do you notice when you are being nudged? Or is this the first time you’ve thought about? If the latter, why do you think you haven’t noticed it before?
 - Should government employ nudging communications? How can they be used positively to achieve policy goals? Or should government stop using nudging communications?
 - What is the responsibility that government should take in checking the impacts of its communications, if at all?

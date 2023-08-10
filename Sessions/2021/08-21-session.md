@@ -12,7 +12,7 @@ Atlas of AI presents AI as a technology of extraction: from the minerals drawn f
 
 This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardcover), or an independent retailer.
 
-#### **You are very welcome to attend if you haven't read any of the book. You are also welcome if you didn't attend the first event!**. 
+#### **You are very welcome to attend if you haven't read any of the book. You are also welcome if you didn't attend the first event!**
 
 We have put together some material related to some of the concepts in the book below.
 
@@ -22,11 +22,11 @@ Crawford discusses the book in this sub one-hour video using content from the bo
 - [Excavating AI](https://excavating.ai/), *Kate Crawford & Trevor Paglen*
 Contains a lot of similar material to that covered in the 'Classification' chapter.
 
-- [Artificial Intelligence is Misreading Human Emotion](https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/), *Kate Crawford, The Atlantic*. 
+- [Artificial Intelligence is Misreading Human Emotion](https://www.theatlantic.com/technology/archive/2021/04/artificial-intelligence-misreading-human-emotion/618696/), *Kate Crawford, The Atlantic*.
 This article is adapted from the book's 'Affect' chapter.
 
-- [Google’s artificial intelligence ethics won't curb war by algorithm](https://www.wired.co.uk/article/google-project-maven-drone-warfare-artificial-intelligence), *Phoebe Braithwaite, Wired*. 
-This article explores how Google was involved with the  US Department of Defense’s Project Maven, which used AI to target drone strikes. 
+- [Google’s artificial intelligence ethics won't curb war by algorithm](https://www.wired.co.uk/article/google-project-maven-drone-warfare-artificial-intelligence), *Phoebe Braithwaite, Wired*.
+This article explores how Google was involved with the  US Department of Defense’s Project Maven, which used AI to target drone strikes.
 
 - [Stop talking about AI ethics. It’s time to talk about power](https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/), *Karen Hao, MIT Technology Review*.
 This is a review article for the book, which summarises everything neatly.
