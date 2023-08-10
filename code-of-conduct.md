@@ -1,11 +1,10 @@
 # Code of Conduct
 
-This Code of Conduct has been adapted (only very slightly) from that developed by the [Data Ethics Club](http://www.bristol.ac.uk/golding/what-we-do/data-governance-and-reproducibility/) of the Jean Golding Institute. This in turn was influecned by the [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules).
+This Code of Conduct has been adapted (only very slightly) from that developed by the [Data Ethics Club](http://www.bristol.ac.uk/golding/what-we-do/data-governance-and-reproducibility/) of the Jean Golding Institute. This in turn was influenced by the [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules).
 
 We want this discussion group to be a space where people feel welcome to discuss their thoughts and ideas. So, we have adapted this Code of Conduct (CoC) to ensure that those participating are protected from abuse, harassment or discrimination, and that the discussions we have are supportive and productive, whilst remaining in line with Chatham House Rules.
 
-If you would like to suggest an addition or amendment then you can [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose),
-submit a PR.
+If you would like to suggest an addition or amendment then you can [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) or submit a PR.
 
 ## Unacceptable behaviours
 
@@ -20,7 +19,6 @@ Unacceptable behaviours include but are not limited to:
 * Real or implied threat of professional or financial damage or harm.
 * Inappropriate disruption of meetings or events.
 * Photographing, video or audio recording of slides, oral or poster presentations without presenter/author’s permission.
-* Violating the rules and regulations of the online platform
 
 ## Discussion Guidelines
 
@@ -37,4 +35,4 @@ Unacceptable behaviours include but are not limited to:
 
 ## Reporting Procedure
 
-If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with either [Harriet](https://govdatascience.slack.com/team/U01BSUWU0UE) or [Michael](https://govdatascience.slack.com/team/UE7T99KTR) via [Slack](https://govdatascience.slack.com).
+If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with the organisers on [xgov-data-ethics@proton.me](mailto:xgov-data-ethics@proton.me).
