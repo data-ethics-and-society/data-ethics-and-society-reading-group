@@ -41,10 +41,6 @@ There will be time to talk about whatever we like, relating to the paper, but he
 ## Meeting notes
 
 ### Who came
-Number of people:
-
-### What did we think?
-Notes here!
-Shall we email the author? If so, who'll send the email?
+Number of people: 17
 
 -->

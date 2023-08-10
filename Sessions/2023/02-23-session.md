@@ -23,8 +23,4 @@ There will be time to talk about whatever we like, relating to the paper, but he
 ### Who came
 Number of people: 46
 
-### What did we think?
-Notes here!
-Shall we email the author? If so, who'll send the email?
-
 -->

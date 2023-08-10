@@ -28,8 +28,4 @@ Thank you to Harriet for suggesting this events content.
 ### Who came
 Number of people: 17
 
-### What did we think?
-Notes here!
-Shall we email the author? If so, who'll send the email?
-
 -->

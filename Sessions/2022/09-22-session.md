@@ -30,8 +30,4 @@ Thank you to Katy and Annie for suggesting this events content.
 ### Who came
 Number of people: 42
 
-### What did we think?
-Notes here!
-Shall we email the author? If so, who'll send the email?
-
 -->
