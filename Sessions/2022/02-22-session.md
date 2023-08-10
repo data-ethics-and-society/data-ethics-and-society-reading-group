@@ -1,10 +1,10 @@
-# Data Science: Ethics & Society Reading Group 15-02-22, [12:00-13:00 GMT](https://www.timeanddate.com/countdown/generic?p0=136&iso=20220215T12&msg=Data%20Ethics%20and%20Society%20Reading%20Group%3a%20Hello%20World)
+# Data Ethics & Society Reading Group 15-02-22, [12:00-13:00 GMT](https://www.timeanddate.com/countdown/generic?p0=136&iso=20220215T12&msg=Data%20Ethics%20and%20Society%20Reading%20Group%3a%20Hello%20World)
 
 ## Meeting info
 
 ### Description
 
-You're welcome to join us for the first of the 2022 Data Science: Ethics & Society Reading Group sessions, on Tuesday the 15th February 2022 at [12:00-13:00](https://www.timeanddate.com/countdown/generic?p0=136&iso=20220215T12&msg=Data%20Ethics%20and%20Society%20Reading%20Group%3a%20Hello%20World). 
+You're welcome to join us for the first of the 2022 Data Ethics & Society Reading Group sessions, on Tuesday the 15th February 2022 at [12:00-13:00](https://www.timeanddate.com/countdown/generic?p0=136&iso=20220215T12&msg=Data%20Ethics%20and%20Society%20Reading%20Group%3a%20Hello%20World). 
 
 <img src="img/helloworld.jpg" width=400px>
 

@@ -1,10 +1,10 @@
-# Data Science: Ethics & Society Reading Group 19-10-21, [12:30-13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science+Ethics+Reading+Group&iso=20211019T1230&p1=136&ah=1)
+# Data Ethics & Society Reading Group 19-10-21, [12:30-13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science+Ethics+Reading+Group&iso=20211019T1230&p1=136&ah=1)
 
 ## Meeting info
 
 ### Description
 
-You're welcome to join us for our next Data Science: Ethics & Society Reading Group on Tuesday the 19th October 2021 at [12:30-13:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science+Ethics+Reading+Group&iso=20211019T1230&p1=136&ah=1). 
+You're welcome to join us for our next Data Ethics & Society Reading Group on Tuesday the 19th October 2021 at [12:30-13:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science+Ethics+Reading+Group&iso=20211019T1230&p1=136&ah=1).
 
 We will be discussing whether nudging helps or hinders us, whether government should employ nudging to achieve its important policy aims, and what responsibility government and technology companies have when using such methodologies.
 

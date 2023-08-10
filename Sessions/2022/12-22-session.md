@@ -1,8 +1,8 @@
-# Data Science: Ethics & Society Reading Group 06-12-22, [12:30-13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Ethics+and+Society+Reading+Group&iso=20221206T1230&p1=303&ah=1)
+# Data Ethics & Society Reading Group 06-12-22, [12:30-13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Ethics+and+Society+Reading+Group&iso=20221206T1230&p1=303&ah=1)
 
 ## Description
 
-You're welcome to join us for the final Data Science: Ethics & Society Reading Group session of 2022, on Tuesday 6th December 2022 at [12:30-13:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Ethics+and+Society+Reading+Group&iso=20221206T1230&p1=303&ah=1).
+You're welcome to join us for the final Data Ethics & Society Reading Group session of 2022, on Tuesday 6th December 2022 at [12:30-13:30](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Ethics+and+Society+Reading+Group&iso=20221206T1230&p1=303&ah=1).
 
 Tickets on sale now! Ticket sales end on Monday 5th December at 17:00.
 

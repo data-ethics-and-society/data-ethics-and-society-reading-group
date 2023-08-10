@@ -1,10 +1,10 @@
-# Data Science: Ethics & Society Reading Group 26-07-21 [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1)
+# Data Ethics & Society Reading Group 26-07-21 [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1)
 
 ## Meeting info
 
 ### Description
 
-You're welcome to join us for our next Data Science: Ethics & Society Reading Group on Monday the 26th July 2021 at [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1).
+You're welcome to join us for our next Data Ethics & Society Reading Group on Monday the 26th July 2021 at [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1).
 
 This time we're going to discuss the **first three chapters** (Earth, Labor & Data - plus the Introduction) of [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai) by Kate Crawford.
 

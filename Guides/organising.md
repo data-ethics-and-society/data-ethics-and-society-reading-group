@@ -1,5 +1,5 @@
 
-# How we organise the Data Science: Ethics & Society Reading Group
+# How we organise the Data Ethics & Society Reading Group
 
 As with much of this repository, the below borrows heavily from [Data Ethics Club](https://github.com/very-good-science/data-ethics-club).
 
@@ -57,7 +57,7 @@ Some people aren't on GitHub of course, so to add them to the contributions list
 
 This person's contribution will then show up the next time you use the bot to add someone to the repo.  
 
-#### All Contributers emoji key
+#### All Contributors emoji key
 
 The slightly edited emoji key that we use is:
 
@@ -72,7 +72,7 @@ The slightly edited emoji key that we use is:
 
 ## Communicating
 
-We primarily use a free [Slack](https://slack.com/) Workspace to communicate with interested Data Science practioners across government. We are developed templates to use for Slack communications and are open to suggestions of how to communicate in a more automated and streamlined fashion!
+We primarily use a free [Slack](https://slack.com/) Workspace to communicate with interested Data Science practitioners across government. We are developed templates to use for Slack communications and are open to suggestions of how to communicate in a more automated and streamlined fashion!
 
 ### Tips for communication
 

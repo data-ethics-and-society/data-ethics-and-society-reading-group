@@ -1,10 +1,10 @@
-# Data Science: Ethics & Society Reading Group 24-08-21 [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science%3A+Ethics+%26+Society+Reading+Group+24-08-2&iso=20210824T1230&p1=136&ah=1)
+# Data Ethics & Society Reading Group 24-08-21 [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science%3A+Ethics+%26+Society+Reading+Group+24-08-2&iso=20210824T1230&p1=136&ah=1)
 
 ## Meeting info
 
 ### Description
 
-You're welcome to join us for our next Data Science: Ethics & Society Reading Group on Tuesday the 24th August 2021 at [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science%3A+Ethics+%26+Society+Reading+Group+24-08-2&iso=20210824T1230&p1=136&ah=1).
+You're welcome to join us for our next Data Ethics & Society Reading Group on Tuesday the 24th August 2021 at [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Science%3A+Ethics+%26+Society+Reading+Group+24-08-2&iso=20210824T1230&p1=136&ah=1).
 
 Following our successful event looking at the first three chapters (Earth, Labor and Data), this time we're going to discuss the **final chapters** (Classification, Affect, State & Power) of [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai) by Kate Crawford.
 

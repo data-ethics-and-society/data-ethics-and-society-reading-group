@@ -1,4 +1,4 @@
-# Data Science: Ethics & Society Reading Group DD-MM-YY, [MEETING-TIME GMT](LINK-TO-TIMEDATE)
+# Data Ethics & Society Reading Group DD-MM-YY, [MEETING-TIME GMT](LINK-TO-TIMEDATE)
 
 <!-- 
 TODO:
@@ -19,7 +19,7 @@ Usual time 12:00-13:00
 
 ## Description
 
-You're welcome to join us for our next Data Science: Ethics & Society Reading Group on DAY the DATE at [TIME GMT](LINK-TO-TIMEDATE). This time we're going to watch/read [NAME OF CONTENT](LINK-TO-CONTENT) by AUTHOR(S), which is a VERY-SHORT-DESCRIPTION.
+You're welcome to join us for our next Data Ethics & Society Reading Group on DAY the DATE at [TIME GMT](LINK-TO-TIMEDATE). This time we're going to watch/read [NAME OF CONTENT](LINK-TO-CONTENT) by AUTHOR(S), which is a VERY-SHORT-DESCRIPTION.
 
 Thank you to PERSON-WHO-SUGGESTED for suggesting this week's content, and to SESSION-LEADER, who'll be leading this week's meeting.
 

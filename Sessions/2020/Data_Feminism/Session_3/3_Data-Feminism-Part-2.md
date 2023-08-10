@@ -1,4 +1,4 @@
-Data Science: Ethics & Society Reading Group Materials
+Data Ethics & Society Reading Group Materials
 ================
 
 # Session 3:  Data Feminism (Chapters 6+)
