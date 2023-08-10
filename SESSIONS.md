@@ -4,7 +4,7 @@ Sessions are every three months or so, usually on a **weekday lunchtime** at aro
 
 The dates for upcoming sessions are here, but the discussion material will be voted for in the meeting before. All additional material can be found in the relevant session information document.
 
-An sign-up link will be sent out via Slack, as well as our [mailing list](http://eepurl.com/ii-yWP) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via the [Slack Workspace](https://govdatascience.slack.com) if you do not receive an invite.
+An sign-up link will be sent out via Slack, as well as our [mailing list](https://xgovdataethics.substack.com/) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via [email](mailto:xgov-data-ethics@proton.me) if you do not receive an invite.
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
@@ -27,7 +27,7 @@ You can see a record of what we have discussed here:
 | [24.08.2021, 12:30](./Sessions/2021/08-21-session.md)   | ['Atlas of AI Part 2'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Classification, Affect, State and Power) |
 | [26.07.2021, 12:30](./Sessions/2021/07-21-session.md)   | ['Atlas of AI Part 1'](https://yalebooks.co.uk/display.asp?k=9780300209570) (Earth, Labor and Data) |
 | 25.05.2021, 15:00   | Refresher & Book Pitches|
-| [03.03.2021, 15:00](Sessions/2021/03-21-session.md)   | Bias (journals and articles) |
-| [25.09.2020, 16:00](Sessions/2020/Data_Feminism/Session_3/3_Data-Feminism-Part-2.md)   | [Data Feminism Part 3](https://mitpress.mit.edu/books/data-feminism) |
-| [25.08.2020, 16:00](Sessions/2020/Data_Feminism/Session_2/2_Reflecting-on-Practice.md)   | [Data Feminism Part 2](https://mitpress.mit.edu/books/data-feminism) |
-| [28.07.2020, 16:00](Sessions/2020/Data_Feminism/Session_1/1_Data-Feminism-Part-1.md)   | [Data Feminism Part 1](https://mitpress.mit.edu/books/data-feminism) |
+| [03.03.2021, 15:00](./Sessions/2021/03-21-session.md)   | Bias (journals and articles) |
+| [25.09.2020, 16:00](./Sessions/2020/09-20-session.md)   | [Data Feminism Part 3](https://mitpress.mit.edu/books/data-feminism) |
+| [25.08.2020, 16:00](./Sessions/2020/08-20-session.md)   | [Data Feminism Part 2](https://mitpress.mit.edu/books/data-feminism) |
+| [28.07.2020, 16:00](./Sessions/2020/07-20-session.md)   | [Data Feminism Part 1](https://mitpress.mit.edu/books/data-feminism) |
