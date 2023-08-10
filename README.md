@@ -12,7 +12,9 @@ We meet four times a year.
 
 [Sign up to our mailing list](https://xgovdataethics.substack.com/) to hear about all our events.
 
-The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
+The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK.
+
+Feel free to run one of the sessions at your own organisation too. All resources are included in this repo and are available under the terms of the [license](./LICENSE).
 
 While you're here, you may also want to:
 
@@ -20,7 +22,7 @@ While you're here, you may also want to:
 * enjoy our [reading list](./READING-LIST.md).
 * [suggest reading materials](#how-to-make-suggestions).
 * [get involved in organising](#get-involved).
-* [host a similar event](Guides/organising.md).
+* [host a similar event](./Guides/organising.md).
 
 ## Stay in the loop
 
@@ -147,8 +149,6 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
----
-
 ### Emoji Key
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...  
@@ -159,8 +159,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 * 🤔  for ideas and planning of the group
 * 🎨  for visual design (e.g. logo)
 * 🚧  for repository maintenance (e.g. fixing links)
-
----
 
 ## License
 
