@@ -23,7 +23,7 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 
 ## Communication
 
-- [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://twitter.com/grsturge), *Georgina Sturge* ✅
+- [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://www.hachette.co.uk/titles/georgina-sturge/bad-data/9780349128603/), *Georgina Sturge* ✅
 - [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) ✅
 - [How Charts Lie](https://albertocairo.com/), *Alberto Cairo*
 - [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/), *Tim Harford*
