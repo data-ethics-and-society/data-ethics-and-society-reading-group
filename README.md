@@ -12,7 +12,9 @@ We meet four times a year.
 
 [Sign up to our mailing list](https://xgovdataethics.substack.com/) to hear about all our events.
 
-The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK. To [stay in the loop](#stay-in-the-loop), please join the #ethics channel on the [cross-government Data Science Slack workspace](https://govdatascience.slack.com)- you’ll need a public sector email address to join. Feel free to run one of the sessions at your own organisation too. All resources are included in this repo.
+The organisers are based in Leeds and Cardiff, and the group is open to all civil servants in the UK.
+
+Feel free to run one of the sessions at your own organisation too. All resources are included in this repo and are available under the terms of the [license](./LICENSE).
 
 While you're here, you may also want to:
 
@@ -20,7 +22,7 @@ While you're here, you may also want to:
 * enjoy our [reading list](./READING-LIST.md).
 * [suggest reading materials](#how-to-make-suggestions).
 * [get involved in organising](#get-involved).
-* [host a similar event](Guides/organising.md).
+* [host a similar event](./Guides/organising.md).
 
 ## Stay in the loop
 
@@ -35,14 +37,7 @@ We will also advertise sessions:
 
 ## Get Involved
 
-If you're interested in joining us in organising, please ping us on [Slack](https://govdatascience.slack.com/team/U01BSUWU0UE). We would really welcome new organisers.
-
-### Organisers
-
-You can also contact us separately:
-
-* Harriet - [Slack](https://govdatascience.slack.com/team/U01BSUWU0UE) [Twitter](https://twitter.com/DataDiva)
-* Michael - [Slack](https://govdatascience.slack.com/team/UE7T99KTR) [Twitter](https://twitter.com/hodge_online)
+If you're interested in joining us in organising, take a look at our [facilitating](./Guides/facilitating.md) and [organising](./Guides/organising.md) guides to see if it might be for you. Get in touch via [email](mailto:xgov-data-ethics@proton.me) if so- we would really welcome new organisers!
 
 ## How to make suggestions
 
@@ -50,12 +45,13 @@ If you'd like to make a suggestion for what to read, please do whatever you'd pr
 
 * [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
 * make a Pull Request (PR)
+* contact us via [email](mailto:xgov-data-ethics@proton.me)
 
 ---
 
 ## Attendance
 
-This meetup is exclusively for the public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
+This group is exclusively for the public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
 
 ### Frequently Asked Questions
 
@@ -67,11 +63,7 @@ This meetup is exclusively for the public sector (central and local government a
 
 > Microsoft Teams provides a live captioning feature for attendees to use. We encourage our speakers to design slides with accessibility in mind, and we will try our best to send the slides in advance.
 
-* If you have any suggestions or requests regarding accessibility features, please email []. TODO: add email
-
-#### Privacy statement
-
-[ONS Privacy Statement](https://www.ons.gov.uk/aboutus/transparencyandgovernance/dataprotection/privacyinformationforourstakeholders)
+* If you have any suggestions or requests regarding accessibility features, please [email](mailto:xgov-data-ethics@proton.me) us.
 
 ---
 
@@ -82,10 +74,6 @@ Built off of, inspired by, and borrowing heavily from:
 * [Ethics Book Club in a
 Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKind UK](https://datakind.org.uk/): an intro to setting up a data ethics book club.
 * [Data Ethics Club](https://github.com/very-good-science/data-ethics-club)
-
----
-
-This website has passed the Government's [accessibility criteria](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag). If you want to raise anything related to its accessibility, please email Government.Data.Science.Conference@ons.gov.uk
 
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -161,16 +149,17 @@ This website has passed the Government's [accessibility criteria](https://www.go
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
----
-
 ### Emoji Key
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...  
 
-+ 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
-+ 💬  for leading the discussion in a meeting  
-+ 📝  for attending a Data Ethics Club meeting (and contributing to our outputs)
-+ 📋  for organising  
-+ 🤔  for ideas and planning of the group
-+ 🎨  for visual design (e.g. logo)
-+ 🚧  for repository maintenance (e.g. fixing links)
+* 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
+* 💬  for leading the discussion in a meeting  
+* 📋  for organising  
+* 🤔  for ideas and planning of the group
+* 🎨  for visual design (e.g. logo)
+* 🚧  for repository maintenance (e.g. fixing links)
+
+## License
+
+Unless stated otherwise, this is released under the [MIT License](./LICENSE).

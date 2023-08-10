@@ -1,5 +1,4 @@
-
-# How we organise the Data Science: Ethics & Society Reading Group
+# How we organise the Data Ethics & Society Reading Group
 
 As with much of this repository, the below borrows heavily from [Data Ethics Club](https://github.com/very-good-science/data-ethics-club).
 
@@ -7,74 +6,60 @@ We've described how a typical meeting would run in the ['Facilitating'](./facili
 
 ## Deciding on material to read
 
-The [reading list](./../READING-LIST.md) is organised into lots of different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](./../SESSIONS.md). We like to check off things we have discussed [in the reading list](./../READING-LIST.md), and include a link to the meeting info page which summarises the content.  
+The [reading list](./../READING-LIST.md) is organised into different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](./../SESSIONS.md). We like to check off things we have discussed [in the reading list](./../READING-LIST.md).  
 
-To decide on material to read the organisers pick three pieces from the list based on recent suggestions, and then the whole group votes on these for the following meeting.
+The whole group votes on what to read for the following meeting at the end of every session. A slido is pre-populated with items already on our reading list, and attendees are invited to vote for items, as well as add anything they want to read for others to upvote.
 
-We try to consider the following when picking what to put to the vote each week:
-    - If someone recently said they'd like it to make the list
-    - If there is a reason to prioritise looking a particular piece soon, for example if there is a deadline for feedback, or if something is a preprint or recent paper that would benefit from being looked at soon.
-    - If there are certain topics that missed out on being discussed due to the group make-up, (whether these relate to particular protected characteristics, e.g. disability, race, gender) or types of scholarship (e.g. data science keeps winning in votes over social science), then consider having a themed meeting, where all three choices are all within that category, to ensure we get a chance to discuss it.
+## Administrative tasks
 
-It's useful to prepare a very short (1-2 sentence) summary about each piece of content to introduce it to the group, so that they know what they're voting for.
+### Before the meeting
+
+- [ ] Determine the material to discuss from the item with most votes on the slido from the previous meeting
+- [ ] Create a [meeting information file](./../Sessions/session-template.md) in the `Sessions/` folder
+- [ ] Update the [meeting overview file](./../SESSIONS.md) with a link to the new meeting information page
+- [ ] Create a sign-up form to manage attendees (we currently use the Eventbrite platform for this, but are open to other suggestions)
+- [ ] Produce a Substack post promoting the event
+- [ ] Promote the event via the following channels:
+  - [ ] #ethics channel of the Cross-Government Data Science Slack Workspace
+  - [ ] AnalystX
+  - [ ] The following cross-government newsletters
+    - [ ] [Data Science Community of Interest](https://datasciencecampus.ons.gov.uk/capability/cross-government-and-public-sector-data-science-community/)
+    - [ ] [Analysis Function](https://analysisfunction.civilservice.gov.uk/newsletter/)
+    - [ ] [Government Statistical Service](https://analysisfunction.civilservice.gov.uk/government-statistical-service-and-statistician-group/get-involved/subscribe-to-the-government-statistical-service-gss-newsletter/)
+    - [ ] [Government Operational Research Service](http://www.operational-research.gov.uk/recruitment/)
+    - [ ] CDDO X-Gov Bulletin
+- [ ] Send a six-week reminder to attendees to get a copy of the reading material
+- [ ] Decide on three questions around the piece to discuss.
+- [ ] Set up a calendar event (we currently use Microsoft Teams for this)
+- [ ] Send a four-week reminder to attendees with the event invite and the discussion questions
+- [ ] Set up slido with items pre-populated from the [Reading List](./../READING-LIST.md)
+- [ ] Prepare slides if required
+- [ ] Send a one-week reminder to attendees with a link to the [introductory video](https://www.youtube.com/watch?v=nuWOeRx26iw)
+- [ ] Send a one-day reminder to attendees with quick links to the online meeting  
+
+### After the meeting
+
+- [ ] Upload [attendee numbers](./../Sessions/attendance.csv)
+- [ ] Send thank you email and reminder to vote on slido
 
 ## Contributing
 
 ### How can I contribute to the reading list?
 
-Since we organise around a GitHub repository people can submit issues using our issue template. People can also submit pull requests, or simply send us a Slack message and we upload their suggestions on to the repository - we know not everyone is comfortable using GitHub!
+Since we organise around a GitHub repository people can submit issues using our issue template. People can also submit pull requests, or simply send us an [email](mailto:xgov-data-ethics@proton.me) and we can upload your suggestions on to the repository - we know not everyone is comfortable using GitHub!
 
 ### How do we acknowledge contributions?
 
-Contributions can be lots of different things, and so we use [All Contributors](https://allcontributors.org/) to capture a variety of contribution types. These include suggesting material, fixing broken links, organising and producing artwork. To suit our purposes we're using the [emoji key](#all-contributors-emoji-key) adapted by [Data Ethics Club](https://github.com/very-good-science/data-ethics-club) with some slight changes.  
+Contributions can be lots of different things, and so we use the [emoji key](#all-contributors-emoji-key) on our front page. This has been adapted from that used by [Data Ethics Club](https://github.com/very-good-science/data-ethics-club). If you think you should be listed as a contributor but can't see your GitHub handle listed, please [get in touch](mailto:xgov-data-ethics@proton.me).
 
-#### Using the all-contributors bot
+### How can I get involved in organising?
 
-TO DO: check use of bot
+We welcome any administrative and organisational help you can offer! Please get in touch via [email](xgov-data-ethics@proton.me). We'd especially like to hear from people who are new to the Civil Service and from groups usually under-represented in data science.
 
-All Contributors provides a GitHub bot that makes it easy to add new contributors.
-To use it, comment in an issue or pull-request something like:  
+### I'd like to lead a session on a particular topic
 
-```markdown
-@all-contributors please add @NatalieThurlby for organising  
-```
-
-The bot will then set up a pull-request (PR) to add the named person to the contributors list, and the PR will update the list of contributors at the bottom. We are in the process of setting up an open issue that we use to call the all-contributors bot. TO DO: open issue
-
-Some people aren't on GitHub of course, so to add them to the contributions list you can manually edit the file `.all-contributorsrc` by adding the following object to the list:  
-
-```
-    {
-      "login": "",
-      "name": "FirstName SecondName",
-      "avatar_url": "https://www.example.com/profile-pic.jpg",
-      "profile": "https://mywebsite.com",
-      "contributions": [
-        "content"
-      ]
-    },
-```
-
-This person's contribution will then show up the next time you use the bot to add someone to the repo.  
-
-#### All Contributers emoji key
-
-The slightly edited emoji key that we use is:
-
-🖋 (content) for submitting suggestions to the "reading" list (suggestions can be any medium!)  
-💬 (question) for leading the discussion in a meeting  
-📝 (blog) for writing in the HackMD in a meeting  
-📋 (eventOrganising) for organising  
-🤔 (ideas) for ideas and planning of the group  
-🎨 (design) for visual design (e.g. logo)  
-🚇 (infrastructure) for infrastructure (e.g. bots, CI)  
-🚧 (maintenance) for repository maintenance (e.g. fixing links)  
+Brilliant! Please reach out to us via [email](xgov-data-ethics@proton.me) and we can set this up with you.
 
 ## Communicating
 
-We primarily use a free [Slack](https://slack.com/) Workspace to communicate with interested Data Science practioners across government. We are developed templates to use for Slack communications and are open to suggestions of how to communicate in a more automated and streamlined fashion!
-
-### Tips for communication
-
-- Using a reusable Teams link simplifies things for us and attendees. TO DO: check if we can do this
-- Providing multiple avenues for communication helps us get lots of different types of feedback (e.g. GitHub issues, Slack, even Twitter!)
+We primarily use our [newsletter](https://xgovdataethics.substack.com/) to communicate with interested Data Science practitioners across government. Sign up to hear about upcoming events.

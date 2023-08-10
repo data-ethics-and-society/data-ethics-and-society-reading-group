@@ -1,10 +1,10 @@
-# Data Science: Ethics & Society Reading Group 26-07-21 [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1)
+# Data Ethics & Society Reading Group 26-07-21 [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1)
 
 ## Meeting info
 
 ### Description
 
-You're welcome to join us for our next Data Science: Ethics & Society Reading Group on Monday the 26th July 2021 at [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1).
+You're welcome to join us for our next Data Ethics & Society Reading Group on Monday the 26th July 2021 at [12:30 - 13:30 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20210726T1230&p1=136&ah=1).
 
 This time we're going to discuss the **first three chapters** (Earth, Labor & Data - plus the Introduction) of [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai) by Kate Crawford.
 
@@ -12,7 +12,7 @@ Atlas of AI presents AI as a technology of extraction: from the minerals drawn f
 
 This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardcover), or an independent retailer.
 
-#### **You are very welcome to attend if you haven't read any of the book**. 
+#### **You are very welcome to attend if you haven't read any of the book**
 
 We have put together some material related to some of the concepts in the book below.
 
@@ -34,7 +34,7 @@ Thank you to Harriet for suggesting this week's content, and to all those who su
 
 There will be time to talk about whatever we like, relating to the paper, but here are some specific questions to think about while you're reading.
 
-- Was there anything that surpised you about Atlas of AI?
+- Was there anything that surprised you about Atlas of AI?
 - What should people know about how AI products are made?
 - Problems of bias have been well documented in AI technology. Can more data solve that?
 - Will you plan to read the remaining chapters of Atlas of AI?
