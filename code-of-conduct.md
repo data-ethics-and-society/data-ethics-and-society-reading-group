@@ -13,7 +13,7 @@ This being said, consistent and intentional disregard for the Discussion Guideli
 
 Unacceptable behaviours include but are not limited to:
 
-* Intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions. Within this definition we include refusal to use a person’s stated pronouns, and denying the existence of someones' experiences of discrimination.
+* Intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions. Within this definition we include refusal to use a person’s stated pronouns, and denying the existence of someone's experiences of discrimination.
 * Harmful or prejudicial verbal or written comments or visual images related to age, background, belief, disability, ethnicity, race, religion, gender, identity, national origin, sexual orientation or other personal characteristics, including those protected by law.
 * Inappropriate use of nudity and/or sexual images.
 * Real or implied threat of professional or financial damage or harm.
