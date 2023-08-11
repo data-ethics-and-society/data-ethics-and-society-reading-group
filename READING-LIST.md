@@ -33,7 +33,6 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 ## Ethics in action
 
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/), *Catherine D'Ignazio, Lauren Klein* 💸 ✅
-- [Design Justice](https://design-justice.pubpub.org/), *Sasha Costanza-Chock*
 - [Practical Data Ethics](https://ethics.fast.ai/) , *fast.ai* 📺
 - [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://kevinguyan.com/queer-data/), *Kevin Guyan*
 - [Data Action: Using data for public good](https://mitpress.mit.edu/books/data-action), *Sarah Williams*
@@ -57,4 +56,4 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 - [Technology is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books), *Stephanie Hare*
 - [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/), *Jenny Kennedy and Yolande Strengers*
 - [Human Compatible: AI and the Problem of Control](https://www.penguin.co.uk/books/307948/human-compatible-by-russell-stuart/9780141987507), *Stuart Russell*
-- [Your Computer Is On Firt](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire), *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* 💸
+- [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire), *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* 💸
