@@ -84,6 +84,7 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 				<a href="#ideas-harrietrs" title="Ideas, Planning, &amp; Feedback">🤔</a>
 				<a href="#content-harrietrs" title="Content">🖋</a>
 				<a href="#question-harrietrs" title="Leading Discussion">💬</a>
+				<a href="#blog-harrietrs" title="Blogposts">📝</a>
 				<a href="#maintenance-harrietrs" title="Maintenance">🚧</a>
 			</font></td>
 			<td align="center"><font color="#333333">
