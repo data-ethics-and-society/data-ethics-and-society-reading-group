@@ -12,7 +12,9 @@ Thank you to everyone who attended our [last session](./05-23-session.md), where
 
 There will be time to talk about whatever we like, relating to the book, but here are some specific questions to think about while you're reading.
 
-TBC
+1. What does the term "good data" mean to you, and how does it relate to the themes discussed in the book?
+2. Reflecting on the book as a whole, which specific ideas discussed by Sam Gilbert resonated with you the most, and why?
+3. Does this book teach us anything about how we can better communicate the purposes for which data will be collected/used?
 
 ---
 
@@ -21,7 +23,7 @@ TBC
 ## Meeting notes
 
 ### Who came
-Number of people:
+Number of people: 46
 
 ### What did we think?
 Notes here!
