@@ -8,7 +8,6 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [19.09.23, 12:00](./Sessions/2023/09-23-session.md) | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) |
 | December 2023 | Material TBD|
 
 --------------
@@ -17,6 +16,7 @@ You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [19.09.23, 12:00](./Sessions/2023/09-23-session.md) | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) |
 | [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) |
 | [28.02.23, 12:00](./Sessions/2023/02-23-session.md) | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers](https://www.hachette.co.uk/titles/georgina-sturge/bad-data/9780349128603/) |
 | [06.12.22, 12:30](./Sessions/2022/12-22-session.md) | [Artificial Unintelligence: How Computers Misunderstand the World](https://meredithbroussard.com/books/) |
