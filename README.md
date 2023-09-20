@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> [Come along](https://www.eventbrite.com/e/673819762047) to our next session, where we will discuss 'Good Data' by Sam Gilbert, on Tuesday 19th September 12:00-13:00. For more details see [this event's session page](./Sessions/2023/09-23-session.md).
+> Our next session will be end of November/start of December 2023. Join our [mailing list](https://xgovdataethics.substack.com/) to get updates.
 
 While you're here, you may also want to:
 
