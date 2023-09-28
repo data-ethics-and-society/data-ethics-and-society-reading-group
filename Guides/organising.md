@@ -15,6 +15,7 @@ The whole group votes on what to read for the following meeting at the end of ev
 ### Before the meeting
 
 - [ ] Determine the material to discuss from the item with most votes on the slido from the previous meeting
+- [ ] Decide date of next meeting
 - [ ] Create a [meeting information file](./../Sessions/session-template.md) in the `Sessions/` folder
 - [ ] Update the [meeting overview file](./../SESSIONS.md) with a link to the new meeting information page
 - [ ] Create a sign-up form to manage attendees (we currently use the Eventbrite platform for this, but are open to other suggestions)
@@ -40,6 +41,7 @@ The whole group votes on what to read for the following meeting at the end of ev
 ### After the meeting
 
 - [ ] Upload [attendee numbers](./../Sessions/attendance.csv)
+- [ ] Update GitHub session pages (e.g. remove session signup links, change icon on reading list)
 - [ ] Send thank you email and reminder to vote on slido
 
 ## Contributing
