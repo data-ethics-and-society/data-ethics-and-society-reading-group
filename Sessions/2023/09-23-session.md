@@ -1,4 +1,4 @@
-# Data Ethics & Society Reading Group DD-MM-YY, [MEETING-TIME GMT](LINK-TO-TIMEDATE)
+# Data Ethics & Society Reading Group 19-09-23, [12:00 BST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Good+Data-+Data+Ethics+and+Society+Reading+Group&iso=20230919T12&p1=136&ah=1)
 
 ## Description
 
