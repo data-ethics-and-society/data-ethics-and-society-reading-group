@@ -8,8 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| December 2023 | Material TBD|
-
+| [14.12.23, 12:00](./Sessions/2023/12-23-session.md) | [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) |
 --------------
 
 You can see a record of what we have discussed here:
