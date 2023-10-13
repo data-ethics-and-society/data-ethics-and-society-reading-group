@@ -4,7 +4,7 @@
 
 ## Description
 
-You're welcome to join us for our next Data Ethics & Society Reading Group on Thursday 14th December at [12:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Escape+from+Model+Land-+Data+Ethics+and+Society+Reading+Group&iso=20231214T12&p1=303&ah=1). This time we're going to watch/read [NAME OF CONTENT](LINK-TO-CONTENT) by AUTHOR(S), which VERY-SHORT-DESCRIPTION.
+You're welcome to join us for our next Data Ethics & Society Reading Group on Thursday 14th December at [12:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Escape+from+Model+Land-+Data+Ethics+and+Society+Reading+Group&iso=20231214T12&p1=303&ah=1). This time we're going to watch/read [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) by Dr Erica Thompson, who, drawing on contemporary examples from finance, climate and health policy, explores what models are, why we need them, how they work and what happens when they go wrong.
 
 Thank you to everyone who attended our [last session](./09-23-session.md), where we voted for this content.
 
