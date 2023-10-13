@@ -19,7 +19,7 @@ Usual time 12:00-13:00
 
 ## Description
 
-You're welcome to join us for our next Data Ethics & Society Reading Group on DAY the DATE at [TIME GMT](LINK-TO-TIMEDATE). This time we're going to watch/read [NAME OF CONTENT](LINK-TO-CONTENT) by AUTHOR(S), which VERY-SHORT-DESCRIPTION.
+You're welcome to join us for our next Data Ethics & Society Reading Group on DAY the DATE at [TIME GMT](LINK-TO-TIMEDATE). This time we're going to WATCH/READ [NAME OF CONTENT](LINK-TO-CONTENT) by AUTHOR(S), which VERY-SHORT-DESCRIPTION.
 
 Thank you to everyone who attended our [last session](LINK-TO-PREVIOUS-SESSION), where we voted for this content.
 
