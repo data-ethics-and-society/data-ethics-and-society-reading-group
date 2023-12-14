@@ -28,7 +28,7 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 - [How Charts Lie](https://albertocairo.com/), *Alberto Cairo*
 - [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/), *Tim Harford*
 - [How to Read Numbers: A Guide to Statistics in the News (and Knowing When to Trust Them)](https://www.howtoreadnumbers.com/), *Tom Chivers, David Chivers*
-- [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/), *Erica Thompson*
+- [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/), *Erica Thompson* 📅
 
 ## Ethics in action
 
