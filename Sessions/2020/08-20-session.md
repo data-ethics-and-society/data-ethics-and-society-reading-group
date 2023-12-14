@@ -17,7 +17,7 @@ Session 2: Reflecting on Practice
 
 __Main text:__ Data Feminism [(open review version)](https://bookbook.pubpub.org/data-feminism), _Catherine D'Ignazio & Lauren Klein_.
 
-A fully open-access version of this text will soon be available. In the meantime, attendees of the event can be sent a link to a digital version of the text upon request (please email one of the course leaders). Please **do not share** this digital copy of the book outside of the group.
+A fully open-access version of this text will soon be available. In the meantime, attendees of the event can be sent a link to a digital version of the text upon request (please email one of the course leaders). Please _do not share_ this digital copy of the book outside of the group.
 
 For this session, please focus on the following selection of supplementary reading material:
 
@@ -28,11 +28,11 @@ __Quick reads:__
 * [We Will Not Allow the Weaponization of COVID-19 Data](https://medium.com/@YESHICAN/we-will-not-allow-the-weaponization-of-covid-19-data-e775d31991c), _Yeshimabeit Milner_, Founder & Executive Director of Data for Black lives (5 minute read)
 * [So, you want to be a feminist data scientist... here's what you need to know](https://data2x.org/so-you-want-to-be-a-feminist-data-scientistheres-what-you-need-to-know/), _Elizabeth Black_ for data2x, 2020 (see also [part 2](https://data2x.org/using-data-feminism-principles-to-create-better-data-infrastructure-and-informed-policies/))
 * [Genetic privacy: We must learn from the story of Henrietta Lacks](https://www.newscientist.com/article/2250449-genetic-privacy-we-must-learn-from-the-story-of-henrietta-lacks/), _Maninder Ahluwalla_ for the New Scientist (5 minute read)
-  
+
 __Gov resources:__
 
 * [Data ethics and AI guidance landscape](https://www.gov.uk/guidance/data-ethics-and-ai-guidance-landscape)
-  
+
 __Journal article:__
 
 * ["Good" isn't good enough](https://www.benzevgreen.com/wp-content/uploads/2019/11/19-ai4sg.pdf), _Ben Green_, NeurIPS Joint Workshop on AI for Social Good, 2019 (15 minute read)

@@ -10,7 +10,7 @@ Following our successful event looking at the first three chapters (Earth, Labor
 
 Atlas of AI presents AI as a technology of extraction: from the minerals drawn from the earth, to the labour pulled from low-wage information workers, to the data taken from every action and expression.
 
-This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardcover), or an independent retailer.
+This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardback), or an independent retailer.
 
 #### **You are very welcome to attend if you haven't read any of the book. You are also welcome if you didn't attend the first event!**
 
@@ -26,7 +26,7 @@ Contains a lot of similar material to that covered in the 'Classification' chapt
 This article is adapted from the book's 'Affect' chapter.
 
 - [Google’s artificial intelligence ethics won't curb war by algorithm](https://www.wired.co.uk/article/google-project-maven-drone-warfare-artificial-intelligence), *Phoebe Braithwaite, Wired*.
-This article explores how Google was involved with the  US Department of Defense’s Project Maven, which used AI to target drone strikes.
+This article explores how Google was involved with the  US Department of Defense's Project Maven, which used AI to target drone strikes.
 
 - [Stop talking about AI ethics. It’s time to talk about power](https://www.technologyreview.com/2021/04/23/1023549/kate-crawford-atlas-of-ai-review/), *Karen Hao, MIT Technology Review*.
 This is a review article for the book, which summarises everything neatly.
