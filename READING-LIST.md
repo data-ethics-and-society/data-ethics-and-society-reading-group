@@ -35,7 +35,6 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 - [Data Feminism](https://data-feminism.mitpress.mit.edu/), *Catherine D'Ignazio, Lauren Klein* 💸 ✅
 - [Practical Data Ethics](https://ethics.fast.ai/) , *fast.ai* 📺
 - [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://kevinguyan.com/queer-data/), *Kevin Guyan*
-- [Data Action: Using data for public good](https://mitpress.mit.edu/books/data-action), *Sarah Williams*
 
 ## Privacy
 
