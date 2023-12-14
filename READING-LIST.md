@@ -56,3 +56,4 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 - [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/), *Jenny Kennedy and Yolande Strengers*
 - [Human Compatible: AI and the Problem of Control](https://www.penguin.co.uk/books/307948/human-compatible-by-russell-stuart/9780141987507), *Stuart Russell*
 - [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire), *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* 💸
+- [Coders: Who They Are, What They Think and How They Are Changing Our World](https://www.clivethompson.net/), *Clive Thompson*
