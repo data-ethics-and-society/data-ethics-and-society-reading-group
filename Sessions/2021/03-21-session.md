@@ -43,7 +43,7 @@ These are not pre-requisite reading material for attendance, but a compilation o
 
 ## Questions for discussion
 
-### Related to  [Ababa Bihrane 's paper on Algorithmic injustice: a relational ethics approach](https://www.sciencedirect.com/science/article/pii/S2666389921000155)
+### Related to  [Abeba Birhane 's paper on Algorithmic injustice: a relational ethics approach](https://www.sciencedirect.com/science/article/pii/S2666389921000155)
 
 1. How can we leverage data practices in order to gain an in-depth understanding of certain problems as situated in structural inequalities and oppression (e.g. Institutional racism as defined by MacPherson Report)?”
 2. How might a data worker engage vulnerable communities in ways that surface harms, when it is often the case that algorithmic harms may be secondary effects, invisible to designers and communities alike, and what questions might be asked to help anticipate these harms?”

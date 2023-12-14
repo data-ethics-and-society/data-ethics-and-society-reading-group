@@ -10,7 +10,7 @@ This time we're going to discuss the **first three chapters** (Earth, Labor & Da
 
 Atlas of AI presents AI as a technology of extraction: from the minerals drawn from the earth, to the labour pulled from low-wage information workers, to the data taken from every action and expression.
 
-This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardcover), or an independent retailer.
+This book can be purchased in the UK from [Blackwell's](https://blackwells.co.uk/bookshop/product/Atlas-of-AI-by-Kate-Crawford-author/9780300209570), [AbeBooks](https://www.abebooks.co.uk/9780300209570/Atlas-Power-Politics-Planetary-Costs-0300209576/plp), [Amazon](https://www.amazon.co.uk/Atlas-AI-Kate-Crawford/dp/0300209576/ref=sr_1_1) (kindle or hardback), or an independent retailer.
 
 #### **You are very welcome to attend if you haven't read any of the book**
 

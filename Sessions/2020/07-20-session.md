@@ -12,7 +12,7 @@ Session 1:  Data Feminism (Chapters 1 - 5)
 
 __Main text:__ Data Feminism [(open review version)](https://bookbook.pubpub.org/data-feminism) (Intro & chapter 1 - 5 only), _Catherine D'Ignazio & Lauren Klein_.
 
-A fully open-access version of this text will soon be available. In th meantime, attendees of the event can be sent a link to a digital version of th text upon request (please email one of the course leaders). Please **do not share** this digital copy of the book outside of the group.
+A fully open-access version of this text will soon be available. In th meantime, attendees of the event can be sent a link to a digital version of th text upon request (please email one of the course leaders). Please _do not share_ this digital copy of the book outside of the group.
 
 #### Supplementary material
 
@@ -25,7 +25,7 @@ __Journal article:__
 
 __Quick read:__
 
-* [Catherine D’Ignazio: 'Data is never a raw, truthful input – and it is never neutral'](https://www.theguardian.com/technology/2020/mar/21/catherine-dignazio-data-is-never-a-raw-truthful-input-and-it-is-never-neutral), _Zoe Corbyn_ for The Guardian 2020 (5 minute read)
+* [Catherine D'Ignazio: 'Data is never a raw, truthful input – and it is never neutral'](https://www.theguardian.com/technology/2020/mar/21/catherine-dignazio-data-is-never-a-raw-truthful-input-and-it-is-never-neutral), _Zoe Corbyn_ for The Guardian 2020 (5 minute read)
 * [Putting Data Back Into Context](https://datajournalism.com/read/longreads/putting-data-back-into-context), _Catherine D'Ignazio_, DataJournalism.com (10 minute read)
 * [“Having Trouble Explaining Oppression? This Comic Can Do It for You](https://everydayfeminism.com/2017/01/trouble-explaining-oppression/) Robot Hugs, 2017 (3 minute read)
 * [The Matrix of Domination and the Four Domains of Power](https://www.blackfeminisms.com/matrix/), Black Feminisms, 2019 (5 minute read)
@@ -70,7 +70,7 @@ General questions might be:
 A few ideas of specific points of discussion, based on the material:
 
 * What does data science mean to you? Does the author's description of data science differ (see below) from your understanding?
-  > “Many people think of data as numbers alone, but data can also consist of words or stories, colors or sounds, or any type of information that is systematically collected, organized, and analyzed. The science in data science simply implies a commitment to systematic methods of observation and experiment.”
+  > “Many people think of data as numbers alone, but data can also consist of words or stories, colors or sounds, or any type of information that is systematically collected, organized, and analyzed (sic). The science in data science simply implies a commitment to systematic methods of observation and experiment.”
   > “...a capacious definition of data science, one that seeks to include rather than exclude and does not erect barriers based on formal credentials, professional affiliation, size of data, complexity of technical methods, or other external markers of expertise.”
 * Is data is the new oil a useful concept?
 * Do we feel this book provides “concrete steps to action for data scientists seeking to learn how feminism can help them work toward justice”?

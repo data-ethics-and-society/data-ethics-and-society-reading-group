@@ -6,7 +6,7 @@ We've described how a typical meeting would run in the ['Facilitating'](./facili
 
 ## Deciding on material to read
 
-The [reading list](./../READING-LIST.md) is organised into different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](./../SESSIONS.md). We like to check off things we have discussed [in the reading list](./../READING-LIST.md).  
+The [reading list](./../READING-LIST.md) is organised into different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](./../SESSIONS.md). We like to check off things we have discussed [in the reading list](./../READING-LIST.md).
 
 The whole group votes on what to read for the following meeting at the end of every session. A slido is pre-populated with items already on our reading list, and attendees are invited to vote for items, as well as add anything they want to read for others to upvote.
 
@@ -18,8 +18,8 @@ The whole group votes on what to read for the following meeting at the end of ev
 - [ ] Decide date of next meeting
 - [ ] Create a [meeting information file](./../Sessions/session-template.md) in the `Sessions/` folder
 - [ ] Update the [meeting overview file](./../SESSIONS.md) with a link to the new meeting information page
-- [ ] Create a sign-up form to manage attendees (we currently use the Eventbrite platform for this, but are open to other suggestions)
-- [ ] Produce a Substack post promoting the event
+- [ ] Create a sign-up form to manage attendees (we currently use the Ticket Tailor platform for this, but are open to other suggestions)
+- [ ] Produce a newsletter post promoting the event
 - [ ] Promote the event via the following channels:
   - [ ] #ethics channel of the Cross-Government Data Science Slack Workspace
   - [ ] AnalystX
@@ -36,12 +36,12 @@ The whole group votes on what to read for the following meeting at the end of ev
 - [ ] Set up slido with items pre-populated from the [Reading List](./../READING-LIST.md)
 - [ ] Prepare slides if required
 - [ ] Send a one-week reminder to attendees with a link to the [introductory video](https://www.youtube.com/watch?v=nuWOeRx26iw)
-- [ ] Send a one-day reminder to attendees with quick links to the online meeting  
+- [ ] Send a one-day reminder to attendees with quick links to the online meeting
 
 ### After the meeting
 
 - [ ] Upload [attendee numbers](./../Sessions/attendance.csv)
-- [ ] Update GitHub session pages (e.g. remove session signup links, change icon on reading list)
+- [ ] Update GitHub session pages (e.g. remove session sign-up links, change icon on reading list)
 - [ ] Send thank you email and reminder to vote on slido
 
 ## Contributing
