@@ -58,4 +58,4 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 - [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire), *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* 💸
 - [Coders: Who They Are, What They Think and How They Are Changing Our World](https://www.clivethompson.net/), *Clive Thompson*
 - [The Coming Wave: Technology, Power and The Twenty-first Century’s Greatest Dilemma](https://www.the-coming-wave.com/), *Mustafa Suleyman and Michael Bhaskar*
-
+- [The Digital Republic: On Freedom and Democracy in the 21st Century](https://www.bloomsbury.com/uk/digital-republic-9781526650412/), *Jamie Susskind*
