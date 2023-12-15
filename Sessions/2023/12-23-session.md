@@ -14,7 +14,11 @@ Thank you to everyone who attended our [last session](./09-23-session.md), where
 
 There will be time to talk about whatever we like, relating to the book, but here are some specific questions to think about while you're reading.
 
-- TBC
+- What do you understand by the term ‘Model Land’?
+- How does this chime with our experiences; do we agree with the idea of Model Land?
+- What practical steps could we do to avoid the pitfalls mentioned in the book?
+- What tools do we have, or lack, to escape from model land?
+
 
 ---
 
@@ -23,7 +27,7 @@ There will be time to talk about whatever we like, relating to the book, but her
 ## Meeting notes
 
 ### Who came
-Number of people:
+Number of people: 21
 
 ### What did we think?
 Notes here!
