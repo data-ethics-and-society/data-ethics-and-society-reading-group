@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> Our next session will be on Thursday 14th December 12:00-13:00- sign up [via TicketTailor](https://www.tickettailor.com/events/dataethics/1024931).
+> Our next session will be in early 2024, join our [mailing list](https://xgovdataethics.substack.com/) so you don't miss out.
 
 While you're here, you may also want to:
 
