@@ -1,7 +1,5 @@
 # Data Ethics & Society Reading Group 14-12-23, [12:00-13:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Escape+from+Model+Land-+Data+Ethics+and+Society+Reading+Group&iso=20231214T12&p1=303&ah=1)
 
-> 📝 :arrow_right: [**Sign up here!**](https://www.tickettailor.com/events/dataethics/1024931)
-
 ## Description
 
 You're welcome to join us for our next Data Ethics & Society Reading Group on Thursday 14th December at [12:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Escape+from+Model+Land-+Data+Ethics+and+Society+Reading+Group&iso=20231214T12&p1=303&ah=1).
