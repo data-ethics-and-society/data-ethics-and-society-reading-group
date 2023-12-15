@@ -9,7 +9,6 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
 | [TBC]() | [TBC]() |
---------------
 
 You can see a record of what we have discussed here:
 
