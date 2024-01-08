@@ -8,7 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [TBC]() | [TBC]() |
+| [Technology Is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | [TBC]() |
 
 You can see a record of what we have discussed here:
 
