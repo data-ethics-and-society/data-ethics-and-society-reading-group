@@ -8,6 +8,7 @@ TODO:
 - [ ] Put in the Event time on: https://www.timeanddate.com/worldclock/fixedform.html and copy result to LINK-TO-TIMEDATE
 - [ ] Change all ALL-CAPS placeholders in this form
 - [ ] Add link to the new file in SESSIONS.md
+- [ ] Update the main Readme.md with information about the next session.
 - [ ] Pull request!
 - [ ] Create the shareable event invite and copy and paste this info over
 - [ ] Maybe tweet it? #DSEthicsGroup #GovDataScience
