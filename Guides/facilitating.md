@@ -61,7 +61,7 @@ Keep an eye on the main room for any latecomers who need to be assigned to a bre
 
 `chair`:
 
-- Introduce the slido and explain the deadline for votes
+- Introduce the slido and explain the deadline for votes for next week's content (if using)
 
 `support`:
 
