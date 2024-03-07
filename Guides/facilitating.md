@@ -7,7 +7,7 @@ Typically we have a brief introduction to the material, split everyone into brea
 ## Meeting Structure
 
 Meetings are typically 1 hour.  
-It helps to have an event `chair`, `organiser` and  `support` so that one person can chair the meeting and the other two can handle everything behind the scenes. The  `organiser` has set up the event Teams meeting, and sent out invitations for tickets holders.
+It helps to have an event `chair`, `organiser` and `support` so that one person can chair the meeting and the other two can handle everything behind the scenes. The `organiser` sets up the event meeting and sends out invitations to tickets holders.
   
 ### 0-5 mins
 
