@@ -8,12 +8,13 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [Technology Is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | [TBC]() |
+| TBC | TBC |
 
 You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [07.03.24, 12:00](./Sessions/2024/03-24-session.md) | [Technology Is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) |
 | [14.12.23, 12:00](./Sessions/2023/12-23-session.md) | [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) |
 | [19.09.23, 12:00](./Sessions/2023/09-23-session.md) | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) |
 | [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) |
