@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> [Join us](Sessions/2024/03-24-session.md) on the 7th of March 2024 discussing Technology Is Not Neutral: A Short Guide to Technology Ethics.
+> Our next session will be announced shortly- stay tuned!
 
 While you're here, you may also want to:
 
