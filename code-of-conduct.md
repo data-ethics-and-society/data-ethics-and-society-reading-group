@@ -27,6 +27,7 @@ Unacceptable behaviours include but are not limited to:
 * Be respectful of differences in experience, knowledge and background.
 * Be conscious of how much space you're taking up in a conversation.
 * Give people space and time to make their point if they need it.
+* Use the hand-up feature
 
 ### Don't…
 
