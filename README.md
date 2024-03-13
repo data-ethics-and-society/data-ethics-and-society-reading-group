@@ -4,7 +4,7 @@
 
 _“Data Science isn’t neutral”;_ books such as Race After Technology, Invisible Woman and Data Feminism have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
-The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically.
+The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically. Read our code of conduct [here](./code-of-conduct.md).
 
 We meet (virtually) four times a year.
 
@@ -13,6 +13,7 @@ We meet (virtually) four times a year.
 While you're here, you may also want to:
 
 * enjoy our [reading list](./READING-LIST.md).
+* [read our code of conduct](./code-of-conduct.md)
 * [suggest reading materials](#how-to-make-suggestions).
 * [see details of previous sessions](./SESSIONS.md).
 * [get involved in organising](#get-involved).
