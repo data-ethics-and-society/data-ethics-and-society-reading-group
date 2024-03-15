@@ -10,7 +10,9 @@ Thank you to everyone who attended our [last session](../2023/12-23-session.md),
 
 ## Discussion points
 
-TBC
+1. The book encourages readers to think critically about technology. How has reading this book changed the way you think about the technology around you?
+2. How do we promote digital literacy and empower individuals to navigate ethical challenges faced by technology?
+3. Do we need a hippocratic oath (e.g. 'do no harm') for technology?
 
 ---
 
