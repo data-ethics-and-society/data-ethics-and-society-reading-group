@@ -8,7 +8,8 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> Our next session will discussing [Dark Data by David Hand on Tuesday 4th June 1:00 - 2:00 PM](https://github.com/alphagov/data-ethics-and-society-reading-group/blob/main/Sessions/2024/06-24-session.md). 
+> Our next session will discussing [Dark Data by David Hand on Tuesday 4th June 1:00 - 2:00 PM](https://github.com/alphagov/data-ethics-and-society-reading-group/blob/main/Sessions/2024/06-24-session.md).
+> 
 > ▶️ [Please sign up here](https://app.tickettailor.com/events/dataethics/1193123/r/github).
 
 While you're here, you may also want to:
