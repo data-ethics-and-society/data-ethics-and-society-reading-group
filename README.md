@@ -37,6 +37,7 @@ Interested in starting your own group at your organisation? All resources includ
 
 If you'd like to make a suggestion for what to read, please do so however you prefer:
 
+* [add a suggestion to our Google Forms](https://forms.gle/qvNVX1681hkW62Lj9)
 * [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
 * make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
 * contact us via [email](mailto:xgov-data-ethics@proton.me)
