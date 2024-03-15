@@ -1,5 +1,7 @@
 # Data Ethics & Society Reading Group, Tuesday 4th June 2024 [13:00-14:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dark+Data&iso=20240604T13&p1=136&ah=1)
 
+> 📝 :arrow_right: [**Sign up here!**](https://app.tickettailor.com/events/dataethics/1193123/r/github)
+
 ## Description
 
 You're welcome to join us for our next Data Ethics & Society Reading Group on Tuesday 4th of June at [13:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dark+Data&iso=20240604T13&p1=136&ah=1)
