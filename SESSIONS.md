@@ -8,7 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [04.06.24, 13:00](./Sessions/2024/06-24-session.md) | [Dark Data]([https://www.harebrain.co/books](https://darkdata.website/) |
+| [04.06.24, 13:00](./Sessions/2024/06-24-session.md) | [Dark Data](https://www.harebrain.co/books](https://darkdata.website/) |
 
 You can see a record of what we have discussed here:
 
