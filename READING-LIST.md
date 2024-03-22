@@ -44,5 +44,5 @@ We welcome suggestions for new material at any time. Email us at [xgov-data-ethi
 - [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/), *Jenny Kennedy and Yolande Strengers*
 - [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/), *Tim Harford*
 - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/), *Cathy O'Neil* ✅
-- [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire), *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* 💸![image](https://github.com/alphagov/data-ethics-and-society-reading-group/assets/15108577/84da40e6-7f07-4c86-ac11-ac7f37dab10b)
+- [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire), *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* 💸
 
