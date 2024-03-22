@@ -7,10 +7,16 @@
 - 📺 = Watching/Listening/Learning material
 - 💸 = open access material
 
-These are rough categories, reading materials appear once in the category we felt they fit best.
-Every session we give the audience a chance to vote on what they want to read next, and suggest new material.
+This is a list of books compiled by community suggestions.
 
-We welcome suggestions for new material at any time. Email us at [xgov-data-ethics@proton.me](mailto:xgov-data-ethics@proton.me).
+If you'd like to make a suggestion for what to read, please do so however you prefer:
+
+* [add a suggestion to our Google Forms](https://forms.gle/qvNVX1681hkW62Lj9)
+* [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
+* make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
+* contact us via [email](mailto:xgov-data-ethics@proton.me)
+
+The organisers then pick a handful of these books and get the community to vote on which should be read at a future event.
 
 - [AI Needs You](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you), *Verity Harding*
 - [Algorithms of Oppression](https://safiyaunoble.com/research-writing/), *Safiya Noble*
