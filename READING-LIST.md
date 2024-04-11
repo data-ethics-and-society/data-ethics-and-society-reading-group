@@ -20,24 +20,24 @@ The organisers then pick a handful of these books and get the community to vote 
 
 | Title | Author | Year | Additional Info |
 |:--|:--|:--|:--|
-| [AI Needs You](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you) | *Verity Harding* | | |
-| [Algorithms of Oppression](https://safiyaunoble.com/research-writing/) | *Safiya Noble* | | |
-| [Artificial Unintelligence: How computers misunderstand the world](https://meredithbroussard.com/books/) | *Meredith Broussard* | | ✅ |
-| [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://www.katecrawford.net/index.html) | *Kate Crawford* | | ✅ |
-| [Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor](https://virginia-eubanks.com/automating-inequality/) | *Virginia Eubanks* | | |
-| [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://www.hachette.co.uk/titles/georgina-sturge/bad-data/9780349128603/) | *Georgina Sturge* | | ✅ |
-| [Coders: Who They Are, What They Think and How They Are Changing Our World](https://www.clivethompson.net/) | *Clive Thompson* | | |
-| [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) | | | ✅ |
-| [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/) | *David Hand* | | 📅 June Event |
-| [Data and Society: A Critical Introduction](https://uk.sagepub.com/en-gb/eur/data-and-society/book269709) | *Anne Beaulieu and Sabina Leonelli* | | |
-| [Data Action: Using data for public good](https://mitpress.mit.edu/9780262545310/data-action/) | *Sarah Williams* | | |
-| [Data Feminism](https://data-feminism.mitpress.mit.edu/) | *Catherine D'Ignazio, Lauren Klein*  | | 💸 ✅ |
-| [Deepfakes and the Infocalypse: What You Urgently Need To Know](https://ninaschick.org/deepfakes/) | *Nina Schick* | | |
-| [Deep Medicine](https://drerictopol.com/portfolio/deep-medicine/) | *Eric Topol* | | |
-| [Don't Be Evil: The Case Against Big Tech](https://www.ranaforoohar.com/dontbeevil) | *Rana Foroohar* | | |
-| [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) | *Erica Thompson* | | ✅ |
-| [Ethics of Digital Well-Being](https://link.springer.com/book/10.1007/978-3-030-50585-1) | *Luciano Floridi*
-| [Exponential: Order and Chaos in an Age of Accelerating Technology](https://www.exponentialview.co/p/my-book) | *Azeem Azhar* | | |
+| [AI Needs You](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you) | *Verity Harding* | 2024 | |
+| [Algorithms of Oppression](https://safiyaunoble.com/research-writing/) | *Safiya Noble* | 2018 | |
+| [Artificial Unintelligence: How computers misunderstand the world](https://meredithbroussard.com/books/) | *Meredith Broussard* | 2018 | ✅ |
+| [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.co.uk/book/9780300264630/atlas-of-ai/) | *Kate Crawford* | 2022 | ✅ |
+| [Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor](https://virginia-eubanks.com/automating-inequality/) | *Virginia Eubanks* | 2018 | |
+| [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://www.hachette.co.uk/titles/georgina-sturge/bad-data/9780349128603/) | *Georgina Sturge* | 2022 | ✅ |
+| [Coders: Who They Are, What They Think and How They Are Changing Our World](https://www.clivethompson.net/) | *Clive Thompson* | 2019 | |
+| [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) | *Deborah Stone* | 2020 | ✅ |
+| [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/) | *David Hand* | 2020 | 📅 June Event |
+| [Data and Society: A Critical Introduction](https://uk.sagepub.com/en-gb/eur/data-and-society/book269709) | *Anne Beaulieu and Sabina Leonelli* | 2021 | |
+| [Data Action: Using data for public good](https://mitpress.mit.edu/9780262545310/data-action/) | *Sarah Williams* | 2020 | |
+| [Data Feminism](https://data-feminism.mitpress.mit.edu/) | *Catherine D'Ignazio, Lauren Klein*  | 2020 | 💸 ✅ |
+| [Deepfakes and the Infocalypse: What You Urgently Need To Know](https://ninaschick.org/deepfakes/) | *Nina Schick* | 2020 | |
+| [Deep Medicine](https://drerictopol.com/portfolio/deep-medicine/) | *Eric Topol* | 2019 | |
+| [Don't Be Evil: The Case Against Big Tech](https://www.ranaforoohar.com/dontbeevil) | *Rana Foroohar* | 2019 | |
+| [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) | *Erica Thompson* | 2019 | ✅ |
+| [Ethics of Digital Well-Being](https://link.springer.com/book/10.1007/978-3-030-50585-1) | *Luciano Floridi* | 2020 | |
+| [Exponential: Order and Chaos in an Age of Accelerating Technology](https://www.exponentialview.co/p/my-book) | *Azeem Azhar* | 2021 | |
 | [Factfulnes: Ten reasons we're wrong about the world](https://www.goodreads.com/en/book/show/34890015) | *Hans Rosling* | | |
 | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) | *Sam Gilbert* | | ✅ |
 | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) | *Hannah Fry* | | ✅ |
