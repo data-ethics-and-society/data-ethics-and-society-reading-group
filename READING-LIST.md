@@ -60,7 +60,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Digital Republic: On Freedom and Democracy in the 21st Century](https://www.bloomsbury.com/uk/digital-republic-9781526650412/) | *Jamie Susskind* | 2022 | |
 | [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207) | *Michael Keens, Aaron Roth* | 2019 | |
 | [The Signal and The Noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | *Nate Silver* | 2012 | |
-| [The Official History of Britain: Our Story in Numbers as Told by the Office For National Statistics](https://www.bibliophilebooks.com/officialhistoryofbritain) | 2020 | |
+| [The Official History of Britain: Our Story in Numbers as Told by the Office For National Statistics](https://www.bibliophilebooks.com/officialhistoryofbritain) | *Boris Starling and D. Bradbury*| 2020 | |
 | [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/) | *Jenny Kennedy and Yolande Strengers* | 2020 | |
 | [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/) | *Tim Harford* | 2023 | |
 | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | 
