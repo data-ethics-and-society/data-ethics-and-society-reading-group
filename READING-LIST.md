@@ -26,6 +26,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.co.uk/book/9780300264630/atlas-of-ai/) | *Kate Crawford* | 2022 | ✅ [26.07.2021, 12:30](./Sessions/2021/07-21-session.md)  |
 | [Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor](https://virginia-eubanks.com/automating-inequality/) | *Virginia Eubanks* | 2018 | |
 | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://www.hachette.co.uk/titles/georgina-sturge/bad-data/9780349128603/) | *Georgina Sturge* | 2022 | ✅ [28.02.23, 12:00](./Sessions/2023/02-23-session.md) |
+| [Code Dependent: Living in the Shadow of AI](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) | *Madhumita Murgia* | 2024 | |
 | [Coders: Who They Are, What They Think and How They Are Changing Our World](https://www.clivethompson.net/) | *Clive Thompson* | 2019 | |
 | [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) | *Deborah Stone* | 2020 | ✅ [31.05.2022, 12:00](./Sessions/2022/05-22-session.md) |
 | [Dark Data: Why What You Don’t Know Matters](https://darkdata.website/) | *David Hand* | 2020 | 📅 June Event |
