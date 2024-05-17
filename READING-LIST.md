@@ -57,6 +57,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Superintelligence: Paths, Dangers, Strategies](https://nickbostrom.com/) | *Nick Bostrom* | 2014 | |
 | [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books) | *Sara Wachter-Boettch* | 2017 | |
 | [Technology is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | *Stephanie Hare* | 2022 | ✅ [07.03.24, 12:00](./Sessions/2024/03-24-session.md) |
+| [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | |
 | [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://shoshanazuboff.com/book/about/) | *Shosana Zuboff* | 2018 | |
 | [The Coming Wave: Technology, Power and The Twenty-first Century’s Greatest Dilemma](https://www.the-coming-wave.com/) | *Mustafa Suleyman and Michael Bhaskar* | 2023 | |
 | [The Digital Republic: On Freedom and Democracy in the 21st Century](https://www.bloomsbury.com/uk/digital-republic-9781526650412/) | *Jamie Susskind* | 2022 | |
