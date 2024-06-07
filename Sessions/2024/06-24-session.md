@@ -6,8 +6,6 @@ In this session we read [Dark Data](https://darkdata.website/) by David Hand, wh
 
 ## Discussion points
 
-TBC
-
 1. The author introduces different types of ‘Dark Data’. Which type did you find most surprising or relevant to your personal or professional experiences? 
 2. Do you think you will use the type classifications of Dark Data going forward?
 3. The book provides real-life examples where Dark Data led to significant consequences. Is there a particular example that resonated with you the most, and why?
