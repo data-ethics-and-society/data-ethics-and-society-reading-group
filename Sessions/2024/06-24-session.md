@@ -2,23 +2,21 @@
 
 ## Description
 
-You're welcome to join us for our next Data Ethics & Society Reading Group on Tuesday 4th of June at [13:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dark+Data&iso=20240604T13&p1=136&ah=1)
-
-This time we're going to read [Dark Data](https://darkdata.website/) by David Hand, which examines the data you don’t have, illustrating with many real-life examples how lack of awareness of what you are missing can lead to distorted understanding, incorrect conclusions, and mistaken actions.
-
-Thank you to everyone who attended our [last session](../2023/02-24-session.md).
+In this session we read [Dark Data](https://darkdata.website/) by David Hand, which examines the data you don’t have, illustrating with many real-life examples how lack of awareness of what you are missing can lead to distorted understanding, incorrect conclusions, and mistaken actions.
 
 ## Discussion points
 
 TBC
 
----
+1. The author introduces different types of ‘Dark Data’. Which type did you find most surprising or relevant to your personal or professional experiences? 
+2. Do you think you will use the type classifications of Dark Data going forward?
+3. The book provides real-life examples where Dark Data led to significant consequences. Is there a particular example that resonated with you the most, and why?
 
 <!--
 
 ## Meeting notes
 
 ### Who came
-Number of people: ??
+Number of people: 40
 
 -->
