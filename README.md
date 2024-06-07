@@ -8,9 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> Our next session will discussing [Dark Data by David Hand on Tuesday 4th June 1:00 - 2:00 PM](https://github.com/alphagov/data-ethics-and-society-reading-group/blob/main/Sessions/2024/06-24-session.md).
-> 
-> ▶️ [Please sign up here](https://app.tickettailor.com/events/dataethics/1193123/r/github).
+> Our next session will discussing [Code Dependent by Madhumita Murgia](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306), but have not set a date yet. We expect it to be in the first week or so of September. Join our [mailing list](https://xgovdataethics.substack.com/) to not miss out.
 
 While you're here, you may also want to:
 
