@@ -8,7 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| TBC | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
+| [04.09.24, 13:00](./Sessions/2024/09-24-session.md) | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
 
 You can see a record of what we have discussed here:
 
