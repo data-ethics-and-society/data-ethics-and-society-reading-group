@@ -20,6 +20,17 @@ The organisers then pick a handful of these books and get the community to vote 
 
 | Title | Author | Year | Additional Info |
 |:--|:--|:--|:--|
+| [Seeing Like a State](https://yalebooks.co.uk/book/9780300246759/seeing-like-a-state/) | *James C. Scott* | 2020 | |
+| [The Handover: How We Gave Control of Our Lives to Corporations, States and AIs ](https://dauntbooks.co.uk/shop/books/the-handover-how-we-gave-control-of-our-lives-to-corporations-states-and-ais/) | *David Runciman* | 2023 | |
+| [Behind the Screen](https://yalebooks.co.uk/book/9780300261479/behind-the-screen/) | *Sarah T. Roberts* | 2021 | |
+| [Work Without the Worker: Labour in the Age of Platform Capitalism](https://www.pagesofhackney.co.uk/webshop/product/work-without-the-worker-philip-jones/) | *Phil Jones* | 2021 | |
+| [More than a Glitch: confronting Race, Gender and Ability Bias in Tech](https://www.abebooks.co.uk/9780262047654/Glitch-Confronting-Race-Gender-Ability-0262047659/plp) | *Meredith Broussard* | 2023 | |
+| [Gaia’s web](https://www.waterstones.com/book/gaias-web/karen-bakker/9780262048750) | *Karen Bakker* | 2024 | |
+| [The Good Robot Why Technology needs feminism](https://www.bloomsbury.com/uk/good-robot-9781350399952/) | *Eleanor Drage and Kerry McInerney* | 2024 | |
+| [World Wide Waste](https://www.lulu.com/shop/gerry-mcgovern/world-wide-waste-how-digital-is-killing-our-planetand-what-we-can-do-about-it/paperback/product-24467235.html?page=1&pageSize=4) | *Gerry McGovern* | 2020 | |
+| [How AI Ate the World: A Brief History of Artificial Intelligence – and Its Long Future](https://www.canburypress.com/products/how-ai-ate-the-world-by-chris-stokel-walker-isbn-9781914487323) | *Chris Stokel-Walker* | 2024 | |
+| [Mismatch: How Inclusion Shapes Design](https://www.abebooks.co.uk/9780262038881/Mismatch-Inclusion-Shapes-Design-Simplicity-0262038889/plp) | *Kat Holmes and John Maeda* | 2018 | |
+| [The Alignment Problem: Machine Learning and Human Values](https://brianchristian.org/the-alignment-problem/) | *Brian Christian* | 2020 | |
 | [AI Needs You](https://press.princeton.edu/books/hardcover/9780691244877/ai-needs-you) | *Verity Harding* | 2024 | |
 | [Algorithms of Oppression](https://safiyaunoble.com/research-writing/) | *Safiya Noble* | 2018 | |
 | [Artificial Unintelligence: How computers misunderstand the world](https://meredithbroussard.com/books/) | *Meredith Broussard* | 2018 | ✅ [06.12.22, 12:30](./Sessions/2022/12-22-session.md)  |
