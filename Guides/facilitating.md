@@ -37,7 +37,12 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 `organiser`:
 
-Keep an eye on the main room for any latecomers who need to be assigned to a breakout room.  
+ - Keep an eye on the main room for any latecomers who need to be assigned to a breakout room.
+ - Send 10 minute, 5 minute and 1 minute announcements to breakroom rooms.
+
+`support`:
+
+- Monitoring proton mail inbox for any issues related to event access or breakroom room code of conduct issues and inform `organiser`.  
 
 ### 40-50 mins
 
