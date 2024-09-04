@@ -11,10 +11,10 @@ This is a list of books compiled by community suggestions.
 
 If you'd like to make a suggestion for what to read, please do so however you prefer:
 
-* [add a suggestion to our Google Forms](https://forms.gle/qvNVX1681hkW62Lj9)
-* [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
-* make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
-* contact us via [email](mailto:xgov-data-ethics@proton.me)
+- [add a suggestion to our Google Forms](https://forms.gle/qvNVX1681hkW62Lj9)
+- [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
+- make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
+- contact us via [email](mailto:xgov-data-ethics@proton.me)
 
 The organisers then pick a handful of these books and get the community to vote on which should be read at a future event.
 
@@ -40,7 +40,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) | *Erica Thompson* | 2019 | ✅ [14.12.23, 12:00](./Sessions/2023/12-23-session.md)  |
 | [Ethics of Digital Well-Being](https://link.springer.com/book/10.1007/978-3-030-50585-1) | *Luciano Floridi* | 2020 | |
 | [Exponential: Order and Chaos in an Age of Accelerating Technology](https://www.exponentialview.co/p/my-book) | *Azeem Azhar* | 2021 | |
-| [Factfulnes: Ten reasons we're wrong about the world](https://www.goodreads.com/en/book/show/34890015) | *Hans Rosling* | 2018 | |
+| [Factfulness: Ten reasons we're wrong about the world](https://www.goodreads.com/en/book/show/34890015) | *Hans Rosling* | 2018 | |
 | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) | *Sam Gilbert* | 2021 | ✅ [19.09.23, 12:00](./Sessions/2023/09-23-session.md)  |
 | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) | *Hannah Fry* | 2018 | ✅ [15.02.2022, 12:00](./Sessions/2022/02-22-session.md) |
 | [Homo Deus: A Brief History of Tomorrow](https://www.ynharari.com/book/homo-deus/) | *Yuval Noah Harari* | 2015 | |
@@ -66,6 +66,6 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Official History of Britain: Our Story in Numbers as Told by the Office For National Statistics](https://www.bibliophilebooks.com/officialhistoryofbritain) | *Boris Starling and D. Bradbury*| 2020 | |
 | [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/) | *Jenny Kennedy and Yolande Strengers* | 2020 | |
 | [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/) | *Tim Harford* | 2023 | |
-| [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) | 
+| [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) |
 | [We The People: A Playbook for Data Ethics in a Democratic Society](https://technicspub.com/we-the-people/) | *Kathy Rondon* | 2022 | |
-| [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire) | *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* | 2021 | 💸 | 
+| [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire) | *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* | 2021 | 💸 |

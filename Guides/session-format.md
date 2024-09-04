@@ -8,7 +8,7 @@ Format A is a classic read group format. A book, book chapter or article is deci
 
 ### Break-out Discussions (35 mins)
 
-The introduction is followed by semi-structured breakout out room discussions. The size of the rooms is up to you, but they should not be too large that people aren't able to contribute. Note though, some people may not want to contribute. To allow for time for everyone to talk you may want to adopt a 1-2 approach, where someone gets one minute to raise a point and everyone gets two minutes to respond. This should be a loose guide and not used to limit discussions though. If you do use this method, 10 people in a room would only get one minute each to talk about a point *they* want to talk about. Please refer to the [Facilitator Guide](Guides/Facilitator-Guide.md) for more information.
+The introduction is followed by semi-structured breakout out room discussions. The size of the rooms is up to you, but they should not be too large that people aren't able to contribute. Note though, some people may not want to contribute. To allow for time for everyone to talk you may want to adopt a 1-2 approach, where someone gets one minute to raise a point and everyone gets two minutes to respond. This should be a loose guide and not used to limit discussions though. If you do use this method, 10 people in a room would only get one minute each to talk about a point *they* want to talk about. Please refer to the [Facilitator Guide](/Guides/facilitating.md) for more information.
 
 ### Group Discussion (20 mins)
 
@@ -20,11 +20,11 @@ Format B comprises lightning talks and discussions around several book chapters 
 
 ### Lightning Talks (15 mins)
 
-The sessions start with up to three lightning talks, each a maximum of five minutes. Talks may cover an interesting research paper, application, blog post, anything that fits to the theme of the session. Please refer to the [Lightning Talk Guide](Guides/Lightning-Talk-Guide.md) for more information.
+The sessions start with up to three lightning talks, each a maximum of five minutes. Talks may cover an interesting research paper, application, blog post, anything that fits to the theme of the session.
 
 ### Break-out Discussions (30 mins)
 
-These talks are then followed by semi-structured breakout out room discussions. The size of the rooms is up to you, but they should not be too large that people aren't able to contribute. Note though, some people may not want to contribute. To allow for time for everyone to talk you may want to adopt a 1-2 approach, where someone gets one minute to raise a point and everyone gets two minutes to respond. This should be a loose guide and not used to limit discussions though. If you do use this method, 10 people in a room would only get one minute each to talk about a point *they* want to talk about. Please refer to the [Facilitator Guide](Guides/Facilitator-Guide.md) for more information.
+These talks are then followed by semi-structured breakout out room discussions. The size of the rooms is up to you, but they should not be too large that people aren't able to contribute. Note though, some people may not want to contribute. To allow for time for everyone to talk you may want to adopt a 1-2 approach, where someone gets one minute to raise a point and everyone gets two minutes to respond. This should be a loose guide and not used to limit discussions though. If you do use this method, 10 people in a room would only get one minute each to talk about a point *they* want to talk about. Please refer to the [Facilitator Guide](/Guides/facilitating.md) for more information.
 
 ### Group Discussion (15 mins)
 

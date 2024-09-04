@@ -6,9 +6,9 @@ Typically we have a brief introduction to the material, split everyone into brea
 
 ## Meeting Structure
 
-Meetings are typically 1 hour.  
+Meetings are typically 1 hour.
 It helps to have an event `chair`, `organiser` and `support` so that one person can chair the meeting and the other two can handle everything behind the scenes. The `organiser` sets up the event meeting and sends out invitations to tickets holders.
-  
+
 ### 0-5 mins
 
   🟢 Allow people to trickle in and say hi.
@@ -37,16 +37,16 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 `organiser`:
 
- - Keep an eye on the main room for any latecomers who need to be assigned to a breakout room.
- - Send 10 minute, 5 minute and 1 minute announcements to breakroom rooms.
+- Keep an eye on the main room for any latecomers who need to be assigned to a breakout room.
+- Send 10 minute, 5 minute and 1 minute announcements to breakout rooms.
 
 `support`:
 
-- Monitoring proton mail inbox for any issues related to event access or breakroom room code of conduct issues and inform `organiser`.  
+- Monitoring proton mail inbox for any issues related to event access or breakout room code of conduct issues and inform `organiser`.
 
 ### 40-50 mins
 
-💬💬💬 Everyone comes back to the main room  
+💬💬💬 Everyone comes back to the main room
 
 `organiser`:
 
@@ -76,9 +76,8 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 ✉️ Feedback
 
-We usually ask:  
+We usually ask:
 
 - Did the material provoke interesting discussion?
-- Would you recommend this piece to another group?  
+- Would you recommend this piece to another group?
 - Vote on what to discuss next time (from a shortlist).
-
