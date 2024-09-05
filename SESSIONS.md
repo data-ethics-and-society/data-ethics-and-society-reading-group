@@ -8,12 +8,13 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [04.09.24, 13:00](./Sessions/2024/09-24-session.md) | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
+| TBC | TBC |
 
 You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [04.09.24, 13:00](./Sessions/2024/09-24-session.md) | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
 | [04.06.24, 13:00](./Sessions/2024/06-24-session.md) | [Dark Data](https://darkdata.website/) |
 | [07.03.24, 12:00](./Sessions/2024/03-24-session.md) | [Technology Is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) |
 | [14.12.23, 12:00](./Sessions/2023/12-23-session.md) | [Escape from Model Land: How Mathematical Models Can Lead Us Astray and What We Can Do about It](https://www.ericathompson.co.uk/books/) |

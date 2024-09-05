@@ -6,7 +6,7 @@ We've described how a typical meeting would run in the ['Facilitating'](./facili
 
 ## Deciding on material to read
 
-The [reading list](./../READING-LIST.md) is organised into different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](./../SESSIONS.md). We like to check off things we have discussed [in the reading list](./../READING-LIST.md).
+The [reading list](/READING-LIST.md) is organised into different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](/SESSIONS.md). We like to check off things we have discussed [in the reading list](/READING-LIST.md).
 
 The whole group votes on what to read for the following meeting at the end of every session. A slido is pre-populated with items already on our reading list, and attendees are invited to vote for items, as well as add anything they want to read for others to upvote.
 
@@ -40,7 +40,7 @@ The whole group votes on what to read for the following meeting at the end of ev
 
 ### After the meeting
 
-- [ ] Upload [attendee numbers](./../Sessions/attendance.csv)
+- [ ] Upload [attendee numbers](/Sessions/attendance.csv)
 - [ ] Update GitHub session pages (e.g. remove session sign-up links, change icon on reading list)
 - [ ] Send thank you email and reminder to vote on slido
 
@@ -52,15 +52,15 @@ Since we organise around a GitHub repository people can submit issues using our 
 
 ### How do we acknowledge contributions?
 
-Contributions can be lots of different things, and so we use the [emoji key](#all-contributors-emoji-key) on our front page. This has been adapted from that used by [Data Ethics Club](https://github.com/very-good-science/data-ethics-club). If you think you should be listed as a contributor but can't see your GitHub handle listed, please [get in touch](mailto:xgov-data-ethics@proton.me).
+Contributions can be lots of different things, and so we use the [emoji key](/README.md#emoji-key) on our front page. This has been adapted from that used by [Data Ethics Club](https://github.com/very-good-science/data-ethics-club). If you think you should be listed as a contributor but can't see your GitHub handle listed, please [get in touch](mailto:xgov-data-ethics@proton.me).
 
 ### How can I get involved in organising?
 
-We welcome any administrative and organisational help you can offer! Please get in touch via [email](xgov-data-ethics@proton.me). We'd especially like to hear from people who are new to the Civil Service and from groups usually under-represented in data science.
+We welcome any administrative and organisational help you can offer! Please get in touch via [email](mailto:xgov-data-ethics@proton.me). We'd especially like to hear from people who are new to the Civil Service and from groups usually under-represented in data science.
 
 ### I'd like to lead a session on a particular topic
 
-Brilliant! Please reach out to us via [email](xgov-data-ethics@proton.me) and we can set this up with you.
+Brilliant! Please reach out to us via [email](mailto:xgov-data-ethics@proton.me) and we can set this up with you.
 
 ## Communicating
 

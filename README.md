@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> On Wed 4 Sep 2024 1:00 PM - 2:00 PM we will be discussing [Code Dependent by Madhumita Murgia](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306). [Sign up for your free ticket here](https://www.tickettailor.com/events/dataethics/1292240/r/govdatascislack). Join our [mailing list](https://xgovdataethics.substack.com/) to not miss out on future events.
+> Stay tuned for our next event, coming in December this year. Join our [mailing list](https://xgovdataethics.substack.com/) to not miss out on future events.
 
 While you're here, you may also want to:
 
