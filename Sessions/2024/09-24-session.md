@@ -15,6 +15,6 @@ In this session we will discuss [Code Depedent](https://www.panmacmillan.com/aut
 ## Meeting notes
 
 ### Who came
-Number of people: ?
+Number of people: 26
 
 -->
