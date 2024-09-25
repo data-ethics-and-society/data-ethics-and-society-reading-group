@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> [Sign up to our next event on December 3rd, where we are discussing Brian Christian's 'The Alignment Problem'!](https://www.tickettailor.com/events/dataethics/1406213)
+> [Sign up to our next event on December 3rd, where we are discussing Brian Christian's 'The Alignment Problem'!](https://buytickets.at/dataethics/1406213/r/github)
 
 While you're here, you may also want to:
 

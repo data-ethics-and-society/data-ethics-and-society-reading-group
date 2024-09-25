@@ -42,5 +42,5 @@ Shall we email the author? If so, who'll send the email?
 -->
 
 [LINK-TO-TIMEDATE]: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Data+Ethics+%26+Society+Reading+Group-+December+2024&iso=20241203T1330&p1=%3A&ah=1E
-[SIGN-UP-LINK]: https://www.tickettailor.com/events/dataethics/1406213
+[SIGN-UP-LINK]: https://buytickets.at/dataethics/1406213/r/github
 [LINK-TO-CONTENT]: https://atlantic-books.co.uk/book/the-alignment-problem/
