@@ -8,7 +8,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 We meet (virtually) four times a year.
 
-> Stay tuned for our next event, coming in December this year. Join our [mailing list](https://xgovdataethics.substack.com/) to not miss out on future events.
+> [Sign up to our next event on December 3rd, where we are discussing Brian Christian's 'The Alignment Problem'!](https://www.tickettailor.com/events/dataethics/1406213)
 
 While you're here, you may also want to:
 
@@ -40,7 +40,7 @@ If you'd like to make a suggestion for what to read, please do so however you pr
 * make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
 * contact us via [email](mailto:xgov-data-ethics@proton.me)
 
-Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list](https://xgovdataethics.substack.com/) to vote on a book to be read at a futute event. 
+Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list](https://xgovdataethics.substack.com/) to vote on a book to be read at a futute event.
 
 ---
 
@@ -166,11 +166,11 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 
 ### Emoji Key
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...  
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...
 
 * 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
-* 💬  for leading the discussion in a meeting  
-* 📋  for organising  
+* 💬  for leading the discussion in a meeting
+* 📋  for organising
 * 🤔  for ideas and planning of the group
 * 🎨  for visual design (e.g. logo)
 * 🚧  for repository maintenance (e.g. fixing links)
