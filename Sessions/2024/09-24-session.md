@@ -2,13 +2,14 @@
 
 ## Description
 
-In this session we will discuss [Code Depedent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) by Madhumita Murgia, which  discusses how AI is changing what it means to be human; the book provides an unrivalled investigation into the impact of AI on how we live now.
-
-> Get your tickets [here](https://www.tickettailor.com/events/dataethics/1292240/r/govdatascislack).
+In this session we will discuss [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) by Madhumita Murgia, which  discusses how AI is changing what it means to be human; the book provides an unrivalled investigation into the impact of AI on how we live now.
 
 ## Discussion points
 
-- To be added nearer the date.
+* After reading Code Dependent, has your perspective on the role of AI in society changed?
+* If so, how? Which chapters were influential in this? Did this surprise you?
+* What do you believe are the major risks our society faces with the increasing adoption of AI systems?
+* What does a fair wage for data workers look like? Should this be dependent on location and task, or is a ‘global wage’ appropriate?
 
 <!--
 
