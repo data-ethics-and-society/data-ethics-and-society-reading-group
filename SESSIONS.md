@@ -8,7 +8,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [03.12.24, 13:30](./Sessions/2024/06-24-session.md) | [The Alignment Problem: How Can Artificial Intelligence Learn Human Values?](https://atlantic-books.co.uk/book/the-alignment-problem/) |
+| [03.12.24, 13:30](./Sessions/2024/12-24-session.md)- [sign up here](https://www.tickettailor.com/events/dataethics/1406213/r/github) | [The Alignment Problem: How Can Artificial Intelligence Learn Human Values?](https://atlantic-books.co.uk/book/the-alignment-problem/) |
 
 You can see a record of what we have discussed here:
 
