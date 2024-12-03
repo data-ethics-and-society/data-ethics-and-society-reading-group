@@ -8,12 +8,13 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [03.12.24, 13:30](./Sessions/2024/12-24-session.md)- [sign up here](https://www.tickettailor.com/events/dataethics/1406213/r/github) | [The Alignment Problem: How Can Artificial Intelligence Learn Human Values?](https://atlantic-books.co.uk/book/the-alignment-problem/) |
+| TBC | TBC |
 
 You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [03.12.24, 13:30](./Sessions/2024/12-24-session.md) | [The Alignment Problem: How Can Artificial Intelligence Learn Human Values?](https://atlantic-books.co.uk/book/the-alignment-problem/) |
 | [04.09.24, 13:00](./Sessions/2024/09-24-session.md) | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
 | [04.06.24, 13:00](./Sessions/2024/06-24-session.md) | [Dark Data](https://darkdata.website/) |
 | [07.03.24, 12:00](./Sessions/2024/03-24-session.md) | [Technology Is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) |
