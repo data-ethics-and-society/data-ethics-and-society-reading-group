@@ -27,7 +27,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence](https://yalebooks.co.uk/book/9780300264630/atlas-of-ai/) | *Kate Crawford* | 2022 | ✅ [26.07.2021, 12:30](./Sessions/2021/07-21-session.md)  |
 | [Automating Inequality: How High-Tech Tools Profile, Police and Punish the Poor](https://virginia-eubanks.com/automating-inequality/) | *Virginia Eubanks* | 2018 | |
 | [Bad Data: How Governments, Politicians and the Rest of Us Get Misled by Numbers (Hardback)](https://www.hachette.co.uk/titles/georgina-sturge/bad-data/9780349128603/) | *Georgina Sturge* | 2022 | ✅ [28.02.23, 12:00](./Sessions/2023/02-23-session.md) |
-| [Code Dependent: Living in the Shadow of AI](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) | *Madhumita Murgia* | 2024 | 📅 September 2024 Event |
+| [Code Dependent: Living in the Shadow of AI](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) | *Madhumita Murgia* | 2024 | ✅ [04.09.2024, 13:00](./Sessions/2024/09-24-session.md) |
 | [Coders: Who They Are, What They Think and How They Are Changing Our World](https://www.clivethompson.net/) | *Clive Thompson* | 2019 | |
 | [Co-Intelligence: Living and Working with AI](https://www.penguin.co.uk/books/460207/co-intelligence-by-mollick-ethan/9780753560778) | *Ethan Mollick* | 2024 | |
 | [Counting: How We Use Numbers to Decide What Matters](https://www.goodreads.com/book/show/50489326-counting) | *Deborah Stone* | 2020 | ✅ [31.05.2022, 12:00](./Sessions/2022/05-22-session.md) |
@@ -58,7 +58,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Superintelligence: Paths, Dangers, Strategies](https://nickbostrom.com/) | *Nick Bostrom* | 2014 | |
 | [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books) | *Sara Wachter-Boettch* | 2017 | |
 | [Technology is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | *Stephanie Hare* | 2022 | ✅ [07.03.24, 12:00](./Sessions/2024/03-24-session.md) |
-| [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | |
+| [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) ||
 | [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://shoshanazuboff.com/book/about/) | *Shosana Zuboff* | 2018 | |
 | [The Coming Wave: Technology, Power and The Twenty-first Century’s Greatest Dilemma](https://www.the-coming-wave.com/) | *Mustafa Suleyman and Michael Bhaskar* | 2023 | |
 | [The Digital Republic: On Freedom and Democracy in the 21st Century](https://www.bloomsbury.com/uk/digital-republic-9781526650412/) | *Jamie Susskind* | 2022 | |
