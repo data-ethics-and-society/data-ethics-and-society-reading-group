@@ -39,10 +39,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 - Keep an eye on the main room for any latecomers who need to be assigned to a breakout room.
 - Send 10 minute, 5 minute and 1 minute announcements to breakout rooms.
-
-`support`:
-
-- Monitoring proton mail inbox for any issues related to event access or breakout room code of conduct issues and inform `organiser`.
+- Monitoring proton mail inbox for any issues related to event access or breakout room code of conduct issues and resolve.
 
 ### 40-50 mins
 
@@ -62,7 +59,9 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 ### 50-55 mins
 
-📊 Vote on what to read next time
+Next steps, either:
+
+#### 📊 Vote on what to read next time
 
 `chair`:
 
@@ -71,6 +70,12 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 `support`:
 
 - Post sli.do link for book suggestion and voting.
+
+#### OR inform attendees on future events
+
+`chair`:
+
+- Inform attendees on future events and changes.
 
 ### 55-60 mins
 
