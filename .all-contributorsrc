@@ -43,6 +43,21 @@
         "doc",
         "video"
       ]
+    },
+    {
+      "login": "AI-ynnna",
+      "name": "Adela Iliescu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92533251?v=4",
+      "profile": "https://github.com/AI-ynnna",
+      "contributions": [
+        "maintenance",
+        "talk",
+        "promotion",
+        "content",
+        "review",
+        "ideas",
+        "doc"
+      ]
     }
   ]
 }
