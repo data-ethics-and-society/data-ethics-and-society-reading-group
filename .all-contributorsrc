@@ -1,5 +1,24 @@
 {
-  "projectName": "Data Ethics and Society Reading Group",
-  "projectOwner": "Data Ethics and Society",
-  "contributorsSortAlphabetically": true
+  "projectName": "data-ethics-and-society-reading-group",
+  "projectOwner": "data-ethics-and-society",
+  "contributorsSortAlphabetically": true,
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "harrietrs",
+      "name": "Harriet Sands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28767009?v=4",
+      "profile": "https://github.com/harrietrs",
+      "contributions": [
+        "content",
+        "doc",
+        "eventOrganizing"
+      ]
+    }
+  ]
 }
