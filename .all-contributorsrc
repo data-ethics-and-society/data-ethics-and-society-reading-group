@@ -26,6 +26,23 @@
         "review",
         "maintenance"
       ]
+    },
+    {
+      "login": "mshodge",
+      "name": "Michael Hodge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15108577?v=4",
+      "profile": "https://github.com/mshodge",
+      "contributions": [
+        "design",
+        "maintenance",
+        "talk",
+        "promotion",
+        "content",
+        "review",
+        "ideas",
+        "doc",
+        "video"
+      ]
     }
   ]
 }
