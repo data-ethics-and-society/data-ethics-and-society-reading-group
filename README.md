@@ -73,105 +73,15 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 * [Data Ethics Club](https://github.com/very-good-science/data-ethics-club)
 
 ## Contributors
-<!-- markdownlint-disable -->
-<table>
-	<tbody>
-		<tr>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/harrietrs">
-					<img alt="" src="https://avatars.githubusercontent.com/u/28767009?v=4" width="100px;" />
-					<br />
-					<sub>harrietrs</sub>
-				</a>
-				<br />
-				<a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a>
-				<a href="#ideas-harrietrs" title="Ideas, Planning, &amp; Feedback">🤔</a>
-				<a href="#content-harrietrs" title="Content">🖋</a>
-				<a href="#question-harrietrs" title="Leading Discussion">💬</a>
-				<a href="#blog-harrietrs" title="Blogposts">📝</a>
-				<a href="#maintenance-harrietrs" title="Maintenance">🚧</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/mshodge">
-					<img alt="" src="https://avatars.githubusercontent.com/u/15108577?v=4" width="100px;" />
-					<br />
-					<sub>mshodge</sub>
-				</a>
-				<br />
-				<a href="#eventOrganizing-mshodge" title="Event Organizing">📋</a>
-				<a href="#ideas-mshodge" title="Ideas, Planning, &amp; Feedback">🤔</a>
-				<a href="#content-mshodge" title="Content">🖋</a>
-				<a href="#question-mshodge" title="Leading Discussion">💬</a>
-				<a href="#blog-mshodge" title="Blogposts">📝</a>
-				<a href="#maintenance-mshodge" title="Maintenance">🚧</a></font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/HillaryJuma">
-					<img alt="" src="https://avatars.githubusercontent.com/u/52030096?v=4" width="100px;" />
-					<br />
-					<sub>HillaryJuma</sub>
-				</a>
-				<br />
-				<a href="#eventOrganizing-HillaryJuma" title="Event Organizing">📋</a>
-				<a href="#ideas-HillaryJuma" style="text-align: -webkit-center;" title="Ideas, Planning, &amp; Feedback">🤔</a>
-				<a href="#content-HillaryJuma" title="Content">🖋</a>
-				<a href="#question-HillaryJuma" title="Leading Discussion">💬</a>
-				<a href="#design-HillaryJuma" title="Design">🎨</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/alexander-newton">
-					<img alt="" src="https://avatars.githubusercontent.com/u/43876799?v=4" width="100px;" />
-					<br />
-					<sub>alexander-newton</sub>
-				</a>
-				<br />
-				<a href="#content-alexander-newton" title="Content">🖋</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/asfass">
-					<img alt="" src="https://avatars.githubusercontent.com/u/107923301?v=4" width="100px;" />
-					<br />
-					<sub>asfass</sub>
-				</a>
-				<br />
-				<a href="#content-asfass" title="Content">🖋</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/annie-howard">
-					<img alt="" src="https://avatars.githubusercontent.com/u/90615915?v=4" width="100px;" />
-					<br />
-					<sub>annie-howard</sub>
-				</a>
-				<br />
-				<a href="#content-annie-howard" title="Content">🖋</a>
-				<a href="#eventOrganizing-annie-howard" title="Event Organizing">📋</a>
-				<a href="#question-annie-howard" title="Leading Discussion">💬</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/AI-ynnna">
-					<img alt="" src="https://avatars.githubusercontent.com/u/92533251?v=4" width="100px;" />
-					<br />
-					<sub>AI-ynnna</sub>
-				</a>
-				<br />
-				<a href="#eventOrganizing-AI-ynnna" title="Event Organizing">📋</a>
-				<a href="#ideas-AI-ynnna" title="Ideas, Planning, &amp; Feedback">🤔</a>
-				<a href="#content-AI-ynnna" title="Content">🖋</a>
-			</font></td>
-			<td align="center"><font color="#333333">
-				<a href="https://github.com/amelianoonan1-nhs">
-					<img alt="" src="https://avatars.githubusercontent.com/u/110029556?v=4" width="100px;" />
-					<br />
-					<sub>amelianoonan1-nhs</sub>
-				</a>
-				<br />
-				<a href="#content-amelianoonan1-nhs" title="Content">🖋</a>
-			</font></td>
-		</tr>
-	</tbody>
-</table>
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
 <!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ### Emoji Key
 
