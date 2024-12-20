@@ -80,7 +80,7 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/harrietrs"><img src="https://avatars.githubusercontent.com/u/28767009?v=4?s=100" width="100px;" alt="Harriet Sands"/><br /><sub><b>Harriet Sands</b></sub></a><br /><a href="#content-harrietrs" title="Content">🖋</a> <a href="#doc-harrietrs" title="Documentation">📖</a> <a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a> <a href="#talk-harrietrs" title="Talks">📢</a> <a href="#ideas-harrietrs" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-harrietrs" title="Promotion">📣</a> <a href="#question-harrietrs" title="Answering Questions">💬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/harrietrs"><img src="https://avatars.githubusercontent.com/u/28767009?v=4?s=100" width="100px;" alt="Harriet Sands"/><br /><sub><b>Harriet Sands</b></sub></a><br /><a href="#content-harrietrs" title="Content">🖋</a> <a href="#doc-harrietrs" title="Documentation">📖</a> <a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a> <a href="#talk-harrietrs" title="Talks">📢</a> <a href="#ideas-harrietrs" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-harrietrs" title="Promotion">📣</a> <a href="#question-harrietrs" title="Answering Questions">💬</a> <a href="#video-harrietrs" title="Videos">📹</a> <a href="#review-harrietrs" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-harrietrs" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
