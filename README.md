@@ -77,6 +77,13 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/harrietrs"><img src="https://avatars.githubusercontent.com/u/28767009?v=4?s=100" width="100px;" alt="Harriet Sands"/><br /><sub><b>Harriet Sands</b></sub></a><br /><a href="#content-harrietrs" title="Content">🖋</a> <a href="#doc-harrietrs" title="Documentation">📖</a> <a href="#eventOrganizing-harrietrs" title="Event Organizing">📋</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
