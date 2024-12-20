@@ -48,7 +48,7 @@ Suggestions will be viewed by the organisers and several times a year we will as
 
 This group is exclusively for the UK public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
 
-The organisers are based in Leeds and Cardiff.
+The organisers are based in London and Cardiff.
 
 ### Frequently Asked Questions
 
@@ -85,14 +85,7 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 
 ### Emoji Key
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification, with some small tweaks to fit our purposes!  We use...
-
-* 🖋  for submitting suggestions to the "reading" list (suggestions can be any medium!)
-* 💬  for leading the discussion in a meeting
-* 📋  for organising
-* 🤔  for ideas and planning of the group
-* 🎨  for visual design (e.g. logo)
-* 🚧  for repository maintenance (e.g. fixing links)
+This project follows the [all-contributors](https://allcontributors.org/) specification, and its [Emoji Key](https://allcontributors.org/docs/en/emoji-key).
 
 ## License
 
