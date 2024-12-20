@@ -157,6 +157,15 @@ Box](https://github.com/DataKind-UK/data-ethics-book-club-in-a-box) from [DataKi
 				<a href="#ideas-AI-ynnna" title="Ideas, Planning, &amp; Feedback">🤔</a>
 				<a href="#content-AI-ynnna" title="Content">🖋</a>
 			</font></td>
+			<td align="center"><font color="#333333">
+				<a href="https://github.com/amelianoonan1-nhs">
+					<img alt="" src="https://avatars.githubusercontent.com/u/110029556?v=4" width="100px;" />
+					<br />
+					<sub>amelianoonan1-nhs</sub>
+				</a>
+				<br />
+				<a href="#content-amelianoonan1-nhs" title="Content">🖋</a>
+			</font></td>
 		</tr>
 	</tbody>
 </table>
