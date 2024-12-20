@@ -17,7 +17,11 @@
       "contributions": [
         "content",
         "doc",
-        "eventOrganizing"
+        "eventOrganizing",
+        "talk",
+        "ideas",
+        "promotion",
+        "question"
       ]
     }
   ]
