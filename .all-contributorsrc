@@ -35,6 +35,7 @@
       "contributions": [
         "design",
         "maintenance",
+        "eventOrganizing".
         "talk",
         "promotion",
         "content",
@@ -53,6 +54,7 @@
         "maintenance",
         "talk",
         "promotion",
+        "eventOrganizing",
         "content",
         "review",
         "ideas",
@@ -68,6 +70,7 @@
         "design",
         "talk",
         "promotion",
+        "eventOrganizing",
         "content",
         "ideas"
       ]
@@ -97,7 +100,17 @@
       "profile": "https://github.com/annie-howard",
       "contributions": [
         "content",
-        "talk"
+        "talk",
+        "eventOrganizing",
+       ]
+    },
+    {
+      "login": "amelianoonan1-nhs",
+      "name": "amelianoonan1-nhs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110029556?v=4",
+      "profile": "https://github.com/amelianoonan1-nhs",
+      "contributions": [
+        "content"
       ]
     }
   ]
