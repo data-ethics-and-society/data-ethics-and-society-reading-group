@@ -1,5 +1,94 @@
 {
-  "projectName": "Data Ethics and Society Reading Group",
-  "projectOwner": "Data Ethics and Society",
-  "contributorsSortAlphabetically": true
+  "projectName": "data-ethics-and-society-reading-group",
+  "projectOwner": "data-ethics-and-society",
+  "contributorsSortAlphabetically": true,
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "harrietrs",
+      "name": "Harriet Sands",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28767009?v=4",
+      "profile": "https://github.com/harrietrs",
+      "contributions": [
+        "content",
+        "doc",
+        "eventOrganizing",
+        "talk",
+        "ideas",
+        "promotion",
+        "question",
+        "video",
+        "review",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "mshodge",
+      "name": "Michael Hodge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15108577?v=4",
+      "profile": "https://github.com/mshodge",
+      "contributions": [
+        "design",
+        "maintenance",
+        "talk",
+        "promotion",
+        "content",
+        "review",
+        "ideas",
+        "doc",
+        "video"
+      ]
+    },
+    {
+      "login": "AI-ynnna",
+      "name": "Adela Iliescu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92533251?v=4",
+      "profile": "https://github.com/AI-ynnna",
+      "contributions": [
+        "maintenance",
+        "talk",
+        "promotion",
+        "content",
+        "review",
+        "ideas",
+        "doc"
+      ]
+    },
+    {
+      "login": "HillaryJuma",
+      "name": "Hillary Juma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52030096?v=4",
+      "profile": "https://github.com/HillaryJuma",
+      "contributions": [
+        "design",
+        "talk",
+        "promotion",
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "asfass",
+      "name": "Alessandra Fassio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107923301?v=4",
+      "profile": "https://github.com/asfass",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "alexander-newton",
+      "name": "Alexander Newton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43876799?v=4",
+      "profile": "https://github.com/alexander-newton",
+      "contributions": [
+        "content"
+      ]
+    }
+  ]
 }
