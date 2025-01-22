@@ -6,20 +6,26 @@ We've described how a typical meeting would run in the ['Facilitating'](./facili
 
 ## Deciding on material to read
 
-The [reading list](/READING-LIST.md) is organised into different sections - some are philosophical, some are technical. Our [previously discussed pieces are available in our Sessions Overview](/SESSIONS.md). We like to check off things we have discussed [in the reading list](/READING-LIST.md).
+The [reading list](/READING-LIST.md) is a curated list of what we, and others, have added over the years. It also shows what we have currently read, [more detail about previously discussed books is in our Sessions Overview](/SESSIONS.md).
 
-The whole group votes on what to read for the following meeting at the end of every session. A slido is pre-populated with items already on our reading list, and attendees are invited to vote for items, as well as add anything they want to read for others to upvote.
+From 2025, the organisers will each pick a book to read and decide which one should be part of a future session. In general, we decide based on the following:
+- Is the material engaging and interesting?
+- Have we covered the topic before?
+- Is the book affordable and available?
+- Is the information and material up-to-date?
 
 ## Administrative tasks
 
+More information on the tools we use can be found in our ['Tools'](./tools.md) page.
+
 ### Before the meeting
 
-- [ ] Determine the material to discuss from the item with most votes on the slido from the previous meeting
+- [ ] Bring suggestions to organiser meetings, divide material up between organisers, and decide which material should be discussed at the next event
 - [ ] Decide date of next meeting
 - [ ] Create a [meeting information file](./../Sessions/session-template.md) in the `Sessions/` folder
 - [ ] Update the [meeting overview file](./../SESSIONS.md) with a link to the new meeting information page
-- [ ] Create a sign-up form to manage attendees (we currently use the Ticket Tailor platform for this, but are open to other suggestions)
-- [ ] Produce a newsletter post promoting the event
+- [ ] Create a sign-up form to manage attendees (using Ticket Tailor)
+- [ ] Produce a newsletter post promoting the event (using Substack)
 - [ ] Promote the event via the following channels:
   - [ ] #ethics channel of the Cross-Government Data Science Slack Workspace
   - [ ] AnalystX
@@ -31,7 +37,7 @@ The whole group votes on what to read for the following meeting at the end of ev
     - [ ] CDDO X-Gov Bulletin
 - [ ] Send a six-week reminder to attendees to get a copy of the reading material
 - [ ] Decide on three questions around the piece to discuss.
-- [ ] Set up a calendar event (we currently use Microsoft Teams for this)
+- [ ] Set up a calendar event (using Microsoft Teams)
 - [ ] Send a four-week reminder to attendees with the event invite and the discussion questions
 - [ ] Set up slido with items pre-populated from the [Reading List](./../READING-LIST.md)
 - [ ] Prepare slides if required
@@ -42,7 +48,7 @@ The whole group votes on what to read for the following meeting at the end of ev
 
 - [ ] Upload [attendee numbers](/Sessions/attendance.csv)
 - [ ] Update GitHub session pages (e.g. remove session sign-up links, change icon on reading list)
-- [ ] Send thank you email and reminder to vote on slido
+- [ ] Send thank you email
 
 ## Contributing
 
@@ -58,10 +64,10 @@ Contributions can be lots of different things, and so we use the [emoji key](/RE
 
 We welcome any administrative and organisational help you can offer! Please get in touch via [email](mailto:xgov-data-ethics@proton.me). We'd especially like to hear from people who are new to the Civil Service and from groups usually under-represented in data science.
 
-### I'd like to lead a session on a particular topic
+### I'd like to lead a session on a particular topic or book
 
 Brilliant! Please reach out to us via [email](mailto:xgov-data-ethics@proton.me) and we can set this up with you.
 
 ## Communicating
 
-We primarily use our [newsletter](https://xgovdataethics.substack.com/) to communicate with interested Data Science practitioners across government. Sign up to hear about upcoming events.
+We primarily use our Substack [newsletter](https://xgovdataethics.substack.com/) to communicate with interested Data Science practitioners across government. Sign up to hear about upcoming events.
