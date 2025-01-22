@@ -56,6 +56,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://kevinguyan.com/queer-data/) | *Kevin Guyan* | 2022 | |
 | [Scary smart: the future of artificial intelligence and how you can save our world](https://www.mogawdat.com/scary-smart) | *Mo Gawdat* | 2021 | |
 | [Superintelligence: Paths, Dangers, Strategies](https://nickbostrom.com/) | *Nick Bostrom* | 2014 | |
+| [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) | *Parmy Olson* | 2024 | |
 | [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books) | *Sara Wachter-Boettch* | 2017 | |
 | [Technology is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | *Stephanie Hare* | 2022 | ✅ [07.03.24, 12:00](./Sessions/2024/03-24-session.md) |
 | [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) ||
@@ -67,6 +68,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Official History of Britain: Our Story in Numbers as Told by the Office For National Statistics](https://www.bibliophilebooks.com/officialhistoryofbritain) | *Boris Starling and D. Bradbury*| 2020 | |
 | [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/) | *Jenny Kennedy and Yolande Strengers* | 2020 | |
 | [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/) | *Tim Harford* | 2023 | |
+| [Unmasking AI: My Mission to Protect What Is Human in a World of Machines](https://www.unmasking.ai/) | *Joy Buolamwini* | 2023 | |
 | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) |
 | [We The People: A Playbook for Data Ethics in a Democratic Society](https://technicspub.com/we-the-people/) | *Kathy Rondon* | 2022 | |
 | [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire) | *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* | 2021 | 💸 |
