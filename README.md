@@ -1,6 +1,6 @@
 # Data Ethics and Society Reading Group
 
-<center><img src="assets/header.png" alt="logo" width="600"></center>
+<center><img src="assets/deas.png" alt="logo" width="200"></center>
 
 
 _“Data Science isn’t neutral”;_ books such as Race After Technology (2019), Invisible Woman (2019) and Data Feminism (2020) have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
@@ -9,13 +9,18 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 
 ## Who are we?
 
+<center><img src="assets/header.png" alt="logo" width="600"></center>
+
+
 The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books that relate to doing data science ethically. You can [contact us on xgov-data-ethics@proton.me](mailto:xgov-data-ethics@proton.me).
 
 > :memo: Read our code of conduct [here](./code-of-conduct.md).
 
-## What events do we run?
+## How do our events work?
 
-We organise and run two sessions a year. You can see what we have read previously on our [reading list](./READING-LIST.md). Have a suggestion? Add it to our [reading materials](#how-to-make-suggestions).
+<center><img src="assets/sessions.png" alt="logo" width="600"></center>
+
+We organise and run two sessions a year. You can see what we have read previously on our [reading list](./READING-LIST.md). Have a suggestion? Add it to our [reading materials](#how-to-make-suggestions). Our sessions are typically an hour long, including breakout rooms.
 
 > :tv: [Watch our short 4-minute video](https://youtu.be/nuWOeRx26iw) or read our [facilitating](./Guides/facilitating.md) guide to understand what to expect at a session.
 
