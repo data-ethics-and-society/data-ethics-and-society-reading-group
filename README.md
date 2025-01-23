@@ -20,7 +20,7 @@ The Data Ethics and Society Reading Group is a space for public sector colleague
 
 <center><img src="assets/sessions.png" alt="logo" width="600"></center>
 
-We organise and run two sessions a year. You can see what we have read previously on our [reading list](./READING-LIST.md). Have a suggestion? Add it to our [reading materials](#how-to-make-suggestions). Our sessions are typically an hour long, including breakout rooms.
+We organise and sessions to cover two books a year. You can see what we have read previously on our [reading list](./READING-LIST.md). Have a suggestion? Add it to our [reading materials](#how-to-make-suggestions). Our sessions are typically an hour long, including breakout rooms.
 
 > :tv: [Watch our short 4-minute video](https://youtu.be/nuWOeRx26iw) or read our [facilitating](./Guides/facilitating.md) guide to understand what to expect at a session.
 
