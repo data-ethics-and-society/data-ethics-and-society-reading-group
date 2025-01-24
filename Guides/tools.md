@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <center>
 <p align="center" style="font-size:22px">
 <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
