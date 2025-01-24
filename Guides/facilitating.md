@@ -10,11 +10,11 @@ Meetings are typically 1 hour.
 
 It helps to have an event `chair`, `organiser` and `support` so that one person can chair the meeting and the other two can handle everything behind the scenes. The `organiser` sets up the event meeting and sends out invitations to tickets holders.
 
-### XX:00 to XX:05 (5 mins)
+### At 0–5 minutes
 
   🟢 Allow people to trickle in and say hi.
 
-### XX:05 to XX:10 (5 mins)
+### At 5–10 minutes
 
 👋 Welcome everyone to the meeting.
 
@@ -32,7 +32,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 - Allocate people randomly into breakout rooms, with 5-6 people in each group.
 
-### XX:10 to XX:40 (30 mins)
+### At 10–40 minutes
 
 💬 Everyone chats in their breakout rooms.
 
@@ -42,7 +42,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 - Send 10 minute, 5 minute and 1 minute announcements to breakout rooms.
 - Monitoring proton mail inbox for any issues related to event access or breakout room code of conduct issues and resolve.
 
-### XX:40 to XX:55 (15 mins)
+### At 40–55 minutes
 
 💬💬💬 Everyone comes back to the main room
 
@@ -58,7 +58,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 - Post sli.do link for collecting thoughts.
 
-### XX:55 - close (5 mins)
+### At 55–60 minutes
 
 Next steps, either:
 
