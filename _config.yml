@@ -1,3 +1,4 @@
+remote_theme: pages-themes/primer@v0.2.0
 plugins:
   - jekyll-relative-links
   - jemoji
