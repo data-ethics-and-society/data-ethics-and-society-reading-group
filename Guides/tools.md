@@ -20,7 +20,7 @@ We use [Ticket Tailor](https://www.tickettailor.com/) to create and ticket event
 
 ## Meetings
 
-For all meetings, including our events, we use Microsoft Teams. Meetings are normally setup from the hosts (one of our organisers) department.
+For all meetings, including our events, we use Microsoft Teams.
 
 ## Task Management
 
