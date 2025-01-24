@@ -1,6 +1,6 @@
 # What tools we use to organise our events
 
-Working collaboratively across the public sector is hard, and as a result we use a variety of tools and services to help us.
+Working collaboratively across the public sector is hard, and as a result we use a variety of tools and services to help us. Please note that these are up-to-date as of the time of writing but may need to change at short notice due to tool availability, pricing etc.
 
 ## Email
 
