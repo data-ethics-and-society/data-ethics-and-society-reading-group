@@ -1,6 +1,6 @@
 # Meeting Dates
 
-The dates for upcoming sessions are here, but the discussion material will be shared a few weeks before the session. All additional material can be found in the relevant session information document.
+The dates for upcoming sessions are here, but discussion material will be shared a few weeks before the session. All additional material can be found in the relevant session information document.
 
 An sign-up link will be sent out via Slack, as well as our [mailing list](https://xgovdataethics.substack.com/) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via [email](mailto:xgov-data-ethics@proton.me) if you do not receive an invite.
 
