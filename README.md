@@ -2,7 +2,6 @@
 
 <center><img src="assets/deas.png" alt="logo" width="200"></center>
 
-
 _“Data Science isn’t neutral”;_ books such as Race After Technology (2019), Invisible Woman (2019) and Data Feminism (2020) have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
 > :bulb: Currently we are busy planning our next event, which will take place in April 2025.
@@ -10,7 +9,6 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 ## Who are we?
 
 <center><img src="assets/header.png" alt="logo" width="600"></center>
-
 
 The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books that relate to doing data science ethically. You can [contact us on xgov-data-ethics@proton.me](mailto:xgov-data-ethics@proton.me).
 
@@ -46,7 +44,6 @@ If you'd like to make a suggestion for what to read, please do so however you pr
 * contact us via [email](mailto:xgov-data-ethics@proton.me)
 
 Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list](https://xgovdataethics.substack.com/) to vote on a book to be read at a futute event.
-
 
 ## Attendance
 
