@@ -1,3 +1,13 @@
+<center>
+<p align="center" style="font-size:22px">
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
+</p>
+</center>
+
 # Meeting Dates
 
 The dates for upcoming sessions are here, but discussion material will be shared a few weeks before the session. All additional material can be found in the relevant session information document.

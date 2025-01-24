@@ -1,3 +1,13 @@
+<center>
+<p align="center" style="font-size:22px">
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
+</p>
+</center>
+
 # Data Ethics & Society Reading Group 15-02-22, [12:00-13:00 GMT](https://www.timeanddate.com/countdown/generic?p0=136&iso=20220215T12&msg=Data%20Ethics%20and%20Society%20Reading%20Group%3a%20Hello%20World)
 
 ## Meeting info

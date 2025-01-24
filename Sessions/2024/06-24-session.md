@@ -1,3 +1,13 @@
+<center>
+<p align="center" style="font-size:22px">
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
+</p>
+</center>
+
 # Data Ethics & Society Reading Group, Tuesday 4th June 2024 [13:00-14:00 GMT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dark+Data&iso=20240604T13&p1=136&ah=1)
 
 ## Description
