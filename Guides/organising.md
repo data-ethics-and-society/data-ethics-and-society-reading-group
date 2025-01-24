@@ -6,7 +6,7 @@ We've described how a typical meeting would run in the ['Facilitating'](./facili
 
 ## Deciding on material to read
 
-The [reading list](/READING-LIST.md) is a curated list of what we, and others, have added over the years. It also shows what we have currently read, [more detail about previously discussed books is in our Sessions Overview](/SESSIONS.md).
+The [reading list](/READING-LIST.md) is a curated list of suggestions we have received, and indicates what we have covered in sessions. More detail about previously discussed books is in our [Sessions Overview](/SESSIONS.md).
 
 From 2025, the organisers will each pick a book to read and decide which one should be part of a future session. In general, we decide based on the following:
 - Is the material engaging and interesting?
