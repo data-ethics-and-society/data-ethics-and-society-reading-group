@@ -62,7 +62,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 Next steps, either:
 
-#### 📊 Vote on what to read next time (not doing for 2025)
+#### 📊 Vote on what to read next time (NOTE: we are not doing this in 2025 and will revisit in future)
 
 `chair`:
 
