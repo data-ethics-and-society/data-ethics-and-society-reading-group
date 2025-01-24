@@ -28,4 +28,4 @@ For logging tasks we use a private [Trello](https://trello.com/) board. This all
 
 ## Documentation
 
-For documents and slides we use Google Docs and Slides.
+For documents and slides we use Google Docs and Slides. We find these tools aid collaboration.
