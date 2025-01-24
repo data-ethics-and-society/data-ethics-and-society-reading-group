@@ -1,33 +1,36 @@
 # Data Ethics and Society Reading Group
 
-<center><img src="deas.png" alt="logo" width="200"></center>
+<center><img src="assets/deas.png" alt="logo" width="200"></center>
 
-_“Data Science isn’t neutral”;_ books such as Race After Technology, Invisible Woman and Data Feminism have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
+_“Data Science isn’t neutral”;_ books such as Race After Technology (2019), Invisible Woman (2019) and Data Feminism (2020) have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
-The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books, journals, blog posts, and watch videos, that relate to doing data science ethically. Read our code of conduct [here](./code-of-conduct.md).
+> :bulb: Currently we are busy planning our next event, which will take place in April 2025.
 
-We meet (virtually) four times a year.
+## Who are we?
 
-> Stay tuned for details of changes to the reading group for 2025.
+<center><img src="assets/header.png" alt="logo" width="600"></center>
 
-While you're here, you may also want to:
+The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books that relate to doing data science ethically. You can [contact us on xgov-data-ethics@proton.me](mailto:xgov-data-ethics@proton.me).
 
-* enjoy our [reading list](./READING-LIST.md).
-* [read our code of conduct](./code-of-conduct.md)
-* [suggest reading materials](#how-to-make-suggestions).
-* [see details of previous sessions](./SESSIONS.md).
-* [get involved in organising](#get-involved).
-* [contact us](mailto:xgov-data-ethics@proton.me)
+> :memo: Read our code of conduct [here](./code-of-conduct.md).
+
+## How do our events work?
+
+<center><img src="assets/sessions.png" alt="logo" width="600"></center>
+
+We organise and sessions to cover two books a year. You can see what we have read previously on our [reading list](./READING-LIST.md). Have a suggestion? Add it to our [reading materials](#how-to-make-suggestions). Our sessions are typically an hour long, including breakout rooms.
+
+> :tv: [Watch our short 4-minute video](https://youtu.be/nuWOeRx26iw) or read our [facilitating](./Guides/facilitating.md) guide to understand what to expect at a session.
 
 ## Stay in the loop
 
-Join our [mailing list](https://xgovdataethics.substack.com/) to hear about upcoming events.
+Join our Substack [mailing list](https://xgovdataethics.substack.com/) to hear about upcoming events.
 
 We also hang out in the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
 
 ## Get Involved
 
-If you're interested in joining us in organising, take a look at our [facilitating](./Guides/facilitating.md) and [organising](./Guides/organising.md) guides to see if it might be for you. Get in touch via [email](mailto:xgov-data-ethics@proton.me) if so- we would really welcome new organisers!
+If you're interested in joining us in organising, take a look at our [facilitating](./Guides/facilitating.md), [organising](./Guides/organising.md) and [tools](./Guides/tools.md) guides to see if it might be for you. Get in touch via [email](mailto:xgov-data-ethics@proton.me) if so.
 
 Interested in starting your own group at your organisation? All resources included in this repo are available under the terms of the [license](./LICENSE).
 
@@ -42,13 +45,9 @@ If you'd like to make a suggestion for what to read, please do so however you pr
 
 Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list](https://xgovdataethics.substack.com/) to vote on a book to be read at a futute event.
 
----
-
 ## Attendance
 
 This group is exclusively for the UK public sector (central and local government and their arms-length bodies, government companies, policing and public health organisations, such as the NHS).
-
-The organisers are based in London and Cardiff.
 
 ### Frequently Asked Questions
 

@@ -1,14 +1,13 @@
 # Meeting Dates
 
-Sessions are every three months or so, usually on a **weekday lunchtime** at around midday.
-
-The dates for upcoming sessions are here, but the discussion material will be voted for in the meeting before. All additional material can be found in the relevant session information document.
+The dates for upcoming sessions are here, but discussion material will be shared a few weeks before the session. All additional material can be found in the relevant session information document.
 
 An sign-up link will be sent out via Slack, as well as our [mailing list](https://xgovdataethics.substack.com/) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via [email](mailto:xgov-data-ethics@proton.me) if you do not receive an invite.
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| TBC | TBC |
+| April 2025 (TBC) | TBC |
+| November 2025 (TBC) | TBC |
 
 You can see a record of what we have discussed here:
 

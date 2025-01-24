@@ -2,18 +2,19 @@
 
 As with much of this repository, the below borrows heavily from [Data Ethics Club](https://github.com/very-good-science/data-ethics-club).
 
-Typically we have a brief introduction to the material, split everyone into breakout rooms of 5-6 people for 25-30 minutes to talk about the discussion questions, and then come back together for the final 15-20 minutes to share thoughts before voting on the material for the next meeting.
+Typically we have a brief introduction to the material, split everyone into breakout rooms to talk about the discussion questions, and then come back together to share thoughts before closing the session.
 
 ## Meeting Structure
 
 Meetings are typically 1 hour.
+
 It helps to have an event `chair`, `organiser` and `support` so that one person can chair the meeting and the other two can handle everything behind the scenes. The `organiser` sets up the event meeting and sends out invitations to tickets holders.
 
-### 0-5 mins
+### At 0–5 minutes
 
   🟢 Allow people to trickle in and say hi.
 
-### 5-10 mins
+### At 5–10 minutes
 
 👋 Welcome everyone to the meeting.
 
@@ -31,7 +32,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 - Allocate people randomly into breakout rooms, with 5-6 people in each group.
 
-### 10-40 mins
+### At 10–40 minutes
 
 💬 Everyone chats in their breakout rooms.
 
@@ -41,7 +42,7 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 - Send 10 minute, 5 minute and 1 minute announcements to breakout rooms.
 - Monitoring proton mail inbox for any issues related to event access or breakout room code of conduct issues and resolve.
 
-### 40-50 mins
+### At 40–55 minutes
 
 💬💬💬 Everyone comes back to the main room
 
@@ -57,11 +58,11 @@ It helps to have an event `chair`, `organiser` and `support` so that one person 
 
 - Post sli.do link for collecting thoughts.
 
-### 50-55 mins
+### At 55–60 minutes
 
 Next steps, either:
 
-#### 📊 Vote on what to read next time
+#### 📊 Vote on what to read next time (NOTE: we are not doing this in 2025 and will revisit in future)
 
 `chair`:
 
@@ -77,12 +78,6 @@ Next steps, either:
 
 - Inform attendees on future events and changes.
 
-### 55-60 mins
+## Post event
 
-✉️ Feedback
-
-We usually ask:
-
-- Did the material provoke interesting discussion?
-- Would you recommend this piece to another group?
-- Vote on what to discuss next time (from a shortlist).
+After the event we send an email to attendees thanking them for attending and asking for any feedback.
