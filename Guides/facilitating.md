@@ -80,4 +80,4 @@ Next steps, either:
 
 ## Post event
 
-Normally after the event we send an emailing to attendees thanking them for attending and asking for any feedback.
+After the event we send an email to attendees thanking them for attending and asking for any feedback.
