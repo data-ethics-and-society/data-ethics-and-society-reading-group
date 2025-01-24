@@ -1,3 +1,13 @@
+<center>
+<p align="center" style="font-size:22px">
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
+</p>
+</center>
+
 # Code of Conduct
 
 This Code of Conduct has been adapted (only very slightly) from that developed by the [Data Ethics Club](http://www.bristol.ac.uk/golding/what-we-do/data-governance-and-reproducibility/) of the Jean Golding Institute. This in turn was influenced by the [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules).
