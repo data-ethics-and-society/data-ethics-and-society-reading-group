@@ -16,7 +16,7 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 
 > 📖 Our next sessions will be on [Tuesday 29 April and Wednesday 14 May 2025 to discuss Supremacy by Parmy Olson](./Sessions/2025/04-25-session.md)
 >
-> ➡️ [SIGN UP HERE](https://app.tickettailor.com/events/dataethics/1549481)
+> ➡️ [SIGN UP HERE](https://www.tickettailor.com/events/dataethics/1549481?/r/github)
 
 ## Who are we?
 
