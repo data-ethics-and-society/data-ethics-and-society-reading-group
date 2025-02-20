@@ -30,7 +30,7 @@ Usual time 12:00-13:00
 
 You're welcome to join us for our next Data Ethics & Society Reading Group on Tue 29 Apr 2025 1:00 PM - 2:00 PM and Wed 14 May 2025 12:30 PM - 1:30 PM. 
 
-➡️ [SIGN UP HERE](https://app.tickettailor.com/events/dataethics/1549481)
+➡️ [SIGN UP HERE](https://www.tickettailor.com/events/dataethics/1549481?/r/github)
 
 >[!NOTE]
 >This book will be split over two sessions, on the first we will be focusing on the theme of 'AI ethics & AI safety' and on the second the theme of 'The race: lessons learned'. When getting your ticket you can choose to attend one, or both sessions.
