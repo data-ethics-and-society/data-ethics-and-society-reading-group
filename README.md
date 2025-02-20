@@ -12,7 +12,11 @@
 
 _“Data Science isn’t neutral”;_ books such as Race After Technology (2019), Invisible Woman (2019) and Data Feminism (2020) have highlighted the social and ethical impact of Statistics, Data Science and Artificial Intelligence (AI).
 
-> :bulb: Currently we are busy planning our next event, which will take place in April 2025.
+## Next session
+
+> 📖 Our next sessions will be on [Tuesday 29 April and Wednesday 14 May 2025 to discuss Supremacy by Parmy Olson](./Sessions/2025/04-25-session.md)
+>
+> ➡️ [SIGN UP HERE](https://app.tickettailor.com/events/dataethics/1549481)
 
 ## Who are we?
 
