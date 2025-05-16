@@ -51,7 +51,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) ||
 | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) |
 
-## On our radar: What we not yet read
+## On our radar
 
 | Title | Author | Year | Additional Info |
 |:--|:--|:--|:--|
