@@ -90,6 +90,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Signal and The Noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | *Nate Silver* | 2012 | |
 | [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/) | *Jenny Kennedy and Yolande Strengers* | 2020 | |
 | [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/) | *Tim Harford* | 2023 | |
+| [The Unaccountability Machine: Why Big Systems Make Terrible Decisions](https://profilebooks.com/work/the-unaccountability-machine/) | *Dan Davies*| 2024 | |
 | [Unmasking AI: My Mission to Protect What Is Human in a World of Machines](https://www.unmasking.ai/) | *Joy Buolamwini* | 2023 | |
 | [We The People: A Playbook for Data Ethics in a Democratic Society](https://technicspub.com/we-the-people/) | *Kathy Rondon* | 2022 | |
 | [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire) | *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* | 2021 | 💸 |
