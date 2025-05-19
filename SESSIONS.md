@@ -4,10 +4,10 @@ layout: default
 
 <center>
 <p align="center" style="font-size:22px">
-<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a>
 - <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
 </p>
 </center>
@@ -20,14 +20,14 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| April 2025 (TBC) | TBC |
 | November 2025 (TBC) | TBC |
 
 You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
-| [03.12.24, 13:30](./Sessions/2024/12-24-session.md) | [The Alignment Problem: How Can Artificial Intelligence Learn Human Values?](https://atlantic-books.co.uk/book/the-alignment-problem/) |
+| [29.04.25, 13:00; 14.05.26 12:30](./Sessions/2024/04-25-session.md) | [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) |
+| [03.12.24, 13:30](./Sessions/2024/12-24-session.md) | [The Alignment Problem](https://atlantic-books.co.uk/book/the-alignment-problem/) |
 | [04.09.24, 13:00](./Sessions/2024/09-24-session.md) | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
 | [04.06.24, 13:00](./Sessions/2024/06-24-session.md) | [Dark Data](https://darkdata.website/) |
 | [07.03.24, 12:00](./Sessions/2024/03-24-session.md) | [Technology Is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) |

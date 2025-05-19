@@ -4,10 +4,10 @@ layout: default
 
 <center>
 <p align="center" style="font-size:22px">
-<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a>
 - <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
 </p>
 </center>
@@ -47,8 +47,9 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) | *Sam Gilbert* | 2021 | ✅ [19.09.23, 12:00](./Sessions/2023/09-23-session.md)  |
 | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) | *Hannah Fry* | 2018 | ✅ [15.02.2022, 12:00](./Sessions/2022/02-22-session.md) |
 | [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/) | *Caroline Criado Perez* | 2019 | ✅ [06.09.22, 12:00](./Sessions/2022/09-22-session.md) |
+| [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) | *Parmy Olson* | 2024 | ✅ [29.04.25, 13:00; 14.05.25, 12:30](./Sessions/2025/04-25-session.md) |
 | [Technology is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | *Stephanie Hare* | 2022 | ✅ [07.03.24, 12:00](./Sessions/2024/03-24-session.md) |
-| [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) ||
+| [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) |
 | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) |
 
 ## On our radar: What we not yet read
@@ -80,7 +81,6 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Queer Data: Using Gender, Sex and Sexuality Data for Action](https://kevinguyan.com/queer-data/) | *Kevin Guyan* | 2022 | |
 | [Scary smart: the future of artificial intelligence and how you can save our world](https://www.mogawdat.com/scary-smart) | *Mo Gawdat* | 2021 | |
 | [Superintelligence: Paths, Dangers, Strategies](https://nickbostrom.com/) | *Nick Bostrom* | 2014 | |
-| [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) | *Parmy Olson* | 2024 | |
 | [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.sarawb.com/books) | *Sara Wachter-Boettch* | 2017 | |
 | [The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power](https://shoshanazuboff.com/book/about/) | *Shosana Zuboff* | 2018 | |
 | [The Coming Wave: Technology, Power and The Twenty-first Century’s Greatest Dilemma](https://www.the-coming-wave.com/) | *Mustafa Suleyman and Michael Bhaskar* | 2023 | |
