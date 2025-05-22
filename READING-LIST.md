@@ -52,7 +52,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) |
 | [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://mathbabe.org/) | *Cathy O'Neil* | 2016 | ✅ [15.05.23, 12:00](./Sessions/2023/05-23-session.md) |
 
-## On our radar: What we not yet read
+## On our radar
 
 | Title | Author | Year | Additional Info |
 |:--|:--|:--|:--|
@@ -86,10 +86,11 @@ The organisers then pick a handful of these books and get the community to vote 
 | [The Coming Wave: Technology, Power and The Twenty-first Century’s Greatest Dilemma](https://www.the-coming-wave.com/) | *Mustafa Suleyman and Michael Bhaskar* | 2023 | |
 | [The Digital Republic: On Freedom and Democracy in the 21st Century](https://www.bloomsbury.com/uk/digital-republic-9781526650412/) | *Jamie Susskind* | 2022 | |
 | [The Ethical Algorithm: The Science of Socially Aware Algorithm Design](https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207) | *Michael Keens, Aaron Roth* | 2019 | |
-| [The Signal and The Noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | *Nate Silver* | 2012 | |
 | [The Official History of Britain: Our Story in Numbers as Told by the Office For National Statistics](https://www.bibliophilebooks.com/officialhistoryofbritain) | *Boris Starling and D. Bradbury*| 2020 | |
+| [The Signal and The Noise](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) | *Nate Silver* | 2012 | |
 | [The Smart Wife: Why Siri, Alexa, and Other Smart Home Devices Need a Feminist Reboot](https://mitpress.mit.edu/9780262542791/the-smart-wife/) | *Jenny Kennedy and Yolande Strengers* | 2020 | |
 | [The Truth Detective: How to make sense of a world that doesn't add up](https://timharford.com/books/truthdetective/) | *Tim Harford* | 2023 | |
+| [The Unaccountability Machine: Why Big Systems Make Terrible Decisions](https://profilebooks.com/work/the-unaccountability-machine/) | *Dan Davies*| 2024 | |
 | [Unmasking AI: My Mission to Protect What Is Human in a World of Machines](https://www.unmasking.ai/) | *Joy Buolamwini* | 2023 | |
 | [We The People: A Playbook for Data Ethics in a Democratic Society](https://technicspub.com/we-the-people/) | *Kathy Rondon* | 2022 | |
 | [Your Computer Is On Fire](https://direct.mit.edu/books/edited-volume/5044/Your-Computer-Is-on-Fire) | *Edited by Thomas S. Mullaney, Benjamin Peters, Mar Hicks, Kavita Philip* | 2021 | 💸 |
