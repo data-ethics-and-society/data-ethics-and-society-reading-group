@@ -1,9 +1,9 @@
 <center>
 <p align="center" style="font-size:22px">
-<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a>
 - <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
 </p>
 </center>
@@ -14,15 +14,13 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 
 ## Next session
 
-> 📖 Our next sessions will be on [Tuesday 29 April and Wednesday 14 May 2025 to discuss Supremacy by Parmy Olson](./Sessions/2025/04-25-session.md)
->
-> ➡️ [SIGN UP HERE](https://www.tickettailor.com/events/dataethics/1549481?/r/github)
+> 📖 Our next sessions will be later in the year- keep an eye out for our [newsletter][LINK-TO-NEWSLETTER] to hear more.
 
 ## Who are we?
 
 <center><img src="assets/header.png" alt="logo" width="600"></center>
 
-The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books that relate to doing data science ethically. You can [contact us on xgov-data-ethics@proton.me](mailto:xgov-data-ethics@proton.me).
+The Data Ethics and Society Reading Group is a space for public sector colleagues to reflect on the ethical implications of our work. We read books that relate to doing data science ethically. You can [contact us on xgov-data-ethics@proton.me][EMAIL].
 
 > :memo: Read our code of conduct [here](./code-of-conduct.md).
 
@@ -36,13 +34,13 @@ We organise and sessions to cover two books a year. You can see what we have rea
 
 ## Stay in the loop
 
-Join our Substack [mailing list](https://xgovdataethics.substack.com/) to hear about upcoming events.
+Join our Substack [mailing list][LINK-TO-NEWSLETTER] to hear about upcoming events.
 
 We also hang out in the :sparkles: :arrow_right: [**#ethics** :arrow_left: :sparkles: channel of the cross-government data science slack workspace](https://govdatascience.slack.com).
 
 ## Get Involved
 
-If you're interested in joining us in organising, take a look at our [facilitating](./Guides/facilitating.md), [organising](./Guides/organising.md) and [tools](./Guides/tools.md) guides to see if it might be for you. Get in touch via [email](mailto:xgov-data-ethics@proton.me) if so.
+If you're interested in joining us in organising, take a look at our [facilitating](./Guides/facilitating.md), [organising](./Guides/organising.md) and [tools](./Guides/tools.md) guides to see if it might be for you. Get in touch via [email][EMAIL] if so.
 
 Interested in starting your own group at your organisation? All resources included in this repo are available under the terms of the [license](./LICENSE).
 
@@ -53,7 +51,7 @@ If you'd like to make a suggestion for what to read, please do so however you pr
 * [add a suggestion to our Google Forms](https://forms.gle/qvNVX1681hkW62Lj9)
 * [make an issue](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group/issues/new/choose) - use the suggestion(s) template.
 * make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
-* contact us via [email](mailto:xgov-data-ethics@proton.me)
+* contact us via [email][EMAIL]
 
 Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list](https://xgovdataethics.substack.com/) to vote on a book to be read at a futute event.
 
@@ -71,7 +69,7 @@ This group is exclusively for the UK public sector (central and local government
 
 > Microsoft Teams provides a live captioning feature for attendees to use. We encourage our speakers to design slides with accessibility in mind, and we will try our best to send the slides in advance.
 
-* If you have any suggestions or requests regarding accessibility features, please [email](mailto:xgov-data-ethics@proton.me) us.
+* If you have any suggestions or requests regarding accessibility features, please [email][EMAIL] us.
 
 ---
 
@@ -115,3 +113,6 @@ This project follows the [all-contributors](https://allcontributors.org/) specif
 ## License
 
 Unless stated otherwise, this is released under the [MIT License](./LICENSE).
+
+[LINK-TO-NEWSLETTER]: https://xgovdataethics.substack.com/
+[EMAIL]: mailto:xgov-data-ethics@proton.me
