@@ -102,7 +102,7 @@
         "content",
         "talk",
         "eventOrganizing"
-       ]
+      ]
     },
     {
       "login": "amelianoonan1-nhs",
@@ -111,6 +111,19 @@
       "profile": "https://github.com/amelianoonan1-nhs",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "henrybolshaw",
+      "name": "Henry Bolshaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72135527?v=4",
+      "profile": "https://github.com/henrybolshaw",
+      "contributions": [
+        "content",
+        "talk",
+        "review",
+        "ideas",
+        "eventOrganizing"
       ]
     }
   ]
