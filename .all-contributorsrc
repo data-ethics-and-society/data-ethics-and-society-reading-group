@@ -125,6 +125,28 @@
         "ideas",
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "henrybolshaw",
+      "name": "Henry Bolshaw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72135527?v=4",
+      "profile": "https://github.com/henrybolshaw",
+      "contributions": [
+        "content",
+        "talk",
+        "review",
+        "ideas",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "stevenjmesser",
+      "name": "stevenjmesser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23193154?v=4",
+      "profile": "https://github.com/stevenjmesser",
+      "contributions": [
+        "content"
+      ]
     }
   ]
 }
