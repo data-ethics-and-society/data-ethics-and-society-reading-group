@@ -102,7 +102,7 @@
         "content",
         "talk",
         "eventOrganizing"
-       ]
+      ]
     },
     {
       "login": "amelianoonan1-nhs",
@@ -111,6 +111,19 @@
       "profile": "https://github.com/amelianoonan1-nhs",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "nicolawright",
+      "name": "nicolawright",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151138699?v=4",
+      "profile": "https://github.com/nicolawright",
+      "contributions": [
+        "content",
+        "talk",
+        "review",
+        "ideas",
+        "eventOrganizing"
       ]
     }
   ]
