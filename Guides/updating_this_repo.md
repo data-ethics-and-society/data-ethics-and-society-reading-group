@@ -21,16 +21,17 @@ This can be done in at least three different ways:
   - `git branch` to check which branch you are currently on. You should not be on the `main` branch when making changes.
 
 ### 2. Use the GitHub web interface to edit files directly in the repository
-    - Navigate to the file you want to edit, click on the pencil icon to edit the file
-    - Make your changes and commit them directly in the web interface. Make sure you do not commit to the `main` branch directly.
-    - Use the "Propose changes" button to create a pull request
-    - This is useful for small changes or quick fixes
+
+- Navigate to the file you want to edit, click on the pencil icon to edit the file
+- Make your changes and commit them directly in the web interface. Make sure you do not commit to the `main` branch directly.
+- Use the "Propose changes" button to create a pull request
+- This is useful for small changes or quick fixes
 
 ### 3. Use GitHub codespaces to edit files in the repository in the browser
-    - Navigate to the repository and click on the "Code" button
-    - Select "Open with Codespaces" to create a new codespace
-    - This allows you to edit files in a full development environment in the browser
-    - Make your changes and commit them directly in the codespace, either using the terminal or the built-in editor (see terminal instructions above)
+- Navigate to the repository and click on the "Code" button
+- Select "Open with Codespaces" to create a new codespace
+- This allows you to edit files in a full development environment in the browser
+- Make your changes and commit them directly in the codespace, either using the terminal or the built-in editor (see terminal instructions above)
 
 ## How to create a new branch
 
