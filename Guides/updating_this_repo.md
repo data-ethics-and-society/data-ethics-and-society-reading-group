@@ -8,8 +8,8 @@ This can be done in at least three different ways:
 > For all of the following methods, make sure you create a new branch for your changes, and do not commit directly to the `main` branch. This is important to ensure that your changes can be reviewed and merged properly. See the [section below](#how-to-create-a-new-branch) on how to create a new branch.
 
 1. Clone the repository to your local machine, or cd into the repository if you already have it cloned
-    > [!TIP]
-    > If you're not familiar with the command line, you can use an editor like VSCode or PyCharm to open the repository and use their built-in terminal, or their GUI. Make sure you have Git installed, and the Git extension installed in your editor for better integration.
+> [!TIP]
+> If you're not familiar with the command line, you can use an editor like VSCode or PyCharm to open the repository and use their built-in terminal, or their GUI. Make sure you have Git installed, and the Git extension installed in your editor for better integration.
     - If you're using VSCode, you can open the repository by selecting "Open Folder"
           and navigating to the repository directory. The built-in terminal can be accessed via `View > Terminal`.
     - If you're using the terminal, you can use the following commands:
