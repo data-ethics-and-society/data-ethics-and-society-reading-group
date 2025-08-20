@@ -12,14 +12,13 @@ This can be done in at least three different ways:
 > [!TIP]
 > If you're not familiar with the command line, you can use an editor like VSCode or PyCharm to open the repository and use their built-in terminal, or their GUI. Make sure you have Git installed, and the Git extension installed in your editor for better integration.
 
-    - If you're using VSCode, you can open the repository by selecting "Open Folder"
-          and navigating to the repository directory. The built-in terminal can be accessed via `View > Terminal`.
-    - If you're using the terminal, you can use the following commands:
-        - `git clone <repository-url>` to clone the repository
-        - `cd <repository-name>` to change into the repository directory
-        - `git pull` to ensure you have the latest changes from the remote
-        - `git status` to check the status of your repository
-        - `git branch` to check which branch you are currently on. You should not be on the `main` branch when making changes.
+- If you're using VSCode, you can open the repository by selecting "Open Folder" and navigating to the repository directory. The built-in terminal can be accessed via `View > Terminal`.
+- If you're using the terminal, you can use the following commands:
+  - `git clone <repository-url>` to clone the repository
+  - `cd <repository-name>` to change into the repository directory
+  - `git pull` to ensure you have the latest changes from the remote
+  - `git status` to check the status of your repository
+  - `git branch` to check which branch you are currently on. You should not be on the `main` branch when making changes.
 
 3. Use the GitHub web interface to edit files directly in the repository
     - Navigate to the file you want to edit, click on the pencil icon to edit the file
