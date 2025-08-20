@@ -7,7 +7,7 @@ This can be done in at least three different ways:
 > [!IMPORTANT]
 > For all of the following methods, make sure you create a new branch for your changes, and do not commit directly to the `main` branch. This is important to ensure that your changes can be reviewed and merged properly. See the [section below](#how-to-create-a-new-branch) on how to create a new branch.
 
-1. Clone the repository to your local machine, or cd into the repository if you already have it cloned
+### 1. Clone the repository to your local machine, or cd into the repository if you already have it cloned
 
 > [!TIP]
 > If you're not familiar with the command line, you can use an editor like VSCode or PyCharm to open the repository and use their built-in terminal, or their GUI. Make sure you have Git installed, and the Git extension installed in your editor for better integration.
@@ -20,13 +20,13 @@ This can be done in at least three different ways:
   - `git status` to check the status of your repository
   - `git branch` to check which branch you are currently on. You should not be on the `main` branch when making changes.
 
-3. Use the GitHub web interface to edit files directly in the repository
+### 2. Use the GitHub web interface to edit files directly in the repository
     - Navigate to the file you want to edit, click on the pencil icon to edit the file
     - Make your changes and commit them directly in the web interface. Make sure you do not commit to the `main` branch directly.
     - Use the "Propose changes" button to create a pull request
     - This is useful for small changes or quick fixes
 
-4. Use GitHub codespaces to edit files in the repository in the browser
+### 3. Use GitHub codespaces to edit files in the repository in the browser
     - Navigate to the repository and click on the "Code" button
     - Select "Open with Codespaces" to create a new codespace
     - This allows you to edit files in a full development environment in the browser
