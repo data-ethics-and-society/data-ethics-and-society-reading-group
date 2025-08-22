@@ -4,10 +4,10 @@ layout: default
 
 <center>
 <p align="center" style="font-size:22px">
-<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a> 
-- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a> 
+<a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group">Home</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/SESSIONS.html">Sessions</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/Guides/guides.html">Guides</a>
+- <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/code-of-conduct.html">Code of Conduct</a>
 - <a href="https://data-ethics-and-society.github.io/data-ethics-and-society-reading-group/READING-LIST.html">Reading List</a>
 </p>
 </center>
@@ -37,8 +37,8 @@ More information on the tools we use can be found in our ['Tools'](./tools.md) p
 
 - [ ] Bring suggestions to organiser meetings, divide material up between organisers, and decide which material should be discussed at the next event
 - [ ] Decide date of next meeting
-- [ ] Create a [meeting information file](./../Sessions/session-template.md) in the `Sessions/` folder
-- [ ] Update the [meeting overview file](./../SESSIONS.md) with a link to the new meeting information page
+- [ ] Create a [meeting information file](./../Sessions/session-template.md) in the `Sessions/` folder- more details on how to do this can be found in the [`updating-this-repo.md`](./updating-this-repo.md) guide.
+- [ ] Update the [meeting overview file](./../SESSIONS.md) with a link to the new meeting information page- more details on how to do this can be found in the [`updating-this-repo.md`](./updating-this-repo.md) guide.
 - [ ] Create a sign-up form to manage attendees (using Ticket Tailor)
 - [ ] Produce a newsletter post promoting the event (using Substack)
 - [ ] Promote the event via the following channels:
@@ -62,7 +62,7 @@ More information on the tools we use can be found in our ['Tools'](./tools.md) p
 ### After the meeting
 
 - [ ] Upload [attendee numbers](/Sessions/attendance.csv)
-- [ ] Update GitHub session pages (e.g. remove session sign-up links, change icon on reading list)
+- [ ] Update GitHub session pages (e.g. remove session sign-up links, change icon on reading list)- more details on how to do this can be found in the [`updating-this-repo.md`](./updating-this-repo.md) guide.
 - [ ] Send thank you email
 
 ## Contributing

@@ -18,9 +18,13 @@ The dates for upcoming sessions are here, but discussion material will be shared
 
 An sign-up link will be sent out via Slack, as well as our [mailing list](https://xgovdataethics.substack.com/) so that we can keep attendance within a manageable number. We will meet on Microsoft Teams - please contact the organisers via [email](mailto:xgov-data-ethics@proton.me) if you do not receive an invite.
 
+## Upcoming Sessions
+
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
 | November 2025 (TBC) | TBC |
+
+## Previous Sessions
 
 You can see a record of what we have discussed here:
 

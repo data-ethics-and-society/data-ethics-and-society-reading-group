@@ -12,7 +12,7 @@ layout: default
 </p>
 </center>
 
-# Data Ethics & Society Reading Group 03-12-24, [13:30 GMT][LINK-TO-TIMEDATE]
+# Data Ethics & Society Reading Group 03-12-24, 13:30 GMT
 
 <!--
 TODO:
