@@ -12,7 +12,7 @@ layout: default
 </p>
 </center>
 
-# Data Ethics & Society Reading Group DD-MM-YY, MEETING-TIME GMT
+# Data Ethics & Society Reading Group 11/11/25 1pm and 26/11/25 2pm
 
 <!--
 TODO:
