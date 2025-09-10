@@ -14,7 +14,7 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 
 ## Next session
 
-> 📖 Our next sessions will be later in the year- keep an eye out for our [newsletter][LINK-TO-NEWSLETTER] to hear more.
+> 📖 Our next sessions will on 11th and 26th November - tickets are available [here][], or keep an eye out for our [newsletter][LINK-TO-NEWSLETTER] to hear more.
 
 ## Who are we?
 
