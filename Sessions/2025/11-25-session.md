@@ -60,5 +60,5 @@ Shall we email the author? If so, who'll send the email?
 
 <!--LINKS-->
 
-[LINK-TO-CONTENT]: [https://www.penguin.co.uk/books/442343/privacy-is-power-by-carissa-veliz/9780552177719]
-[LINK-TO-SIGNUP]: [https://www.tickettailor.com/events/dataethics/1836720]
+[LINK-TO-CONTENT]: https://www.penguin.co.uk/books/442343/privacy-is-power-by-carissa-veliz/9780552177719
+[LINK-TO-SIGNUP]: https://www.tickettailor.com/events/dataethics/1836720
