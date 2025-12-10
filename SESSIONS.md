@@ -31,7 +31,7 @@ You can see a record of what we have discussed here:
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
 | [29.11.25, 12:00; 26.11.25 13:00](./Sessions/2025/11-25-session.md)| [Privacy is Power](https://www.penguin.co.uk/books/442343/privacy-is-power-by-carissa-veliz/9780552177719)|
-| [29.04.25, 13:00; 14.05.26 12:30](./Sessions/2025/04-25-session.md) | [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) |
+| [29.04.25, 13:00; 14.05.25 12:30](./Sessions/2025/04-25-session.md) | [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) |
 | [03.12.24, 13:30](./Sessions/2024/12-24-session.md) | [The Alignment Problem](https://atlantic-books.co.uk/book/the-alignment-problem/) |
 | [04.09.24, 13:00](./Sessions/2024/09-24-session.md) | [Code Dependent](https://www.panmacmillan.com/authors/madhumita-murgia/code-dependent/9781529097306) |
 | [04.06.24, 13:00](./Sessions/2024/06-24-session.md) | [Dark Data](https://darkdata.website/) |
