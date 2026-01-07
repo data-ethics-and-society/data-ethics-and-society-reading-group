@@ -22,7 +22,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [TBC; more sessions planned for next year!] | [Suggestions always welcome](https://forms.gle/qvNVX1681hkW62Lj9) |
+| TBC; more sessions planned for next year! | [Suggestions always welcome](https://forms.gle/qvNVX1681hkW62Lj9) |
 
 ## Previous Sessions
 
