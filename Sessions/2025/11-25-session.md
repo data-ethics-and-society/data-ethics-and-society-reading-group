@@ -29,8 +29,6 @@ TODO:
 Usual time 12:00-13:00
 -->
 
-> 📝 :arrow_right: [**Sign up here!**][LINK-TO-SIGNUP]
-
 ## Description
 
 You're welcome to join us for our next Data Ethics & Society Reading Groups on either (or both of) 11th November at 12pm and 26th November at 1pm. This time we're going to read [Privacy is Power][LINK-TO-CONTENT] by Carissa Veliz, which was an Economist book of the year back in 2020. It's a powerful call to look rethink the data economy and radically change our data habits. It details how data collection erodes our privacy every day, and why this matters for our power and democracy.
