@@ -47,7 +47,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Good Data: An Optimist's Guide to Our Digital Future](https://gooddataguide.com/) | *Sam Gilbert* | 2021 | ✅ [19.09.23, 12:00](./Sessions/2023/09-23-session.md)  |
 | [Hello World: How to be Human in the Age of the Machine](https://hannahfry.co.uk/book/hello-world/) | *Hannah Fry* | 2018 | ✅ [15.02.2022, 12:00](./Sessions/2022/02-22-session.md) |
 | [Invisible Women: Exposing Data Bias in a World Designed for Men](https://carolinecriadoperez.com/book/invisible-women/) | *Caroline Criado Perez* | 2019 | ✅ [06.09.22, 12:00](./Sessions/2022/09-22-session.md) |
-| [Privacy is Power](https://www.penguin.co.uk/books/442343/privacy-is-power-by-carissa-veliz/9780552177719) | *Carissa Véliz* | 2020 | ✅ [29.11.25, 12:00; 26.11.25 13:00](./Sessions/2025/11-25-session.md) |
+| [Privacy is Power](https://www.penguin.co.uk/books/442343/privacy-is-power-by-carissa-veliz/9780552177719) | *Carissa Véliz* | 2020 | ✅ [11.11.25, 12:00; 26.11.25 13:00](./Sessions/2025/11-25-session.md) |
 | [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) | *Parmy Olson* | 2024 | ✅ [29.04.25, 13:00; 14.05.25, 12:30](./Sessions/2025/04-25-session.md) |
 | [Technology is Not Neutral: A Short Guide to Technology Ethics](https://www.harebrain.co/books) | *Stephanie Hare* | 2022 | ✅ [07.03.24, 12:00](./Sessions/2024/03-24-session.md) |
 | [The Alignment Problem: Machine Learning and Human Values](https://wwnorton.com/books/9780393635829) | *Brian Christian* | 2021 | ✅ [03.12.2024, 13:30](./Sessions/2024/12-24-session.md) |
