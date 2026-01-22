@@ -60,9 +60,9 @@ Several options here depending on how you are editing the repository:
   - These sections are meant to be filled in with the relevant information for the session
   - Make sure to remove the ALL-CAPS text once you have filled in the section
   - You can add the link to the content and the event at the bottom of the file, in the "Links" section
-- Update the session date and link to the new file with details in the [`README.md` file](../README.md/#next-session) and the [`SESSIONS.md` file](../SESSIONS.md/#upcoming-sessions)
+- Update the session date and link to the new file with details in the [`index.md` file](../index.md/#next-session) and the [`SESSIONS.md` file](../SESSIONS.md/#upcoming-sessions)
 
 ### After a session
 
-- Remove the sign-up form/event link from the [`README.md` file](../README.md/#next-session), the `MM-YY-session.md` file and the [`SESSIONS.md` file](../SESSIONS.md/#upcoming-sessions) if it's on there.
+- Remove the sign-up form/event link from the [`index.md` file](../index.md/#next-session), the `MM-YY-session.md` file and the [`SESSIONS.md` file](../SESSIONS.md/#upcoming-sessions) if it's on there.
 - Move the details of the session in the [`SESSIONS.md` file](../SESSIONS.md) to the ["Previous Sessions" section](../SESSIONS.md/#previous-sessions).
