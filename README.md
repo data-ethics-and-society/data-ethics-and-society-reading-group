@@ -53,7 +53,7 @@ If you'd like to make a suggestion for what to read, please do so however you pr
 * make a Pull Request (PR) on [our repository](https://github.com/ukgovdatascience/data-ethics-and-society-reading-group)
 * contact us via [email][EMAIL]
 
-Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list](https://xgovdataethics.substack.com/) to vote on a book to be read at a futute event.
+Suggestions will be viewed by the organisers and several times a year we will ask those signed-up to our [mailing list][LINK-TO-NEWSLETTER] to vote on a book to be read at a future event.
 
 ## Attendance
 
