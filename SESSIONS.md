@@ -22,7 +22,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| TBC; more sessions planned for next year! | [Suggestions always welcome](https://forms.gle/qvNVX1681hkW62Lj9) |
+| [13.5.26, 12:00](./Sessions/2026/05-26-session.md) | [The AI Con](https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781847928610) and [The Machine Stops](https://en.wikisource.org/wiki/The_Machine_Stops)|
 
 ## Previous Sessions
 

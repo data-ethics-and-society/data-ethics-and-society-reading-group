@@ -18,7 +18,7 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 
 ## Next session
 
-> 📖 Our next sessions will be in the new year - keep an eye out for our [newsletter][LINK-TO-NEWSLETTER] to hear more.
+> 📖 We will be discussing [The AI Con](https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781847928610) and [The Machine Stops](https://en.wikisource.org/wiki/The_Machine_Stops) on Tuesday 13 May. [Please join us at the session!](https://www.tickettailor.com/events/dataethics/2129527/r/github)
 
 ## Who are we?
 
