@@ -33,7 +33,7 @@ Usual time 12:00-13:00
 
 ## Description
 
-You're welcome to join us for our next Data Ethics & Society Reading Group on Tuesday the 13 May at 12:00-13:00. This time we're going to read two books, written over 100 years apart that are still as relevant as each other: a century-old piece of speculative fiction and a sharp critique of the AI industry.
+You're welcome to join us for our next Data Ethics & Society Reading Group on Wednesday 13 May at 12:00-13:00. This time we're going to read two books, written over 100 years apart that are still as relevant as each other: a century-old piece of speculative fiction and a sharp critique of the AI industry.
 
 The books are: 
 - [The AI Con][LINK-TO-CONTENT1] by Emily M. Bender and Alex Hanna, which offers a sceptical account of how artificial intelligence is being packaged and sold and asks who really benefits from the hype.
