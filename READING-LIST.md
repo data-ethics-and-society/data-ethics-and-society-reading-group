@@ -68,6 +68,7 @@ The organisers then pick a handful of these books and get the community to vote 
 | [Deepfakes and the Infocalypse: What You Urgently Need To Know](https://ninaschick.org/deepfakes/) | *Nina Schick* | 2020 | |
 | [Deep Medicine](https://drerictopol.com/portfolio/deep-medicine/) | *Eric Topol* | 2019 | |
 | [Don't Be Evil: The Case Against Big Tech](https://www.ranaforoohar.com/dontbeevil) | *Rana Foroohar* | 2019 | |
+| [Doctor Bot](https://yalebooks.co.uk/book/9780300247145/dr-bot/) | *Charlotte Blease* | 2025 | |
 | [Ethics of Digital Well-Being](https://link.springer.com/book/10.1007/978-3-030-50585-1) | *Luciano Floridi* | 2020 | |
 | [Exponential: Order and Chaos in an Age of Accelerating Technology](https://www.exponentialview.co/p/my-book) | *Azeem Azhar* | 2021 | |
 | [Factfulness: Ten reasons we're wrong about the world](https://www.goodreads.com/en/book/show/34890015) | *Hans Rosling* | 2018 | |
