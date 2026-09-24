@@ -147,6 +147,33 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "saraharnoldni",
+      "name": "saraharnoldni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269185029?v=4",
+      "profile": "https://github.com/saraharnoldni",
+      "contributions": [
+        "content",
+        "talk",
+        "review",
+        "ideas",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "rcatlord",
+      "name": "rcatlord",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12719575?v=4",
+      "profile": "https://github.com/rcatlord",
+      "contributions": [
+        "code",
+        "content",
+        "talk",
+        "review",
+        "ideas",
+        "eventOrganizing"
+      ]
     }
   ]
 }
