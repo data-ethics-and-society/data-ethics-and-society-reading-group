@@ -18,7 +18,7 @@ _“Data Science isn’t neutral”;_ books such as Race After Technology (2019)
 
 ## Next session
 
-> 📖 We will be discussing [Klara and the Sun](https://www.faber.co.uk/product/9780571364909-klara-and-the-sun/) on Wednesday 25 November. [Please join us at the session!](#)
+> 📖 We will be discussing [Klara and the Sun](https://www.faber.co.uk/product/9780571364909-klara-and-the-sun/) on Wednesday 25 November. [Please join us at the session!](https://buytickets.at/dataethics/2445478/r/github)
 
 ## Who are we?
 

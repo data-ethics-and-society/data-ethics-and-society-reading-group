@@ -57,4 +57,4 @@ Shall we email the author? If so, who'll send the email?
 <!--LINKS-->
 
 [LINK-TO-CONTENT]: https://www.faber.co.uk/product/9780571364909-klara-and-the-sun/
-[LINK-TO-SIGNUP]: #
+[LINK-TO-SIGNUP]: https://buytickets.at/dataethics/2445478/r/github
