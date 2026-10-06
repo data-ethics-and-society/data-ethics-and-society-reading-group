@@ -22,7 +22,7 @@ An sign-up link will be sent out via Slack, as well as our [mailing list](https:
 
 | Upcoming Sessions                                        | Discussion Material                   |
 |----------------------------------------------------------|---------------------------------------|
-| [13.5.26, 12:00](./Sessions/2026/05-26-session.md) | [The AI Con](https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781847928610) and [The Machine Stops](https://en.wikisource.org/wiki/The_Machine_Stops)|
+| [25.11.26, 12:00](./Sessions/2026/11-26-session.md) | [Klara and the Sun](https://www.faber.co.uk/product/9780571364909-klara-and-the-sun/) |
 
 ## Previous Sessions
 
@@ -30,6 +30,8 @@ You can see a record of what we have discussed here:
 
 | Previous Meetings | Discussion Material |
 |-------------------|---------------------|
+| [16.9.26, 12:00](./Sessions/2026/09-26-session.md) | [We Are Not Machines: The Fight for the Future of Work](https://www.penguin.co.uk/books/462159/we-are-not-machines-by-oconnor-sarah/9780241704226)|
+| [13.5.26, 12:00](./Sessions/2026/05-26-session.md) | [The AI Con](https://www.penguin.co.uk/books/468070/the-ai-con-by-hanna-emily-m-bender-and-alex/9781847928610) and [The Machine Stops](https://en.wikisource.org/wiki/The_Machine_Stops)|
 | [11.11.25, 12:00; 26.11.25 13:00](./Sessions/2025/11-25-session.md)| [Privacy is Power](https://www.penguin.co.uk/books/442343/privacy-is-power-by-carissa-veliz/9780552177719)|
 | [29.04.25, 13:00; 14.05.25 12:30](./Sessions/2025/04-25-session.md) | [Supremacy](https://www.panmacmillan.com/authors/parmy-olson/supremacy/9781035038220) |
 | [03.12.24, 13:30](./Sessions/2024/12-24-session.md) | [The Alignment Problem](https://atlantic-books.co.uk/book/the-alignment-problem/) |
