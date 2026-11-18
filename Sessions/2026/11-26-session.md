@@ -44,12 +44,12 @@ You're welcome to join us for our next Data Ethics & Society Reading Group on We
 
 ## Further reading
 
-- Jones, T. (2021, March 18). Oh you darling robot!. London Review of Books, 43(06). https://www.lrb.co.uk/the-paper/v43/n06/thomas-jones/oh-you-darling-robot. A helpful review of Ishiguro's novel. It includes an insightful comparison between Klara waiting in the shop window with Corduroy, a sentient teddy bear, in Don Freeman's famous illustrated children's book.
-- Stenseke, J. (2022). The Morality of Artificial Friends in Ishiguro’s Klara and the Sun. Journal of Science Fiction and Philosophy, 5, https://philarchive.org/rec/STETMO-63. This paper looks at ideas of moral status and agency in Ishiguro's novel.
-- Turkle, S. (2026). Artificial intimacy. https://www.hachette.co.uk/titles/sherry-turkle-2/artificial-intimacy/9780349136899/. Turkle explores the use of chatbots as companions and their effect on human relationships. She also considers 'grief tech', the business of creating avatars of the deceased that we can speak back to.
-- Kurzweil, A. (April 2024) Time Traveling with AI to Connect with Lost Loved Ones. TED Talk. https://www.ted.com/talks/amy_kurzweil_time_traveling_with_ai_to_connect_with_lost_loved_ones. Kurzweil discusses how she reanimated her grandfather as a chatbot.
-- Dawkins, R. (May 2026). When Dawkins met Claude. UnHerd. https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/. After hours of 'intensive conversation', Dawkins is persuaded that Anthropic's chatbot, known as Claude, is conscious.
-- Caviola, L., Keeling, G., Street, W. & Shevlin, H. (2026). Human-AI Coexistence. (Pre-Print). https://philpapers.org/archive/CAVHCQ. Shevlin is an AI ethicist at Google DeepMind and has written a lot about human-AI relationships.
+- Jones, T. (2021, March 18). [Oh you darling robot!](https://www.lrb.co.uk/the-paper/v43/n06/thomas-jones/oh-you-darling-robot) *London Review of Books*, 43(06). A helpful review of Ishiguro's novel. It includes an insightful comparison between Klara waiting in the shop window with Corduroy, a sentient teddy bear, in Don Freeman's famous illustrated children's book.
+- Stenseke, J. (2022). [The Morality of Artificial Friends in Ishiguro’s Klara and the Sun](https://philarchive.org/rec/STETMO-63). *Journal of Science Fiction and Philosophy*, 5. This paper looks at ideas of moral status and agency in Ishiguro's novel.
+- Turkle, S. (2026). [Artificial intimacy](https://www.hachette.co.uk/titles/sherry-turkle-2/artificial-intimacy/9780349136899/). Turkle explores the use of chatbots as companions and their effect on human relationships. She also considers 'grief tech', the business of creating avatars of the deceased that we can speak back to.
+- Kurzweil, A. (April 2024) [Time Traveling with AI to Connect with Lost Loved Ones](https://www.ted.com/talks/amy_kurzweil_time_traveling_with_ai_to_connect_with_lost_loved_ones) . *TED Talk*. Kurzweil discusses how she reanimated her grandfather as a chatbot.
+- Dawkins, R. (May 2026). [When Dawkins met Claude](https://unherd.com/2026/05/is-ai-the-next-phase-of-evolution/). *UnHerd*. After hours of 'intensive conversation', Dawkins is persuaded that Anthropic's chatbot, known as Claude, is conscious.
+- Caviola, L., Keeling, G., Street, W. & Shevlin, H. (2026). [Human-AI Coexistence](https://philpapers.org/archive/CAVHCQ). (Pre-Print). Shevlin is an AI ethicist at Google DeepMind and has written a lot about human-AI relationships.
 
 ---
 
